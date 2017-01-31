@@ -1,45 +1,79 @@
 {
-  "author": "Land Portal Partnership", 
-  "author_email": "hello@landportal.info", 
-  "download_url": "http://landportal.info/landmatrix/get-the-detail/database.csv", 
+  "author": "Land Portal Partnership",
+  "author_email": "hello@landportal.info",
+  "download_url": "http://landportal.info/landmatrix/get-the-detail/database.csv",
   "extras": {
     "temporal": "start=2000;"
-  }, 
-  "id": "015624f0-4251-452c-829a-1990a715ca2b", 
-  "license": "Creative Commons Non-Commercial (Any)", 
-  "maintainer": "", 
-  "maintainer_email": "", 
-  "name": "land-matrix", 
-  "relationships": [], 
+  },
+  "id": "015624f0-4251-452c-829a-1990a715ca2b",
+  "license": "Creative Commons Non-Commercial (Any)",
+  "maintainer": "",
+  "maintainer_email": "",
+  "name": "land-matrix",
+  "format": "csv",
+  "datapackage_version": "2.0.0",
+  "version": "",
+  "tags": [],
+  "title": "Land Matrix",
+  "url": "http://landportal.info/landmatrix",
+  "relationships": [],
   "resources": [
     {
-      "cache_last_updated": null, 
-      "cache_url": "", 
-      "created": "2012-04-29T16:40:48.579281", 
-      "description": "", 
-      "format": "csv", 
-      "hash": "", 
-      "id": "f46a9192-cf2b-410e-b4f7-dc80538e5541", 
-      "last_modified": null, 
-      "mimetype": "text/csv", 
-      "mimetype_inner": "", 
-      "name": "Complete dataset (CSV)", 
-      "package_id": "015624f0-4251-452c-829a-1990a715ca2b", 
-      "position": 0, 
-      "resource_group_id": "eb6b828a-65f2-4486-92e8-912f1d5d3e8f", 
-      "resource_type": "file", 
-      "size": "128895", 
+      "cache_last_updated": null,
+      "cache_url": "",
+      "created": "2012-04-29T16:40:48.579281",
+      "description": "",
+      "format": "csv",
+      "hash": "",
+      "id": "f46a9192-cf2b-410e-b4f7-dc80538e5541",
+      "last_modified": null,
+      "mimetype": "text/csv",
+      "mimetype_inner": "",
+      "name": "Complete dataset (CSV)",
+      "package_id": "015624f0-4251-452c-829a-1990a715ca2b",
+      "position": 0,
+      "resource_group_id": "eb6b828a-65f2-4486-92e8-912f1d5d3e8f",
+      "resource_type": "file",
+      "size": "128895",
       "tracking_summary": {
-        "recent": 0, 
+        "recent": 0,
         "total": 0
-      }, 
-      "url": "http://landportal.info/landmatrix/get-the-detail/database.csv", 
-      "webstore_last_updated": null, 
-      "webstore_url": "enabled"
+      },
+      "url": "http://landportal.info/landmatrix/get-the-detail/database.csv",
+      "webstore_last_updated": null,
+      "webstore_url": "enabled",
+      "path": "data/database.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Investor 1",
+            "type": "string",
+            "index": "not_analyzed"
+          }, {
+            "name": "Investor Region 1",
+            "type": "string",
+            "index": "not_analyzed"
+          }, {
+            "name": "Target Region",
+            "type": "string",
+            "index": "not_analyzed"
+          }, {
+            "name": "Target Country",
+            "type": "string",
+            "index": "not_analyzed"
+          }, {
+            "name": "Year",
+            "type": "integer"
+          }, {
+            "name": "Hectares",
+            "type": "integer"
+          }, {
+            "name": "Inv. Sector 1",
+            "type": "string",
+            "index": "not_analyzed"
+          }
+        ]
+      }
     }
-  ], 
-  "tags": [], 
-  "title": "Land Matrix", 
-  "url": "http://landportal.info/landmatrix", 
-  "version": ""
+  ]
 }
