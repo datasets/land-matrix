@@ -1,7 +1,6 @@
 {
   "author": "Land Portal Partnership",
   "author_email": "hello@landportal.info",
-  "download_url": "http://landportal.info/landmatrix/get-the-detail/database.csv",
   "extras": {
     "temporal": "start=2000;"
   },
@@ -11,12 +10,19 @@
   "maintainer_email": "",
   "name": "land-matrix",
   "format": "csv",
-  "datapackage_version": "2.0.0",
+  "datapackage_version": "2.0.1",
   "version": "",
   "tags": [],
   "title": "Land Matrix",
-  "url": "http://landportal.info/landmatrix",
+  "description": "A global and independent land monitoring initiative",
+  "url": "http://landmatrix.org/",
   "relationships": [],
+  "sources": [
+    {
+      "name": "landmatrix.org",
+      "web": "http://landmatrix.org/en/about/"
+    }
+  ],
   "resources": [
     {
       "cache_last_updated": null,
@@ -34,12 +40,12 @@
       "position": 0,
       "resource_group_id": "eb6b828a-65f2-4486-92e8-912f1d5d3e8f",
       "resource_type": "file",
-      "size": "128895",
+      "size": "1809778",
       "tracking_summary": {
         "recent": 0,
         "total": 0
       },
-      "url": "http://landportal.info/landmatrix/get-the-detail/database.csv",
+      "url": "http://landmatrix.org/get-the-detail/database.csv?download_format=csv",
       "webstore_last_updated": null,
       "webstore_url": "enabled",
       "path": "data/database.csv",
