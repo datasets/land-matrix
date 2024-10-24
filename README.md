@@ -1,3 +1,5 @@
+<a href="https://datahub.io/core/land-matrix"><img src="https://badgen.net/badge/icon/View%20on%20datahub.io/orange?icon=https://datahub.io/datahub-cube-badge-icon.svg&label&scale=1.25)" alt="badge" /></a>
+
 The Land Matrix dataset is a public database of large-scale land deals. It provides records documenting land deals since 2000.
 
 As of April 2012 the data available represents about 50% of the entire data base. The remaining deals are being crosschecked and added, together with new data provided, on an on-going basis.
