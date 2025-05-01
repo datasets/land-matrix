@@ -4284,7 +4284,7 @@ In April 2019 PZ Cussons sold its 28% share in Norpalm (https://www.pzcussons.co
 37490;Afram Plantation Ltd;Ghana;Private company;;;Afram Plantation Ltd is part of the Global Environment Fund (GEF). GEF established the Africa Sustainable Forestry Fund I. In 2017 the management of ASFF was taken over by Criterion Africa Partners (CAP), which is a spin-off from GEF. However, Afram Plantation is no longer mentioned by Criterion, whereas other investments such as Peak Timbers and Kilombero Valley are listed.
 37491;Cape Pine Investment Holdings (CPIH);South Africa;Private company;;;
 37500;Pemba Sun;Mozambique;Private company;;;
-37501;Mai Ndombe REDD+ Project;Congo, Dem. Rep.;Private company;;;
+37501;Wildlife Works Carbon LLC;United States of America;Private company;https://www.wildlifeworks.com/;;Wildlife Works is the carbon market's leading REDD+ project development and management company, applying innovative market-based solutions to the conservation of biodiversity. Over a 15-year history, Wildlife Works established a successful model that uses the emerging marketplace for REDD+ to protect threatened forests and wildlife, and uplift impoverished local communities. The company is recognized for developing the world's first REDD+ project to successfully achieve issuance of REDD+ carbon credits under the VCS and CCBA standards.
 37504;Dawei Development Company Limited;Myanmar;Private company;;;
 37505;Biodiesel East Africa Ltd.;Tanzania;Private company;;;
 37506;Aslan Group Tanzania Ltd.;Tanzania;Private company;;https://opencorporates.com/companies/tz/86649;
@@ -5209,7 +5209,9 @@ Golden Sugar Company is a wholly owned subsidiary of Flour Mills of Nigeria Plc,
 38779;SC Holder Trade SRL;Romania;Private company;;;
 38780;SC Agrolact A.C.T. Jibert SRL;Romania;Private company;;;
 38781;SC Vis Agri SRL;Romania;Private company;;;
-38782;SC Sadelli Prodcom SRL;Romania;Private company;;;
+38782;SC Sadelli Prodcom LLC;Romania;Private company;;;"Fiscal Code 7160700,
+Registry No. J05/428/1995, 
+EUID ROONRC.J5/428/1995"
 38783;SC Agrocom Strunga;Romania;Private company;;;
 38784;Unknown (The Green Rich Co., Ltd. , in Cambodia, 38784);Cambodia;Private company;;;
 38785;SC Interagro SRL;Romania;Private company;;;
@@ -5272,7 +5274,9 @@ EUID ROONRC.J27/125/2006."
 38853;S.C. Agrirom S.R.L.;Romania;Private company;;;
 38854;S.C.  Agroindustriala Sinagro Sannicolau Mare S.A.;Romania;Private company;;;
 38855;S.C. Agrocapital S.R.L.;Romania;Private company;;;
-38856;S.C. Agricola Moldova Tiganasi;Romania;Private company;;;
+38856;Moldova Tiganasi JSC;Romania;Private company;;;"Fiscal Code 1943036,
+Registry No.	J22/2489/2021,
+EUID	ROONRC.J22/2489/2021"
 38857;S.C. Agro Nevada Tim S.R.L.;Romania;Private company;;;
 38858;S.C. Zahar Corabia S.A.;Romania;Private company;;;
 38859;S.C. Longin S.R.L.;Romania;Private company;;;
@@ -5306,7 +5310,9 @@ EUID ROONRC.J27/125/2006."
 38889;Ndamware Highland Tea Estate;Cameroon;Private company;;;
 38890;Mtemadanga Distributors Limited;Malawi;Private company;;;
 38891;Limphasa Sugar Corporation;Malawi;Private company;http://www.limphasa.com/;;Owned by British and Malawian investors. 
-38892;SC Agripe SRL;Romania;Private company;;;
+38892;SC Agri PE LLC;Romania;Private company;;;"Fiscal Code	22576498,  
+Registry No.	J07/109/2010,
+EUID	ROONRC.J7/109/2010"
 38893;Unknown (Nyasa Limited);Malawi;Private company;;;
 38894;Babator Farming Company;Ghana;Private company;https://www.agdevco.com/our-investments/by-investment/Babator-Farming-Company-BFC;;Oba Pack Company Limited, purchased the Babator Farming Company Limited (BFC) on 31 December 2021. Prior to the sale, AgDevCo Limited was the sole owner of BFC. AgDevCo was assisted by Open Capital Group Limited during the tender process to sell BFC. Charles Russell Speechlys in the UK and SESI LEGAL in Ghana provided legal support.
 38895;Solagrow PLC;Ethiopia;Private company;;;
@@ -8346,7 +8352,6 @@ The final beneficiary owner (controller)	Budzinskyy Viktor Bronislavovych (Ukrai
 42090;Unknown (Government of Belarus);Zimbabwe;;;;
 42091;Jochen Zeitz;;;;;
 42092;Segera Ranch;Kenya;;;;
-42093;Unknown (Dümmen Orange);Ethiopia;;;;
 42094;Dümmen Orange;Netherlands;;https://africa.dummenorange.com/site/en/about-us/our-values;https://opencorporates.com/companies/nl/57754950;
 42095;Unknown (ESV Group plc);Mozambique;;;;
 42096;Promasidor Nigeria Limited (PNL);Nigeria;Private company;http://www.promasidor.com/;https://opencorporates.com/companies/im/005025F;Formerly known as Wonder Foods Nigeria
@@ -9268,7 +9273,7 @@ Non-govt company"
 43036;Norsudtimber Aktiengesellschaft;Liechtenstein;Private company;;;"Business registration: FL-0002.210.454-3 on 13 December 2006 (https://www.oera.li/cr-portal/auszug/auszug.xhtml?uid=FL-0002.210.454-3)
 Precious Woods Holdings bought a 5% share in Norsudtimber in 2007, but sold this to the majority shareholder (Realwood) in March 2020 for EUR 1 million according to the 2019 annual report of precious woods. (https://www.preciouswoods.com/domains/preciouswoods_com/data/free_docs/Annual%20Report_PdfWeb%20EN_2019.pdf)"
 43037;Kreglinger;Belgium;Private company;;https://opencorporates.com/companies/be/0420370482;De internationale poot van het 220 jaar oude Antwerpse havenhuis Kreglinger.
-43038;Congo Emissions Management;United States of America;Private company;https://www.congoemissions.com/;https://opencorporates.com/companies/us_pa/4370658;Established by Donald Tuttle, managed by Daniel, Brandon, James and David Blattner
+43038;Congo Emissions Management;United States of America;Private company;https://www.congoemissions.com/;https://opencorporates.com/companies/us_pa/4370658;Congo Emissions Management is joint venture created by Daniel Blattner, the director of Safbois, Donald Tuttle (founder of Jadora LLC).
 43039;Department of Housing and Urban Development (DHUD);Myanmar;Government;;;
 43040;Global Sae-A Co., Ltd;Korea, Dem. People's Rep.;Private company;http://www.sae-a.com/eng/main/main;;
 43041;Korea Myanmar Industrial Complex Co., Ltd;Korea, Dem. People's Rep.;Semi state-owned company;;;Korea Myanmar Industrial Complex Co., Ltd (KMIC) is a joint venture between the Government of Myanmar (GoM) through the Department of Housing and Urban Development (DHUD) under the Ministry of Construction (MoC) and a consortium of two Korean companies (LH Consortium) LH and Global Sae-A Co., Ltd (Sae-A).
@@ -11556,7 +11561,7 @@ Note: Spelling of investor name can vary from Trung Nam or Trungnam"
 45793;Bruboer (Pty) Ltd;South Africa;Private company;;;
 45794;Renewable Cookhouse Wind Farm 1 (RF) (Pty) Ltd;South Africa;;https://cookhousewind.co.za/;;"Renewable Cookhouse Wind Farm 1 (RF) Pty Ltd (owned by Old Mutual, AIIM, and Local Community Trust)
 Local Community Trust (25% ownership, exceeding government target)"
-45795;Amakhala Emoyeni Cookhouse Wind Farm Community Trust;South Africa;;;;
+45795;Cookhouse Wind Farm Community Trust;South Africa;;;;A community trust that owns 25% of the project, a stake five times higher than the minimum target set by the government for community ownership.
 45798;BIODIVERSITY DEVELOPMENTS LTD;United Kingdom of Great Britain and Northern Ireland;Private company;;;
 45799;Green Initiative Ltd (GRIN );United Kingdom of Great Britain and Northern Ireland;Private company;;;
 45800;Albanian Ministry of Tourism and Environment;Albania;State-/government (owned) company;;;
@@ -11575,6 +11580,7 @@ Local Community Trust (25% ownership, exceeding government target)"
 Previously named Silay Solar Power Inc."
 45825;Mainstream Renewable Power;Ireland;Private company;https://www.mainstreamrp.com/about-us/what-we-do/;;
 45827;Futuregrowth Asset Management;South Africa;;;;
+45828;Loeriesfontein 2 Renewable Energy Community Trust;South Africa;;;;
 45829;Genesis Eco-Energy in partnership with Lereko Metier Sustainable Capital;South Africa;;;;
 45838;Sigma Lithium Resources Corp.;Canada;Private company;https://sigmalithiumresources.com;;Sigma Lithium is a company listed on the Toronto Stock Exchange and Nasdaq. The company was founded in Canada in 2011. It explores lithium in the state of Minas Gerais (Brazil).
 45839;Sigma Lithium Holdings Inc;Canada;Private company;https://sigmalithiumresources.com;;In Brazil, the business operations of Sigma Lithium Resources Corp. are managed by Sigma Lithium Holdings Inc (registered with the National Registry of Legal Entities CNPJ: 27.748.229/0001-65). Sigma Lithium Resources Corp. controls Sigma Lithium Holdings Inc.
@@ -11600,9 +11606,10 @@ De acuerdo con EDP Renewables participan en el mercado de generación de energí
 45846;Fort Pilar Energy Inc. (FPEI);Philippines;Private company;;;FORT Pilar Energy, Inc., a firm owned by the family of House Deputy Speaker Michael “Mikee” L. Romero, has spent P1.5 billion to acquire Alterpower Digos Solar, Inc. (ADSI), which runs a 28.59-megawatt (MW) solar plant in Digos, Davao del Sur.
 45847;aDryada;France;;https://adryada.com/;;
 45848;Agromap;Côte d'Ivoire;;https://agro-map.com/;;
+45850;PERDEKRAAL EAST RENEWABLE ENERGY COMMUNITY TRUST;South Africa;;;;
 45851;South Africa Mainstream Renewable Power Loeriesfontein (Pty) Ltd;South Africa;Private company;;;
 45852;CEZ Group;Czech Republic;Semi state-owned company;https://www.cez.cz/en/home;;ČEZ majority shareholder is the Czech government, owning 70% of shares. Capital Group Companies invested 2.98% into ČEZ Group.
-45853;Cennergi Holdings The Tsitsikamma Community Wind Farm;South Africa;;https://cennergi.com/;;
+45853;Tsitsikamma Community Wind Farm;South Africa;;https://cennergi.com/;;
 45854;Tsitsikamma Development Trust;South Africa;Non - Profit organization (e.g. Church, University etc.);;;
 45855;Exxaro Resources;South Africa;;;;
 45857;Neoen;Argentina;Private company;https://neoen.com/es/;;
@@ -12673,9 +12680,36 @@ EUID	ROONRC.J1/689/2008"
 47135;KfW Development Bank;Germany;Investment Bank;;;
 47136;Ocean Renewable Energy Joint Stock Company (ORP JSC);Vietnam;Private company;https://daiduong.net.vn/en/linh-vuc/Energy.html;;Ocean Renewable Energy Joint Stock Company (ORP JSC) is a Vietnamese company specializing in renewable energy, particularly wind power, and is the owner of the Cau Dat Wind Farm, a project developed in partnership with GE Renewable Energy.
 47137;Theparak Wind Co., Ltd;Thailand;Private company;;;The T1 Wind farm is developed by Theparak Wind Co., Ltd, Thailand. Theparak Wind Co., Ltd is a subsidiary of Wind Energy Holding Co., Ltd.
+47147;Netra Wind Private Limited;India;Private company;;;Netra Wind Private Limited, a wholly owned subsidiary of Alfanar Company KSA, operates a 301.6 MW wind farm in Gujarat, India.
+47148;Alfanar Company KSA;India;Private company;;;
+47149;Alfanar Projects;Saudi Arabia;Asset management firm;https://alfanarprojects.com/en-us/;;Alfanar is a family-owned Saudi Arabia-based group, with the main promoters being three brothers - Mr. Abdul Salam Al Multaq, Mr. Sabah Mohammad Al Multaq, and Mr. Hisham Mohammad Al Multaq.
 47150;Megasolis Renewables Private Limited (MRPL);India;Private company;;;"Megasolis Renewables Private Limited (MRPL), formerly Mahindra Renewables Private Limited, was a wholly owned subsidiary of Mahindra Susten Private Limited. It currently operates at 250MW solar power plant in Bhiv Ji Ka Gaon village in Bap Tehsil, Jodhpur, Rajasthan (Data Source 1, Page 3; Data Source 2)."
 47151;Goldman Sachs Group, Inc.;United States of America;Investment Bank;https://www.goldmansachs.com/;;The Goldman Sachs Group, Inc. is an American multinational investment bank and financial services company.
 47164;Seriti Green;South Africa;Private company;;;
 47165;VennEnergy;South Africa;Private company;https://www.vennenergy.com/;;
 47166;Ishwati Emoyeni Wind Farm (RF) (Pty) Ltd;South Africa;Private company;;;
 47167;Reatile Renewables;South Africa;Investment fund;;;
+47177;Impofu East Wind Farm;South Africa;Other;;;
+47178;Impofu West Farm;South Africa;Other;;;
+47201;Brazilian Forestry Empreendimentos Florestais Ltda.;Brazil;Private company;;;
+47202;Antônio Lucena Barros;Brazil;Individual entrepreneur;;;
+47203;Seringal São Miguel SPE Ltda.;Brazil;Private company;;;
+47225;Jah Agro Farm;Gambia, The;Private company;;;Domestic company
+47228;Fundación Proyecto Titi;Colombia;Non - Profit organization (e.g. Church, University etc.);https://www.proyectotiti.com/es-es/;;
+47229;Antofalla Minerals S.A. (AMSA);Argentina;;;;
+47230;Greenwing Resources Ltd;Australia;Private company;https://greenwingresources.com/;;
+47232;Mainstream Renewable Power Perdekraal East (Pty) Ltd;South Africa;Private company;;;
+47234;Copperton Wind Farm (Pty) Ltd.;South Africa;Private company;;;
+47235;Copperton Community Trust;South Africa;;;;
+47236;Societe Africaine du Bois S.P.R.L. (Safbois);Congo, Dem. Rep.;Private company;;;"Societe Africaine du Bois (Safbois) SPRL is a Congolese logging company that produces selectively logged, exotic hardwood timber and timber products. Safbois owns the timber rights to the project location and provides Jadora with in-country assistance for all aspects of the carbon project. This assistance includes access to facilities and equipment at the project site, transportation and other logistics inside the RDC. Safbois’ affiliate in the United States is American Trading Company. 
+
+The company is owned by Daniel Blattner, who is also the president of Congo Emission Management. The company is related to  Groupe Blattner Elwyn (GBE)."
+47237;Fundación AMÉ;Colombia;Other;https://www.fundacioname.org/quienes-somos/;;Fundación AMÉ is a civil, non-profit organization dedicated to the conservation and sustainable management of the Bosque de Galilea in Tolima, Colombia.
+47238;Forestaciones Operativas de Mexico S.A. De C.V. (FOMEX);Mexico;Private company;;;"PROTeak has also succeeded in buying Forestaciones Operativas de Mexico SA de CV, (FOMEX), the national eucalyptus plantation business of Mexican industrial conglomerate Grupo Kuo, for a reported US$30m. That FOMEX deal now gives PROTeak FSC-certified eucalyptus plantations in Tabasco and in the neighbouring states of Oaxacap and Veracruz.
+
+PROTeak is investing around US$180m in the Tabasco MDF project overall, including the acquisition of the 8,500ha of eucalypt forest in the state. Apart from offering ideal growing conditions for forest plantations, Tabasco state has a well-developed infrastructure, thanks to the dominance of the oil and gas industry and the state’s location in the Gulf of Mexico.
+
+(see source 2)"
+47241;Wind Garden Wind Farm Project;South Africa;;;;
+47243;Fronteer (Pty) Ltd.;South Africa;Private company;;;
+47244;Red Rocket Opportunity Trust;South Africa;Other;;;

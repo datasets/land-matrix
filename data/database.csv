@@ -208,6 +208,7 @@ Deal Number;Target Country;Target Region;Investor 1;Investor 2;Investor 3;Invest
 1350;Ghana;Sub-Saharan Africa;Unknown (Global Green & Osei Bonsu);Global Green;;Ghana;Netherlands;;Sub-Saharan Africa;Western Europe;;Private;Private;;Teak;;;;1350.0
 1359;Guinea;Sub-Saharan Africa;Land & Resources (Guinea) SA;Farm Lands of Guinea Limited;;Guinea;United Kingdom of Great Britain and Northern Ireland;;Sub-Saharan Africa;;;Private;Private;;Corn;Maize;;;8815.0
 1363;Kenya;Sub-Saharan Africa;Unknown (Bedford Biofuels, in Kenya, 39950);Bedford Biofuels;;Kenya;Canada;;Sub-Saharan Africa;Northern America;;Private;Private;;Jatropha;;;;160000.0
+1368;Kenya;Sub-Saharan Africa;Twiga Roses;Florista India Pvt Ltd;;Kenya;India;;Sub-Saharan Africa;Southern Asia;;Private;Unknown;;;;;;200.0
 1374;Kenya;Sub-Saharan Africa;Lake Agro Limited;Rai Group Limited;;Kenya;Kenya;;Sub-Saharan Africa;Sub-Saharan Africa;;Private;Private;;Rice;Banana;;;6899.2
 1391;Liberia;Sub-Saharan Africa;Firestone Liberia Inc;Bridgestone Corporation;;Liberia;Japan;;Sub-Saharan Africa;Eastern Asia;;Private;Private;;Rubber;;;;48153.0
 1393;Liberia;Sub-Saharan Africa;LIBINC Oil Palm Inc;Batu Kawan Berhad;;Liberia;Malaysia;;Sub-Saharan Africa;South-East Asia;;Private;Private;;;;;;13007.0
@@ -516,7 +517,7 @@ Deal Number;Target Country;Target Region;Investor 1;Investor 2;Investor 3;Invest
 3778;Ghana;Sub-Saharan Africa;Unknown (VP Group);VP Group;;Ghana;Kenya;;Sub-Saharan Africa;Sub-Saharan Africa;;Private;Unknown;;;;;;1070.0
 3781;Ghana;Sub-Saharan Africa;Afram Plantation Ltd;Global Environment Fund (GEF);;Ghana;United States of America;;Sub-Saharan Africa;;;Private;Finance;;Rice;Corn;Maize;;136860.0
 3783;Zambia;Sub-Saharan Africa;Amatheon Agri Zambia Limited;Amatheon Agri Holding N.V.;;Zambia;Germany;;Sub-Saharan Africa;Western Europe;;Private;Private;;Rice;Wheat;Corn;;38760.0
-3785;Congo, Dem. Rep.;;Mai Ndombe REDD+ Project;NatureBank Asset Management Inc.;;Congo, Dem. Rep.;Canada;;;Northern America;;Private;Private;;Cassava;;;;299640.0
+3785;Congo, Dem. Rep.;;Wildlife Works Carbon LLC;NatureBank Asset Management Inc.;;United States of America;Canada;;;Northern America;;Private;Private;;Cassava;;;;299640.0
 3786;Zimbabwe;Sub-Saharan Africa;Ariston Holdings Ltd.;Afrifresh;;Zimbabwe;South Africa;;Sub-Saharan Africa;Sub-Saharan Africa;;Private;Private;;Corn;Maize;Tea;;7864.0
 3787;Myanmar;South-East Asia;Dawei Development Company Limited;Italian-Thai Development Public Company Limited;;Myanmar;Thailand;;South-East Asia;South-East Asia;;Private;Private;;;;;;19600.0
 3796;Colombia;South America;Compañía Agrícola de la Sierra Colombia S.A.;Comaco;;Colombia;Chile;;South America;South America;;Private;Private;;Pine;;;;23436.0
@@ -718,7 +719,6 @@ Deal Number;Target Country;Target Region;Investor 1;Investor 2;Investor 3;Invest
 4474;Indonesia;South-East Asia;PT Enggang Alam Sawita;;;Indonesia;;;South-East Asia;;;Private;;;;;;;8482.0
 4479;Paraguay;South America;Desarrollo Agricola del Paraguay;NF Developers SA;;Paraguay;Argentina;;South America;South America;;Private;Private;;Corn;Maize;;;2200.0
 4480;Romania;Eastern Europe;JD Agro Cocora LLC;Romania Farm Invest A/S;;Romania;Denmark;;Eastern Europe;Northern Europe;;Private;Private;;Wheat;Corn;Maize;;17000.0
-4482;Uganda;Sub-Saharan Africa;ASB GROUP OF COMPANIES LIMITED;ASB;;Uganda;Türkiye;;Sub-Saharan Africa;;;Private;Unknown;;;;;;4662.0
 4496;Congo, Dem. Rep.;;Congo Oils and Derivatives SARL;African Company for Oil Derivatives;;Congo, Dem. Rep.;British Virgin Islands;;;;;Private;Unknown;;;;;;10000.0
 4502;Sierra Leone;Sub-Saharan Africa;Unknown (Lion Mountains Agrico Ltd);Lion Mountains Agrico Ltd;;Sierra Leone;United Kingdom of Great Britain and Northern Ireland;;Sub-Saharan Africa;;;Private;Private;;Rice;;;;14000.0
 4509;Romania;Eastern Europe;S.C. Emiliana West Rom S.R.L.;Unigra International S.A.;;Romania;Italy;;Eastern Europe;Southern Europe;;Private;Private;;Wheat;Corn;Maize;;10500.0
@@ -1038,7 +1038,6 @@ Deal Number;Target Country;Target Region;Investor 1;Investor 2;Investor 3;Invest
 5913;Myanmar;South-East Asia;Unknown (Yunnan State Farms Group Company Ltd);Yunnan State Farms Group;;Myanmar;China;;South-East Asia;Eastern Asia;;Private;Government;;Rubber;;;;6666.39
 5914;Myanmar;South-East Asia;Unknown (T and C Company);T and C Company;;Myanmar;China;;South-East Asia;Eastern Asia;;Private;Unknown;;Rubber;Jatropha;;;800.0
 5918;Myanmar;South-East Asia;Unknown (Yunnan Yuan Trade Company);Yunnan Yuan Trade Company Ltd;;Myanmar;China;;South-East Asia;Eastern Asia;;Private;Private;;Tea;Rubber;;;3334.0
-5925;Kenya;Sub-Saharan Africa;James Finlay (Kenya) Limited;John Swire & Sons Limited;;Kenya;United Kingdom of Great Britain and Northern Ireland;;Sub-Saharan Africa;;;Private;Private;;Corn;Maize;Tea;;10300.0
 5929;Ukraine;Eastern Europe;Agrozem LLC;LNZ Group S.A.;;Ukraine;Luxembourg;;Eastern Europe;Western Europe;;Private;Private;;Wheat;Corn;Maize;;7229.0
 5931;Ukraine;Eastern Europe;Lan LLC;AgroGeneration;;Ukraine;France;;Eastern Europe;Western Europe;;Private;Private;;Wheat;Corn;Maize;;8239.0
 5932;Myanmar;South-East Asia;Unknown (Hongrui Lemon Development Company Ltd);Hongrui Lemon Development Company Ltd;;Myanmar;China;;South-East Asia;Eastern Asia;;Private;Private;;;;;;3300.0
@@ -1290,11 +1289,10 @@ Deal Number;Target Country;Target Region;Investor 1;Investor 2;Investor 3;Invest
 7082;Russian Federation;;Dallesprom JSC;Iida Group Holdings Co., Limited (IIDA);;Russian Federation;Japan;;;Eastern Asia;;Private;Private;;;;;;97876.0
 7083;Russian Federation;;Dallesprom JSC;Invest AG;;Russian Federation;Russian Federation;;;;;Private;Private;;;;;;16393.0
 7084;Russian Federation;;Dallesprom JSC;Invest AG;;Russian Federation;Russian Federation;;;;;Private;Private;;;;;;49842.0
-7085;Uganda;Sub-Saharan Africa;Atiak Sugar Factory (#163805);Government of Uganda;;Uganda;Uganda;;Sub-Saharan Africa;Sub-Saharan Africa;;Private;Government;;;;;;6474.0
+7085;Uganda;Sub-Saharan Africa;Atiak Sugar Factory (#163805);Government of Uganda;;Uganda;Uganda;;Sub-Saharan Africa;Sub-Saharan Africa;;Private;Government;;;;;;10117.0
 7088;Russian Federation;;Dallesprom JSC;Invest AG;;Russian Federation;Russian Federation;;;;;Private;Private;;;;;;208762.0
 7089;Russian Federation;;Dallesprom JSC;Invest AG;;Russian Federation;Russian Federation;;;;;Private;Private;;;;;;49310.0
 7098;Mozambique;Sub-Saharan Africa;EcoFarm Moçambique Lda;AgDevCo;;Mozambique;United Kingdom of Great Britain and Northern Ireland;;Sub-Saharan Africa;;;Unknown;Private;;;;;;990.0
-7100;Uganda;Sub-Saharan Africa;Omer Farming Company Limited;Randy Sohnchen;;Uganda;Australia;;Sub-Saharan Africa;Oceania;;Private;Private;;Rice;Corn;Maize;;2428.0
 7105;Russian Federation;;Dallesprom JSC;Iida Group Holdings Co., Limited (IIDA);;Russian Federation;Japan;;;Eastern Asia;;Private;Private;;;;;;23079.0
 7106;Russian Federation;;Dallesprom JSC;Invest AG;;Russian Federation;Russian Federation;;;;;Private;Private;;;;;;140841.0
 7107;Russian Federation;;Dallesprom JSC;Iida Group Holdings Co., Limited (IIDA);;Russian Federation;Japan;;;Eastern Asia;;Private;Private;;;;;;146570.0
@@ -1307,7 +1305,7 @@ Deal Number;Target Country;Target Region;Investor 1;Investor 2;Investor 3;Invest
 7116;Russian Federation;;Dallesprom JSC;Iida Group Holdings Co., Limited (IIDA);;Russian Federation;Japan;;;Eastern Asia;;Private;Private;;;;;;25637.0
 7118;Russian Federation;;Dallesprom JSC;Invest AG;;Russian Federation;Russian Federation;;;;;Private;Private;;;;;;37758.0
 7119;Russian Federation;;Dallesprom JSC;Iida Group Holdings Co., Limited (IIDA);;Russian Federation;Japan;;;Eastern Asia;;Private;Private;;;;;;61686.0
-7120;Uganda;Sub-Saharan Africa;Eastern Uganda Agriculture Limited;Mara Group;;Uganda;United Arab Emirates;;Sub-Saharan Africa;Western Asia;;Private;Private;;;;;;10121.0
+7120;Uganda;Sub-Saharan Africa;Eastern Uganda Agriculture Limited;Mara Group;;Uganda;United Arab Emirates;;Sub-Saharan Africa;Western Asia;;Private;Private;;;;;;6378.0
 7121;Russian Federation;;Dallesprom JSC;Iida Group Holdings Co., Limited (IIDA);;Russian Federation;Japan;;;Eastern Asia;;Private;Private;;;;;;33132.0
 7122;Russian Federation;;Dallesprom JSC;Invest AG;;Russian Federation;Russian Federation;;;;;Private;Private;;;;;;5596.0
 7123;Russian Federation;;Dallesprom JSC;Invest AG;;Russian Federation;Russian Federation;;;;;Private;Private;;;;;;24758.0
@@ -1580,6 +1578,7 @@ Deal Number;Target Country;Target Region;Investor 1;Investor 2;Investor 3;Invest
 8277;Ukraine;Eastern Europe;Mriya Farming Lviv LLC;Public Investment Fund (PIF) of Saudi Arabia;;Ukraine;Saudi Arabia;;Eastern Europe;Western Asia;;Private;Government;;Rapeseed;;;;7692.0
 8279;Ukraine;Eastern Europe;Agrovit LLC;SAS Investcompagnie;;Ukraine;France;;Eastern Europe;Western Europe;;Private;Finance;;Wheat;Corn;Maize;;5265.0
 8288;Indonesia;South-East Asia;PT. Tunas Sawaerma;Korindo Group;;Indonesia;Indonesia;;South-East Asia;South-East Asia;;Private;Private;;;;;;19486.0
+8330;Bulgaria;Eastern Europe;Agro Santia LTD;Rompharm Company s.r.l.;;Bulgaria;Romania;;Eastern Europe;Eastern Europe;;Private;Private;;Pepper;Onion;;;5227.3
 8344;Ukraine;Eastern Europe;Agroprime Holding LLC;SAS Investcompagnie;;Ukraine;France;;Eastern Europe;Western Europe;;Private;Finance;;Wheat;Rapeseed;Barley;;22380.0
 8346;Ukraine;Eastern Europe;Agricor Holding LLC;SAS Investcompagnie;;Ukraine;France;;Eastern Europe;Western Europe;;Private;Finance;;Wheat;Corn;Maize;;34831.0
 8349;Bulgaria;Eastern Europe;Bulland Investment REIT;Euroins Romania Asigurare-Reasigurare S.A.;;Bulgaria;Romania;;Eastern Europe;Eastern Europe;;Finance;Private;;;;;;254.0
@@ -1670,7 +1669,7 @@ Deal Number;Target Country;Target Region;Investor 1;Investor 2;Investor 3;Invest
 8785;Uzbekistan;Central Asia;Tashkent Сotton Textile Cluster LLC;Paraglide Limited;;Uzbekistan;United Kingdom of Great Britain and Northern Ireland;;Central Asia;;;Unknown;Unknown;;Cotton;;;;38500.0
 8786;Russian Federation;;Branch of JSC Ilim Group in Ust-Ilimsk region;Ilim SA;;Russian Federation;Switzerland;;;Western Europe;;Unknown;Private;;;;;;629189.0
 8787;Brazil;South America;Neoenergia S.A.;Grupo Iberdrola;;Brazil;Spain;;South America;Southern Europe;;Private;Private;;;;;;1121.0
-8788;Uzbekistan;Central Asia;FE Indorama Agro LLC;Indorama Corporation;;Uzbekistan;Singapore;;Central Asia;South-East Asia;;Unknown;Unknown;;Wheat;Cotton;;;50000.0
+8788;Uzbekistan;Central Asia;FE Indorama Agro LLC;Indorama Corporation;;Uzbekistan;Singapore;;Central Asia;South-East Asia;;Unknown;Unknown;;Wheat;Cotton;Barley;;50000.0
 8791;Brazil;South America;Enel Green Power;;;Italy;;;Southern Europe;;;Private;;;;;;;2854.0
 8794;Brazil;South America;Brasil Ventos Energia SA;;;Brazil;;;South America;;;Private;;;;;;;2365.0
 8795;Uzbekistan;Central Asia;Surxon Cotton Textile Cluster LLC;Paraglide Limited;;Uzbekistan;United Kingdom of Great Britain and Northern Ireland;;Central Asia;;;Private;Unknown;;Cotton;;;;22400.0
@@ -2012,18 +2011,18 @@ Deal Number;Target Country;Target Region;Investor 1;Investor 2;Investor 3;Invest
 10482;Romania;Eastern Europe;SC EDP Renewables Romania SRL;EDP, S.A.;;Romania;Portugal;;Eastern Europe;Southern Europe;;Private;Government;;;;;;2888.0
 10484;Romania;Eastern Europe;SC EDP Renewables Romania SRL;EDP, S.A.;;Romania;Portugal;;Eastern Europe;Southern Europe;;Private;Government;;Wheat;;;;200.0
 10485;Romania;Eastern Europe;Macquarie Infrastructure and Real Assets (MIRA);;;Australia;;;Oceania;;;Private;;;;;;;1100.0
-10494;South Africa;Sub-Saharan Africa;Enel Green Power;;;Italy;;;Southern Europe;;;Private;;;;;;;5500.0
+10488;South Africa;Sub-Saharan Africa;Impofu East Wind Farm;Enel Green Power;;South Africa;Italy;;Sub-Saharan Africa;Southern Europe;;Private;Private;;;;;;5810.0
+10494;South Africa;Sub-Saharan Africa;Enel Green Power South Africa (EGP RSA);Qatar Investment Authority (QIA);;South Africa;Qatar;;Sub-Saharan Africa;Western Asia;;Private;Government;;;;;;5500.0
 10497;South Africa;Sub-Saharan Africa;Longyuan Mulilo De Aar 2 North (RF) (Pty) Ltd;Mulilo Renewable Energy;;South Africa;South Africa;;Sub-Saharan Africa;Sub-Saharan Africa;;Private;Unknown;;;;;;14500.0
 10498;South Africa;Sub-Saharan Africa;BioTherm Energy (Pty) Ltd TWE Golden Valley Wind Power;CDC Group plc;;South Africa;United Kingdom of Great Britain and Northern Ireland;;Sub-Saharan Africa;;;Unknown;Government;;;;;;8100.0
-10502;South Africa;Sub-Saharan Africa;Mainstream Renewable Power;South Africa Mainstream Renewable Power Loeriesfontein (Pty) Ltd;;Ireland;South Africa;;Northern Europe;Sub-Saharan Africa;;Private;Private;;;;;;3453.0
+10502;South Africa;Sub-Saharan Africa;South Africa Mainstream Renewable Power Loeriesfontein (Pty) Ltd;Abu Dhabi Future Energy Company (Masdar);Loeriesfontein 2 Renewable Energy Community Trust;South Africa;United Arab Emirates;South Africa;Sub-Saharan Africa;Western Asia;Sub-Saharan Africa;Private;Government;Unknown;;;;;6100.0
 10507;Brazil;South America;Arauco SA;Empresas Copec SA;;Chile;Chile;;South America;South America;;Private;Private;;Eucalyptus;;;;2622.08
 10508;Brazil;South America;Mahal Empreendimentos e Participações S.A.;Empresas Copec SA;;Brazil;Chile;;South America;South America;;Private;Private;;Eucalyptus;;;;61554.78
 10512;Romania;Eastern Europe;Eviva Nalbant SRL;Martifer Group;;Romania;Portugal;;Eastern Europe;Southern Europe;;Private;Private;;;;;;260.0
-10517;South Africa;Sub-Saharan Africa;Cennergi Holdings The Tsitsikamma Community Wind Farm;Exxaro Resources;;South Africa;South Africa;;Sub-Saharan Africa;Sub-Saharan Africa;;Unknown;Unknown;;;;;;6600.0
-10525;South Africa;Sub-Saharan Africa;South Africa Mainstream Renewable Power Kangnas Wind Farm;Abu Dhabi Future Energy Company (Masdar);South Africa Mainstream Renewable Power Loeriesfontein (Pty) Ltd;South Africa;United Arab Emirates;South Africa;Sub-Saharan Africa;Western Asia;Sub-Saharan Africa;Unknown;Government;Private;;;;;3591.0
-10528;South Africa;Sub-Saharan Africa;Mainstream Asset Management South Africa;Abu Dhabi Future Energy Company (Masdar);;South Africa;United Arab Emirates;;Sub-Saharan Africa;Western Asia;;Private;Government;;;;;;3055.0
+10517;South Africa;Sub-Saharan Africa;Tsitsikamma Community Wind Farm;Exxaro Resources;;South Africa;South Africa;;Sub-Saharan Africa;Sub-Saharan Africa;;Unknown;Unknown;;;;;;6600.0
+10525;South Africa;Sub-Saharan Africa;South Africa Mainstream Renewable Power Kangnas Wind Farm;Abu Dhabi Future Energy Company (Masdar);Loeriesfontein 2 Renewable Energy Community Trust;South Africa;United Arab Emirates;South Africa;Sub-Saharan Africa;Western Asia;Sub-Saharan Africa;Unknown;Government;Unknown;;;;;16300.0
+10528;South Africa;Sub-Saharan Africa;Mainstream Renewable Power Perdekraal East (Pty) Ltd;Abu Dhabi Future Energy Company (Masdar);H1 Holdings;South Africa;United Arab Emirates;South Africa;Sub-Saharan Africa;Western Asia;Sub-Saharan Africa;Private;Government;Finance;;;;;3055.0
 10538;South Africa;Sub-Saharan Africa;Dorper Wind Farm (RF) Pty Ltd;Sumitomo Corporation (Pty) Ltd;;South Africa;Japan;;Sub-Saharan Africa;Eastern Asia;;Unknown;Private;;;;;;13200.0
-10542;South Africa;Sub-Saharan Africa;VELD Renewables;Elawan Energy;;South Africa;Spain;;Sub-Saharan Africa;Southern Europe;;Unknown;Private;;;;;;3000.0
 10543;South Africa;Sub-Saharan Africa;Amakhala Emoyeni RE Project 1 (RF) (Pty) Ltd;Exxaro Resources;;South Africa;South Africa;;Sub-Saharan Africa;Sub-Saharan Africa;;Unknown;Unknown;;;;;;13000.0
 10548;South Africa;Sub-Saharan Africa;Soetwater Wind Farm Enel Green Power South Africa;Qatar Investment Authority (QIA);;South Africa;Qatar;;Sub-Saharan Africa;Western Asia;;Unknown;Government;;;;;;9530.0
 10559;Colombia;South America;BaumInvest Colombia SAS;BaumInvest AG;;Colombia;Germany;;South America;Western Europe;;Private;Unknown;;;;;;1554.0
@@ -2046,6 +2045,7 @@ Deal Number;Target Country;Target Region;Investor 1;Investor 2;Investor 3;Invest
 10681;Indonesia;South-East Asia;Restorasi Ekosistem Riau;Royal Golden Eagle International (RGE);;Indonesia;Singapore;;South-East Asia;South-East Asia;;Private;Private;;;;;;130090.0
 10683;Jordan;Western Asia;Jordan Wind Project Company (JWPC);Abu Dhabi Future Energy Company (Masdar);;Jordan;United Arab Emirates;;Western Asia;Western Asia;;Private;Government;;;;;;1100.0
 10692;South Africa;Sub-Saharan Africa;Solar Capital De Aar 1 Project;Moncada Energy Group SRL;;South Africa;Italy;;Sub-Saharan Africa;Southern Europe;;Unknown;Unknown;;;;;;282.0
+10693;South Africa;Sub-Saharan Africa;Impofu West Farm;Enel Green Power;;South Africa;Italy;;Sub-Saharan Africa;Southern Europe;;Private;Private;;;;;;3745.0
 10696;Lao PDR;;Viet-Lao Investment and Development Joint Stock Company (VietLaoPower);Vietnam Rubber Group;;Vietnam;Vietnam;;South-East Asia;South-East Asia;;Private;Government;;;;;;61902.0
 10718;Belize;Central America;The Nature Conservancy;;;United States of America;;;;;;Private;;;;;;;41152.0
 10721;Mexico;Central America;Lightening PV Park S. de R.L. de C.V.;JinkoSolar Investment Limited;;Mexico;China;;Central America;Eastern Asia;;Private;Private;;;;;;255.0
@@ -2141,7 +2141,7 @@ Deal Number;Target Country;Target Region;Investor 1;Investor 2;Investor 3;Invest
 11166;Colombia;South America;Saving Nature Inc;;;United Kingdom of Great Britain and Northern Ireland;;;;;;Unknown;;;;;;;2266.07
 11169;Uruguay;South America;Intercontinental Timer Asociación Agraria SRL;;;China;;;Eastern Asia;;;Private;;;Eucalyptus;;;;1544.0
 11189;Ghana;Sub-Saharan Africa;Unknown ( Premier Fruits);Premier Fruits Limited;;Ghana;France;;Sub-Saharan Africa;Western Europe;;Unknown;Unknown;;Pineapple;;;;1411.0
-11197;Ethiopia;Sub-Saharan Africa;Catalyzing community resilience through carbon finance in Ethiopian Afromontane forests;African Bamboo BV Ethiopia;;Ethiopia;Ethiopia;;Sub-Saharan Africa;Sub-Saharan Africa;;Private;Private;;;;;;7720.0
+11197;Ethiopia;Sub-Saharan Africa;Fair Climate Fund of India;;;India;;;Southern Asia;;;Finance;;;;;;;7720.0
 11200;Madagascar;Sub-Saharan Africa;ForestCalling;;;France;;;Western Europe;;;Private;;;;;;;300.0
 11204;Nicaragua;Central America;Norteak Nicaragua SA.;Norteak;;Nicaragua;Norway;;Central America;Northern Europe;;Private;Private;;Teak;;;;700.5
 11206;Ghana;Sub-Saharan Africa;Regenerative Development of Anlo Wetlands Project;Regenerative Development of Anlo Wetlands Foundation (ReDAW);;Ghana;Ghana;;Sub-Saharan Africa;Sub-Saharan Africa;;Private;Private;;;;;;2300.0
