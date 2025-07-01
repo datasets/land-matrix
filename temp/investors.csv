@@ -2,7 +2,7 @@ Investor ID;Name;Country of registration/origin;Classification;Investor homepage
 2;Government of Bangladesh;Bangladesh;State-/government (owned) company;;;
 11;China Asean Resources Ltd.;China, Hong Kong Special Administrative Region;Stock-exchange listed company;;;
 12;Agro Forestry Research;China;;;;
-14;Amira Nature Foods Ltd;United Arab Emirates;Stock-exchange listed company;;;
+14;Amira Nature Foods Ltd (ANFIF);United Arab Emirates;Stock-exchange listed company;https://www.amira.net/;;Amira Nature Foods Ltd is a food company primarily engaged in the distribution of basmati rice and related food products. Amira is a public company trading over the counter since it was removed from public listing on the New York Stock Exchange in August 2020.
 18;Bigimexco;Vietnam;Private company;;;
 19;BNA (Cam) Corp;Republic of Korea;Private company;;;"Origingal data entry: BNA (Cam) Corp / deleted possible LINE BREAK at the end of investor name.
 
@@ -85,7 +85,7 @@ NEOS was forced to de-list in 2013 and most likely no longer exists.(https://mas
 254;Industrial and Agricultural Development for Import-Export;United States of America;;;;
 255;Mengla Jinggu Trading Co.;China;;;;
 257;Kaosouyaotiang Viet-Lao Company;Vietnam;;;;Kaosouyaotiang Viet-Lao Company is a partnership of three Vietnamese companies.
-258;Khanxay Agriculture Development Co. Ltd.;Thailand;;;;
+258;Khanxay Agriculture Development Co. Ltd.;Lao PDR;Private company;;;Khanxay Agriculture Development Co. Ltd. is a company based in Laos that exports agricultural products, specifically banana powder. Khan Xay Agriculture Development Co. Ltd. is a subsidiary of Hoang Anh Gia Lai Joint Stock Company (HAGL).
 260;KV Import-Export Co. Ltd.;Malaysia;;;;
 261;Lakorea Co.;Republic of Korea;;;;
 269;Lao Mithsamphan Farm;;;;;It is not possible to identify the nationality of this investor. The investor seems to be a joint venture between investors from Laos and China.
@@ -125,7 +125,7 @@ NEOS was forced to de-list in 2013 and most likely no longer exists.(https://mas
 351;Emirates Investments Group LLC;United Arab Emirates;Investment fund;;;Emirates Investments Group LLC is an investment company based in the United Arab Emirates with interests in the Middle East and Asia Pacific regions. The dynamic investment Group sources unique business development opportunities and works closely with established companies through partnerships (EIG website)
 358;Shaikh Zaid Bib Nahyan of Abu Dhabi;United Arab Emirates;;;;
 367;TRAFCO;Bahrain;Stock-exchange listed company;https://www.trafco.com/;;Trafco Group B.S.C (TRAFCO) was incorporated in the year 1977 as a public joint stock company as part of an initiative to revolutionize and rejuvenate the food industry of the Kingdom of Bahrain. The Company was successfully turned into Public Share Holding Company with initial public offering in 1980 and was later listed in Bahrain Bourse.
-368;Kijani Energy Canada;Canada;;;;
+368;Kijani Energy Canada;Canada;Private company;;;
 371;Pan Energy Developing Company (PEDCO);Republic of Korea;;;;
 372;Bin Daen Group of Dubai;United Arab Emirates;;;;
 374;Engro Corporation;Pakistan;Stock-exchange listed company;;;"formerly known as ""Engro Chemicals"""
@@ -527,7 +527,9 @@ It is not sure if the organisation still exists."
 1344;Hunters Mozambique Lda;;;;;Possibly 'Mabarule Hunters Mozambique Lda' (South Africa)
 1346;Luis Antonio Mondlane;;;;;Might be from Mozambique
 1347;Unnamed investor 225;Brazil;;;; Secondary investors: Mozambican Ministry of Agriculture, Gapi, the Brazilian Cooperation Agency (ABC), and the Japanese International Cooperation Agency (JICA)
-1348;Cofco;China;State-/government (owned) company;;;There are many agreements between the Wine sector of COFCO and other different companies ( Such as McGuigan, Loch Lomond and DGB)but instead of investing into the company, the agreements that were made are for the import of different brands in China in order to infiltrate the Chinese market.
+1348;China Oil and Foodstuffs Corporation (COFCO);China;State-/government (owned) company;https://www.cofco.com/en/;;"COFCO is a Chinese state-owned food processing holding company. COFCO Group is China's largest food processor, manufacturer and trader.
+
+There are many agreements between the Wine sector of COFCO and other different companies ( Such as McGuigan, Loch Lomond and DGB)but instead of investing into the company, the agreements that were made are for the import of different brands in China in order to infiltrate the Chinese market."
 1350;Al Rajhi International for Investment;Saudi Arabia;Private company;http://www.raii.net/;;Al Rajhi International for Investment (RAII) was incorporated in 2006 under the laws of the Kingdom of Saudi Arabia. RAII is a member of Suleiman Abdulaziz Al Rajhi Holding Company (Al Rajhi Group) which is one of the largest business conglomerates in Saudi Arabia. The mandate of RAII is “To globalize Al-Rajhi Group’s agricultural business on a long-term sustainable basis.
 1359;Demeter International;United Kingdom of Great Britain and Northern Ireland;;;;
 1372;Trans4mation Agritech;United Kingdom of Great Britain and Northern Ireland;Private company;;https://opencorporates.com/companies/gb/09986939;Company status still active in 2020
@@ -745,7 +747,7 @@ Source: http://www.crusaderresources.com/investor-relations/annual-reports-prese
 1864;Liu JianJun;China;Individual entrepreneur;;;Former government official who enabled many land deals across Africa
 1865;Icemark Africa Ltd;Iceland;;;;
 1866;Tilda Rice Company;United Kingdom of Great Britain and Northern Ireland;Private company;;;
-1867;Felda Global Ventures Holdings Berhad (FGV);Malaysia;Stock-exchange listed company;;;
+1867;FGV Holdings Berhad (FGVH);Malaysia;Stock-exchange listed company;http://fgvholdings.com/;;"FGV Holdings Berhad (Abbreviation: FGV, sometimes FGVH; or formerly Felda Global Ventures Holdings Berhad; MYX: 5222) is a Malaysian-based global agribusiness and food company. It is an affiliate of the Federal Land Development Authority (FELDA)."
 1869;Government of the Democratic Republic of the Congo;Congo, Dem. Rep.;State-/government (owned) company;;;
 1870;Phatisa Group Limited;Mauritius;Private company;https://www.phatisa.com/;https://opencorporates.com/companies/mu/C077314;
 1872;Silver Standard;Canada;Private company;;;
@@ -753,14 +755,13 @@ Source: http://www.crusaderresources.com/investor-relations/annual-reports-prese
 1875;Bhati Bangla Agrotec;Bangladesh;;;;owned by Al Falah Group
 1876;Fuel Ethanol and Agricultural Plantation;South Africa;;;;Upon start of operations, farmers are expected to also own shares in the ethanol plant.
 1877;Yoma Strategic Holdings;Singapore;Private company;;;"acts throug also Singapore based subsidiary named ""Plantation Resources Pte Ltd (PRPL)"""
-1878;Société Internationale de Plantations et de Finance (Sipef Group);Belgium;Private company;;;In 2004 the PNG Government sold its 50% shareholding of Hargy Oil Palms to S.A SIPEF NV which has always had full responsibility for the management, operations, processing and international marketing of the company's products.
 1879;New Britain Palm Oil Ltd (NBPOL);Papua New Guinea;Stock-exchange listed company;;;
-1880;Changhae International;Korea, Dem. People's Rep.;Private company;;;
+1880;Changhae Ethanol Co., Ltd.;Korea, Dem. People's Rep.;Stock-exchange listed company;https://chethanol.com/homee/;;Changhae Ethanol Co., Ltd. engages in the production of pure wine bioethanol by using crops including sugar cane, tapioca, rice, and barley. The company was originally named Bohae Industrial Ltd. before changing its name to Changhae Ethanol Co., Ltd.
 1881;MBf Holdings Berhad;Malaysia;Stock-exchange listed company;;;
 1882;Piet Kemp;South Africa;Individual entrepreneur;;;
 1885;Orocobre Limited;Australia;Private company;https://www.orocobre.com/;https://opencorporates.com/companies/au/112589910;Orocobre and Toyota Tsusho Corporation signed a definitive joint venture agreement to develop the Olaroz Lithium Project.
 1889;Blue Sky Uranium Corp;Canada;Private company;;;
-1890;Cosmo Oil Group;Japan;Private company;;;
+1890;Cosmo Oil Company, Limited;Japan;Stock-exchange listed company;https://www.cosmo-energy.co.jp/ja/company/group/cosmo-coc.html;;Cosmo Oil Company, Limited (コスモ石油株式会社, Kosumo Sekiyu kabushiki gaisha) is a Japanese petrochemical company. It is Japan's third-biggest refiner by sales.
 1891;Mariana Resources Ltd;Australia;Private company;;;
 1892;Golden Minerals Company;United States of America;Private company;;;
 1897;Coro Mining Corp;Canada;Private company;;;
@@ -802,7 +803,7 @@ Source: http://www.crusaderresources.com/investor-relations/annual-reports-prese
 1957;Mimran Group;France;Private company;;;
 1958;Rina Group;Israel;Private company;;;Major agricultural subsidiary is Dekel Oil Public Limited. 
 1960;Cevital;Algeria;Private company;;;
-1961;SIPEF;Belgium;Stock-exchange listed company;;;signed as an investor, March 2010
+1961;Société Internationale de Plantations et de Finance (SIPEF);Belgium;Stock-exchange listed company;https://www.sipef.com/;;SIPEF is a Belgian company based in Schoten and listed on Euronext Brussels. It currently operates agro-industrial activities in the production of oil palm products – fresh fruit bunches (FFB), crude palm oil (CPO), palm kernels (PK), crude palm kernel oil (CPKO) – and natural rubber, tea, bananas, flowers and foliage. The subsidiaries located in Indonesia, Papua New Guinea and Côte d’Ivoire employ more than 21,000 people.
 1963;Energea GmbH;Austria;Private company;;;
 1964;FE Clean Energy Group;United States of America;Investment fund;;;
 1968;Cepsa;Spain;Private company;;;The subsidiary of Cepsa in Peru is Cepsa Peru SA.
@@ -930,7 +931,7 @@ Miro Forestry is an independent Cayman Islands incorporated private limited comp
 2160;Unknown (#158295);China;;;;only nationality and address of chairman are known
 2161;CHHUN HONG GROUP;Cambodia;Private company;;;
 2162;Unknown (#158297);Vietnam;;;;only nationality of director is given
-2163;Yunnan State Farms Group;China;Semi state-owned company;http://www.ynyunken.com/;;
+2163;Yunnan State Farms Group Co., Ltd.;China;State-/government (owned) company;http://www.ynyunken.com/;;Profile: Yunnan State Farms Group Co., Ltd. is the only large state-owned agricultural enterprise in Yunnan Province, and it is also a key leading enterprise of national agricultural industrialization. It has formed a strategic layout of five major parts, namely natural rubber, plateau characteristic agriculture, clean energy, modern service industry and machinery manufacturing and one investment and financing platform.
 2165;Huor Ling;China;;;;
 2168;Long Van 28;Vietnam;Private company;;;
 2170;China Hainan Rubber Industry Group;China;Stock-exchange listed company;;;
@@ -1149,7 +1150,9 @@ Major shareholders are Swiss British Fiduciary Trust Center (CH) and Athanor Equ
 2527;Toch Chol Crop Production;South Sudan;;;;
 2528;B-Gasy;;;;;Secondary investor country not known.
 2533;Lebach Mining Corporation;Philippines;Private company;;;
-2538;30/4 Gialani Company Limited;Vietnam;Private company;;;
+2538;30/4 Gialani Company Limited;Cambodia;Private company;;;"30/4 Gialani Company Limited is an economic land concession in Cambodia, operating in the province of Kampong Speu, and is registered with the Ministry of Commerce. 
+
+Note however that the owner of the project is Mr. Nguyen Sinh from Vietnam"
 2539;Wah Seong;Malaysia;Stock-exchange listed company;;;
 2540;Silvermark Resources Inc;British Virgin Islands;;;;Ultimate owners unknown
 2541;Giant Dragon Group;British Virgin Islands;;;;Ultimate owners unknown
@@ -1171,7 +1174,7 @@ Major shareholders are Swiss British Fiduciary Trust Center (CH) and Athanor Equ
 2568;Zeyoge's Agriculture and Industry PLC;United States of America;;;;
 2569;Saha Group Co ltd.;Thailand;Private company;;;
 2570;IBTC Group;Myanmar;Private company;;;the company's agribusiness arm is ISMSA International Sun Moon Star Agricultural Co. Ltd.
-2572;Orchard Agriculture and Animal Husbandry Co.;Myanmar;Private company;;;
+2572;Sein Myint;Myanmar;Individual entrepreneur;;;Sein Myint s the owner and manager of Orchard Company Limitted
 2574;Mim cashew & Agricultural Products Ltd.;Denmark;Private company;;;Mim Cashew is a family owned cashew plantation and processing facility
 2575;New Agricultural Services (Agricserv) Ltd;India;;;;
 2576;Suraj Agro Ltd;India;;;;
@@ -1275,7 +1278,7 @@ Penang Yellow Bus Company Berhad -- 5.30%"
 2710;Nava Bharat Ventures Limited;India;Stock-exchange listed company;https://www.navalimited.com/;;One report states that the country origin is Singapore.
 2711;Mahakaushal Sugar and Power Industries Ltd;India;;;;Mahakaushal Sugar And Power Industries Limited is a Public incorporated on 13 April 2005. It is classified as Non-govt company and is registered at Registrar of Companies, Gwalio.Its authorized share capital is Rs. 100,000,000 and its paid up capital is Rs. 67,783,000. It is involved in Hunting, trapping and game propagation including related service activities
 2712;SyEnergy Agriproduction;India;;;;
-2713;Wuhan Kaidi;China;;;;
+2713;Sunshine Kaidi New Energy Group Co. Ltd.;China;Private company;;;Sunshine Kaidi New Energy Group Co. Ltd. (Sunshine Kaidi, former name: Wuhan Kaidi Holding Investment Co., Ltd.) is a Chinese holding company. It is one of the largest bioenergy companies in China.
 2715;Sinochem Group;China;State-/government (owned) company;;;
 2716;ETG Farming;Tanzania;Stock-exchange listed company;;;ETG’s shareholders include Mahesh Patel and his family, the American assets management company Carlyle Group, the South African Pembani Remgro Infrastructure Managers (private equity) and Standard Chartered Bank. 
 2717;Mazhongdu International;China;;;;
@@ -1372,7 +1375,7 @@ Deep River Investment (DRI), the main shareholder of the CIEL Group and GML Inve
 2867;Basic Energy Corporation (BEC);Philippines;Stock-exchange listed company;https://www.basicenergy.ph/;;Basic Energy Corporation (BEC) is a publicly listed holding company in the Philippines. It has business interests in various fields of renewable energy and alternative fuels, and oil and gas exploration and development.
 2869;Chonghe;;;;;
 2870;Olivo Noble S.A.;Spain;Private company;;;
-2871;Flour Lao China;China;;;;
+2871;Flour Lao China Company;China;Private company;;;
 2872;Yunnan Rubber Company Ltd.;China;State-/government (owned) company;;;
 2874;Seunly Rubber Plantation Company;China;;;;
 2875;Deshang;China;;;;
@@ -1382,7 +1385,7 @@ Deep River Investment (DRI), the main shareholder of the CIEL Group and GML Inve
 2879;Enviroplasma;Republic of Korea;Private company;;;
 2880;Luhang;China;;;;
 2881;Nanyong;China;;;;
-2883;Xishuangbanna Foreign Trade Co., Ltd.;China;;;;"one source calls the company ""Xishuanbanna External Trade Co., Ltd."", but the above cited name seems to be correct"
+2883;Xishuangbanna Foreign Trade Co., Ltd.;China;Private company;;;"one source calls the company ""Xishuanbanna External Trade Co., Ltd."", but the above cited name seems to be correct"
 2884;Pantaleon;Guatemala;Private company;;;The company has other projects in Central America, as in brazil.
 2886;Philippine Maize Federation;Philippines;Other;;;Nationwide organization that shall represent and defend the interest of the vast population of corn farmers.
 2887;Philippine Agricultural Development and Commercial Corp.;Philippines;;;;
@@ -2584,7 +2587,9 @@ Renamed SI from unknown to Unknown (4634) on 15/03/2018"
 4670;Egyptian Ministry of Agriculture and Land Reclamation;Egypt, Arab Rep.;Government institution;https://moa.gov.eg/en/;;
 4671;Annona Sustainable Investments bv;Netherlands;Private company;;;commercial Venture Capital fund
 4672;Komaza;United States of America;Private company;;;Komaza shareholders include Novastar Ventures, MULAGO, Hooge Raedt social venture. 
-4673;Maxagro s.r.l.;Romania;Private company;;;
+4673;Maxagro LLC;Romania;Private company;;;"Fiscal Code	16009219
+Registry No.	J2003003008358 
+EUID	ROONRC.J2003003008358"
 4674;Industrial Development Corporation of Zambia;Zambia;State-/government (owned) company;;;state-backed fund
 4675;Romania Farm Invest A/S;Denmark;Private company;;;Romania Farm Invest A / S was founded in 2008. The company's main objective is the operation and development of the Romanian company Agro Cocora SRL. The company is owned by a group of private investors - and companies. Romania Farm Invest A/S is subsidiary of Jantzen Development (Denmark) - Erik Jantzen is owner.
 4676;Liono Alexandru;Romania;Individual entrepreneur;;;Previously it was Agri Invest A/S (Denmark, Stock-exchange listed company).
@@ -2697,7 +2702,7 @@ Among its many shareholders are La Mancha Investment, Van Eck Associates, Barric
 4855;Gaoshen Group;China;Private company;;;
 4856;Myanmar Thilawa SEZ Holdings Public Ltd;Myanmar;;;;
 4857;MMS Thilawa Development Co., Ltd;Japan;;;;
-4858;State Development and Investment  Corporation;China;;;;
+4858;The State Development and Investment Corporation (SDIC);China;Asset management firm;https://www.sdic.com.cn/en/;;The State Development and Investment Corporation (SDIC) is a large state-owned investment holding company in China.
 4859;State Power Investment Corporation Limited;China;State-/government (owned) company;http://www.spic.com.cn/;;"State Power Investment Corporation Limited (abbreviation SPIC) is one of the five major electricity generation companies in China. It was the successor of China Power Investment Corporation after it was merged with the State Nuclear Power Technology Corporation (SNPTC) in 2015.
 
 Acting through fully owned subsidiary called: PI Yunnan International Power Investment Company (CPIYN)"
@@ -2713,7 +2718,7 @@ Sinohydro hold together 56%"
 4867;China Southern Power Grid Company Limited;China;State-/government (owned) company;http://eng.csg.cn/;;
 4868;Royal Golden Pearl Co., Ltd;Myanmar;Private company;;;
 4869;Pho La Min Trading Co;Myanmar;;;;
-4870;Yunnan Jin Chen Investment Company;China;;;;
+4870;Yunnan Jin Chen Investment Company;China;Private company;;;
 4871;Guangdong Zhenrong Energy Co., Ltd;China;State-/government (owned) company;;;
 4872;Htoo Group;Myanmar;;;;
 4873;Union of Myanmar Economic Holdings Ltd;Myanmar;;;;
@@ -2753,7 +2758,7 @@ Sinohydro hold together 56%"
 4917;Thilawa SEZ Management Committee;Myanmar;State-/government (owned) company;;;
 4918;T and C Company;China;;;;
 4920;Camellia plc;United Kingdom of Great Britain and Northern Ireland;;;;
-4921;Yunnan Yuan Trade Company Ltd;China;Private company;;;
+4921;Yunnan Yuan Yuan Trade Co., Ltd;China;Private company;;;Yunnan Yuan Yuan Trade Co., Ltd., registered in March 15th, 2006, with registered capital of 3 million, the legal representative of Zhu Fahou. They are involved with the Import quotas for substitution projects in the Kachin State of Myanmar during 2009.
 4922;Del Monte Kenya Ltd;Kenya;;;;
 4923;Yunnan Jiuzhou Jinke Investment Company Ltd;Myanmar;Private company;;;
 4924;James Finlay Limited;United Kingdom of Great Britain and Northern Ireland;Private company;https://www.finlays.net/;;
@@ -2779,11 +2784,11 @@ There also is a branch in Singapore called Toyo Thai Power Holdings Pte. Ltd
 4949;Myanmar Combiz Services Company Ltd;Myanmar;Private company;;;
 4950;Green Future Company Ltd;Myanmar;Private company;;;
 4951;Independent Oil & Resources PLC;Cyprus;;;;Over 70 percent of Independent Oil & Resources PLC is owned by the Norwegian oil magnate Berge Gerdt Larsen and members of his family.
-4956;Myanmar Industrial Crops Development Enterprise;Myanmar;;;;
-4957;Haejohyub Bio Energy Myanmar;Republic of Korea;;;;
+4956;Myanmar Industrial Crops Development Enterprise (MICDE);Myanmar;State-/government (owned) company;;;The Myanmar Industrial Crops Development Enterprise (MICDE) was a government entity that was part of the Ministry of Agriculture and Irrigation. It was later reformed into a departmental institution, specifically the Department of Industrial Crops Development. This department focuses on the development of industrial crops within Myanmar.
+4957;Hae Johyub Bio Energy Corporation;Republic of Korea;Private company;;;
 4958;Tarlesson Farm Incorporated;United States of America;;;;
 4960;Yunnan Gelin Lante Biochemical Company Ltd;China;Private company;;;
-4961;Great Wall Company;Myanmar;;;;
+4961;Great Wall Company;Myanmar;Private company;;;
 4962;Max Myanmar Holding Company Ltd;Myanmar;Private company;;;
 4963;BONTRUP AGRICULTURE B.V.;Netherlands;Private company;https://www.bontrup.com/;https://opencorporates.com/companies/nl/14619302;Bontrup Agriculture B.V. operates within the Extraction of other minerals (remainder) industry. The company number for Bontrup Agriculture B.V. is 14619302.
 4964;Estam Ltda.;Colombia;Private company;;;
@@ -2892,7 +2897,7 @@ for mechanized farming."
 34792;Agri-Industrial Crop Development (Cambodia) Co, Ltd;Cambodia;Private company;;;
 34793;Unknown (Agro Forestry Research);Cambodia;Private company;;;
 34794;Agro Star Investment;Cambodia;Private company;;;
-34795;Unknown (Amira Nature Foods Ltd);Cambodia;Private company;;;
+34795;Amira Pure Foods Private Limited;Cambodia;Private company;;;Cambodia branch of Amira Pure Foods
 34796;An Mady Group;Cambodia;Private company;;;change name from An Mardy group to An Mady group.
 34797;Angkor Sugar Co. Ltd.;Cambodia;Private company;;;
 34798;Asia World Agricultural Development (Cambodia) Co. Ltd.;Cambodia;Private company;;;
@@ -2975,7 +2980,9 @@ for mechanized farming."
 34888;Unigreen Resource Co. Ltd.;Cambodia;Private company;;;
 34889;Un-Inter Trading and Development Group (Cambodia) Co. Ltd.;Cambodia;Private company;;;
 34890;VANNMA Import-Export Co Ltd;Cambodia;Private company;;https://opencorporates.com/companies/kh/00020870;
-34891;Unknown (Vietnam Rubber Group);Myanmar;Private company;;;
+34891;JVA of Government of Myanmar & Vietnam Rubber Group;Myanmar;Private company;;;"note that this is not the official investors name but the JVA company title has not been released
+
+In April 2010 the Vietnam government signed agreements in twelve key investment areas in Burma after a bilateral visit. As part of the government deals, a MoU was signed for a 120,000 acre rubber concession located between Taungup Township and Ma Ei Sub-Township in Southern Arakan State with state owned enterprise Vietnam Rubber Group."
 34892;World Tristar Entertainment (Cambodia) Co. Ltd.;Cambodia;Private company;;;
 34893;Unknown (Wuzhishan L.S Group);Cambodia;Private company;;;
 34904;Unknown (Cambo Victor Investing and Developing Co. Ltd., in Cambodia, 34904);Cambodia;Private company;;;
@@ -3028,7 +3035,6 @@ the name of the company is specified as t Daduhe Forestation Burea."
 35006;Tongly-Jinggu;Lao PDR;Private company;;;
 35007;Kolao Farm and Bio Energy Company;Lao PDR;Private company;;;
 35008;Unknown (Kaosouyaotiang Viet-Lao Company);Lao PDR;Private company;;;Partnership of three Vietnamese companies.
-35009;Unknown (Khanxay Agriculture Development Co. Ltd.);Lao PDR;Private company;;;
 35010;Savannakhet Sugar Corporation (SSC);Lao PDR;Private company;https://savannakhetsugar.business.site/;;
 35011;Unknown (KV Import-Export Co. Ltd.);Lao PDR;Private company;;;
 35012;Unknown (Lakorea Co.);Lao PDR;Private company;;;
@@ -3063,13 +3069,17 @@ the name of the company is specified as t Daduhe Forestation Burea."
 35091;Unknown (Abu Dhabi Group);Pakistan;Private company;;;
 35094;Em-Zealand SolutioNZ Ltd;Pakistan;Private company;;;
 35098;Unknown (Shaikh Zaid Bib Nahyan of Abu Dhabi);Pakistan;Private company;;;
-35108;Unknown (Kijani Energy Canada);Pakistan;Private company;;;
+35108;Joint Venture - Kijani Energy & Pakistan Agriculture Research Council (PRAC);Pakistan;Private company;;;"Note that the official name of the JV company has not been identified and this serves as a placeholder
+
+In 2009, Kijani Energy Canada signed a memorandum of understanding with Pakistan Agriculture Research Council (PRAC) to focus on the large-scale cultivation of Jatropha plant"
 35117;Unknown (Widam Food);Sudan;Private company;;;
 35118;Unknown (State);Pakistan;Private company;;;
 35130;RP Harvest;Philippines;Private company;;;
 35137;TVI Resource Development Philippines Inc.;Philippines;Private company;;;
 35138;Unknown (Agricultural Department of the Guangxi Zuang Autonomous Region (ADGZAR));Philippines;Private company;;;
-35140;Eastern Renewable Fuel Corporation;Philippines;Private company;;;
+35140;Green Future Innovations Incorporated (GFII);Philippines;Private company;https://www.greenfutureinnovations.com/;;"A corporation fully committed towards a green and sustainable development. Taking from its cue from the Philippine Renewable Energy Program, GFII built and operated a large-scale bioethanol and cogeneration plant in San Mariano, Isabela Ecofuel Agro-Industrial Ecozone.
+
+The GFII operates in partnership with Ecofuel Development Corp., Itochu Corp., JGC Corp., Philippine Bioethanol and Energy Investments Corp. and GCO Taiwan Holding Company."
 35142;Unknown (Guangdong Academy of Agricultural Sciences);Philippines;Private company;;;
 35148;Unknown (China Development Bank, Jilin Fuhua Agricultural Science and Technology Development, Co. Ltd., People’s Government of Jilin);Philippines;Private company;;;
 35153;Biocombustibles de Guatemala SA;Guatemala;Private company;;;
@@ -3740,8 +3750,8 @@ of Maris Ltd since 2012"
 36442;Unknown (Pan American Silver Co., in Argentina, 36442);Argentina;Private company;;;
 36443;Unknown (Bhati Bangla Agrotec);Tanzania;Private company;;;
 36444;Unknown (Fuel Ethanol and Agricultural Plantation);Swaziland;Private company;;;
-36445;Myanmar Agri-Tech Ltd.;Myanmar;Private company;;;
-36446;Hargy Oil Palms Ltd;Papua New Guinea;Private company;;;On 23 July 1976, Hargy Oil Palms Limited (HOPL) was established as a joint venture agricultural business with the Papua New Guinea Government having 50% shareholding interest, whilst SIPEF and Warren Plantations each had 25% share ownership interests. After Warren Plantations sold off its shares to SIPEF in 1984, the National Government later sold all its shares in 2003. Since then HOPL has grown from strength to strength over the years.  SIPEF has always had and continues to have full responsibility for the management, operations, processing and international marketing of the company’s palm oil products. (from https://www.sipef.com/sipef-papua-new-guinea/about-hargy-oil-palms-ltd/)
+36445;Myanmar Agri-Tech Ltd.;Myanmar;Private company;;;Myanmar Agri-Tech Ltd. (MAGT) was established as a joint venture between Yangon Nominees Ltd. (YNL) and First Myanmar Investment Co., Ltd. (FMICO) to operate the plantation project at Maw Tin Estate in the Ayerwaddy Division of Myanmar
+36446;Hargy Oil Palms Limited (HOPL);Papua New Guinea;Private company;https://www.sipef.com/sipef-papua-new-guinea/;;HOPL is the second largest producer of sustainable palm oil in Papua New Guinea, with a total planted area of 13 550 hectares of land located within New Britain Island alone in its 40 years of existence as of September 2019.
 36447;Ramu Agri Industries Ltd (RAIL);Papua New Guinea;Private company;;;
 36448;Changhae Tapioka (PNG) Limited;Papua New Guinea;Private company;;;
 36450;Carpenter Estates;Papua New Guinea;Private company;;;
@@ -3766,7 +3776,7 @@ of Maris Ltd since 2012"
 36479;Unknown (Bear Creek Mining Corporation, in Peru, 36479);Peru;Private company;;;
 36482;Narborough Plantations Public Limited Company;Malaysia;Private company;;;
 36484;Unknown (Government Finance Ministry, Qatar Investment Authority (QIA));Indonesia;Private company;;;
-36486;UNKNOWN (BHP BILLITON, PT ADARO ENERGY TBK);Indonesia;Private company;;;
+36486;PT Lahai Coal (IndoMet Coal);Indonesia;Private company;;;IndoMet Coal comprises seven Coal Contracts of Work which are located in Central and Eastern Kalimantan, Indonesia.  The Haju mine, which is located within the Lahai Coal Contract of Work, has a production capacity of one million tonnes of coal per annum and has been in production since 2015.
 36487;Minera IRL S.A;Peru;Private company;;;
 36491;Minera Chinalco Perú SA.;Peru;Private company;;;
 36492;Unknown (Anglo American Plc., in Peru, 36492);Peru;Private company;;;
@@ -4261,7 +4271,9 @@ Source: https://www.youtube.com/watch?v=nJMX7G9TAKw"
 37462;Unknown (Mitr Phol Group);Myanmar;Private company;;;
 37463;Unknown (Capital Rice, IBTC Group, SL Agritech Corp.);Myanmar;Private company;;;
 37464;Maderas Cultivadas de Centroamerica;Nicaragua;Private company;;;
-37465;Orchard Agriculture and Animal Husbandry Co;Myanmar;Private company;;;
+37465;ORCHARD Company Limited;Myanmar;Private company;https://orchardcompany.en.ecplaza.net/;;"ORCHARD Company Limited is one of Myanmar's (Burma)'s leading fish producers and was established in April 1994.
+
+Formerly named Orchard Agriculture and Animal Husbandry Co"
 37466;Palmares del Castillo S.A. (PALCASA);Nicaragua;Private company;;;
 37467;Mim cashew;Ghana;Private company;http://www.mimcashew.com;;
 37468;Unknown (New Agricultural Services (Agricserv) Ltd);Ghana;Private company;;;
@@ -4569,7 +4581,6 @@ GSFF holds 83% of Chikweti (including credits), the remaining 17% belong to othe
 37941;Campos Morombí S.A;Paraguay;Private company;;;
 37945;Unknown (Basic Energy Corporation);Philippines;Private company;;;
 37948;Unknown (Chonghe);Lao PDR;Private company;;;
-37949;Unknown (Flour Lao China);Lao PDR;Private company;;;
 37950;Unknown (Yunnan Rubber Company Ltd.);Lao PDR;Private company;;;
 37952;Unknown (Seunly Rubber Plantation Company);Lao PDR;Private company;;;
 37953;Unknown (Deshang);Lao PDR;Private company;;;
@@ -4601,7 +4612,6 @@ GSFF holds 83% of Chikweti (including credits), the remaining 17% belong to othe
 37998;AGRINA;Senegal;Private company;;;
 37999;Unknown (Abdulaye Wade);Senegal;Private company;;;
 38000;Unknown (Hayat);Senegal;Private company;;;
-38001;African National Oil Corporation Sarl;Senegal;Private company;;;
 38003;CBL Agri Zambia Limited (CBAZ);Zambia;Private company;;;
 38004;Murrimo Macadamia Lda;Mozambique;Private company;;;
 38006;Guangxi Oji Plantation Forest Co., Ltd.;China;Private company;;;
@@ -4619,7 +4629,7 @@ GSFF holds 83% of Chikweti (including credits), the remaining 17% belong to othe
 38024;Curcas Oil Philippines Inc;Philippines;Private company;;;
 38026;Unknown (Cofco, in China, 38026);China;Private company;;;
 38027;Dole Philippines Inc. (DOLEFIL);Philippines;Private company;;;
-38028;COFCO Tunhe Sugar Co., Ltd.;China;Private company;;;
+38028;COFCO Sugar Holding Co., Ltd (COFCO Sugar);China;Stock-exchange listed company;http://www.cofcosugar.com/;;COFCO sugar Holding Co., Ltd (Chinese Name: 中粮糖业控股股份有限公司), serves as the sugar production branch of the COFCO group
 38029;Unknown (Cofco, in China, 38029);China;Private company;;;
 38030;China Tea Co., Ltd.;China;Private company;;;
 38031;Fonterra Brasil Fazenda MIH Ltda;Brazil;Private company;;;
@@ -4755,7 +4765,7 @@ China Modern Dairy Holdings Ltd. (“Modern Dairy”) was established in Septemb
 38195;Rice Partners (Pvt.) Ltd.;Pakistan;Private company;;;
 38196;Hydrocol (Pvt.) Ltd.;Pakistan;Private company;;;
 38197;Unknown (Mair Foods Co.);Pakistan;Private company;;;
-38198;Brukfield Rice Pakistan (Pvt.) Limited;Pakistan;Private company;;;
+38198;Brukfield Rice Pakistan (Pvt.) Limited;Pakistan;Private company;https://www.brukfield.com/;;Brukfield Rice Pakistan (Pvt.) Limited is a company based in Pakistan that specializes in the wholesale supply and export of rice, both Basmati and non-Basmati varieties. They are located in the Eastern Industrial Zone.
 38200;Noor Rice Mill (Pvt.) Ltd.;Pakistan;Private company;https://noorrice.com/;https://opencorporates.com/companies/pk/0136895;
 38201;Unknown (Felda Holdings Bhd);Pakistan;Private company;;;
 38202;Agrícola Challapampa S.A.C;Peru;Private company;;;
@@ -5243,7 +5253,7 @@ EUID ROONRC.J27/125/2006."
 Registry No.	J51/226/2010,
 EUID ROONRC.J51/226/2010"
 38809;R-Agro Falciu SA;Romania;Private company;;;
-38810;SC Agronova SRL;Romania;Private company;;;
+38810;SC Agronova LLC;Romania;Private company;;;
 38811;SC Exim Agro Ovis M.P.S. SRL;Romania;Private company;;;
 38812;S.C. Agrofam Holding S.R.L. Fetesti;Romania;Private company;;;
 38813;SC Agrotel 001 SA;Romania;Private company;;;
@@ -5680,7 +5690,7 @@ The ownership structure is a bit unclear. Global Woods seems to be owned by Glob
 39280;Golden Hills (Bayan Airag) Limited;China, Hong Kong Special Administrative Region;Private company;http://www.bayanairag.com/;https://opencorporates.com/companies/hk/1938250;also known as QGX
 39281;Bong Mining Company Ltd;Liberia;Private company;;;
 39282;SANABIL Project;Algeria;Private company;;;
-39284;Ecowood Inc.;Liberia;Private company;;;
+39284;Sing Africa Plantation Liberia Incorporated (SAPLI);Liberia;Private company;;;In 2016, ECOWOOD signed a 15-year contract with the Bluyeama Clan but failed to meet obligations. In 2020, the contract was transferred to Sing Africa Plantation Liberia Incorporated, which also failed to deliver on promised infrastructure and social commitments.
 39285;Liberian Hardwood Corporation;Liberia;Private company;;;LHC is a logging company and a subsidiary of Aissha and Mustapha (A&M) Enterprise Incorporated
 39286;Protrade International Tech Park (PITP);Vietnam;Private company;http://www.pitp.com.vn/en/about-us.html;;Previously Ascendas Protrade Singapore Tech Park
 39287;Dai Dang Construction and Investment Co., Ltd;Vietnam;Private company;;;
@@ -5735,7 +5745,9 @@ The ownership structure is a bit unclear. Global Woods seems to be owned by Glob
 39344;Ras Dashen Agro-industry;Ethiopia;Private company;;;
 39345;Unknown (Transfrontier Investment Holdings);Zambia;Private company;;;
 39347;Consortium Rede Camponesa (CRP);Angola;Private company;;;
-39348;Maxagro SRL;Romania;Private company;;;
+39348;Maxagro Farm LLC;Romania;Private company;;;"Fiscal Cod	8701560,
+Registry No. J1993002663351,
+EUID	ROONRC.J1993002663351"
 39349;"""ERDENEMINING UIS"" COMPANY";Mongolia;Private company;;;
 39351;BIOSOY;Senegal;Private company;;;
 39352;Dehydro Foods S.A.E;Egypt, Arab Rep.;Private company;;;
@@ -5979,8 +5991,12 @@ In 2016, the operating company (Parafiyivka-Progress Ltd) was terminated (Data s
 39607;Dongfeng Tianyu Co. Ltd;Myanmar;Private company;;;
 39608;Kunming Gaoshen Rubber Planting Co. Ltd;Myanmar;Private company;;;A subsidiary of Gaoshen Group
 39609;Myanmar Japan Thilawa Development, Ltd;Myanmar;Semi state-owned company;;;
-39610;"Unknown (Wuhan Kaidi; Myanmar Industrial Crops Development Enterprise)";Myanmar;Private company;;;
-39611;"Unknown (Great Wall Company; State Development and Investment Corporation)";Myanmar;Private company;;;
+39610;Wuhan Kaidi & Myanmar Industrial Crops Development Enterprise Joint Venture Company;Myanmar;Private company;;;"Investor serves as a placeholder as no official company name was found for the joint-venture
+
+Myanmar Industrial Crops Development Enterprise and China’s Wuhan Kaidi Holding Investment Co. have been granted a 200,000-hectare concession in Homalin and Phaungpyin Townships in Sagaing Region to cultivate maize, sugarcane and jatropha for use as feedstock"
+39611;Joint Venture Ministry of Agriculture, Great Wall Co. & State Development & Investment Corporation;Myanmar;Private company;;;"note that the official JV company name could not be found in data sources and serves as a placeholder
+
+200,000-hectare concession in Sagaing Region has been awarded to the Ministry of Agriculture, Great Wall Co. (a Burmese company), and China’s State Development and Investment Corporation for sugarcane, cassava and maize for biofuel production."
 39613;Upstream Ayeyawady Confluence Basin Hydropower Company Ltd.;Myanmar;Private company;;;
 39614;Agrosvit PAE;Ukraine;Private company;;;"Identification code - 32414069
 The previous parent company was Cacique Limited."
@@ -6015,7 +6031,7 @@ In 2019 the Company was terminated due to the reorganization process. The regist
 39638;Selyanska spilka named after Shevchenko LLC;Ukraine;Private company;;;The company is in the process of termination from 2019, but in 2020 there were 108 land lease agreements with the company
 39639;Zolota Nyva LLC;Ukraine;Private company;;;
 39640;RSZ Agro LLC;Ukraine;Private company;;;
-39641;Myanmar Stark Prestige Plantation Co Ltd.;Myanmar;Private company;;;
+39641;Myanmar Stark Prestige Plantation Co Ltd. (MSPP);Myanmar;Private company;https://mspp.com.mm/en/;;MSPP is incorporated for the purpose of oil palm plantation development, bringing in foreign investment, technology and establishing good agricultural practices (GAP).
 39642;Mongolia Energy Corporation Limited;Singapore;Stock-exchange listed company;https://www.mongolia-energy.com/;;
 39643;Lan-123 LLC;Ukraine;Private company;;;
 39644;PE Sosnyts`ki agrarni investytsii;Ukraine;Private company;;;"Code - 34817226
@@ -6033,7 +6049,6 @@ In 2019 the Company was terminated due to the reorganization process. The regist
 39651;Vyshneve-Agro ALLC;Ukraine;Private company;;;
 39652;Prydniprovskyi Kray ALLC;Ukraine;Private company;;;
 39653;FGV Pho La Min Co Ltd;Myanmar;Private company;;;
-39654;Unknown (Yunnan Jin Chen Investment Company);Myanmar;Private company;;;
 39655;Buymerske PE;Ukraine;Private company;;;
 39656;Longwin Global Petrochemical Co., Ltd;Myanmar;Private company;;;
 39657;Ecuador Government;Ecuador;Private company;;;
@@ -6071,12 +6086,14 @@ In 2019 the Company was terminated due to the reorganization process. The regist
 39691;Bamboo Trading Company;Kenya;Private company;;;
 39692;Knyazhi Lany LLC;Ukraine;Private company;;;
 39693;Zborivski Lany LLC;Ukraine;Private company;;;
-39694;Unknown (Yunnan State Farms Group Company Ltd);Myanmar;Private company;;;
+39694;Myanmar-Yunnan State Farms Group Company Ltd;Myanmar;Private company;;;"In 2006 a Yunnan State Farms subsidiary signed a development agreement granting 100,000 mu (16,473 acres) to plant rubber with support from the opium substitution programme. 
+
+Note that the subsidiary name has never been mentioned in the data sources found and serves as a placeholder"
 39695;Unknown (T and C Company);Myanmar;Private company;;;
 39696;British American Tobacco Kenya plc;Kenya;Private company;;;
 39697;Mastermind Tobacco Kenya Limited;Kenya;Private company;;;
 39698;Kakuzi Plc;Kenya;Stock-exchange listed company;http://www.kakuzi.co.ke/;;Kakuzi Plc is a listed company trading on both the Nairobi and the London Stock Exchange.
-39699;Unknown (Yunnan Yuan Trade Company);Myanmar;Private company;;;
+39699;Agricultural Department of SR2 of Kachin State of Myanmar;Myanmar;Government institution;;;The Agricultural Department of SR2 of Kachin State of Myanmar signed a cultivation contract with Yunnan Yuan Yuan Trade Co., Ltd for 40,000 mu (2,667 ha) of rubber and 10,000 mu (667 ha) of tea
 39701;Unknown (Yunnan Jiuzhou Jinke Investment Company Ltd);Myanmar;Private company;;;
 39702;James Finlay (Kenya) Limited;Kenya;Private company;https://www.finlays.net/about-us/locations/kenya/;;"James Finlay (Kenya) Limited is a wholly owned subsidiary of James Finlay Limited.Today the company is owned by Britain’s John Swire & Sons, Ltd. with
 headquarters in London.  "
@@ -6086,10 +6103,10 @@ headquarters in London.  "
 39707;Agrozem LLC;Ukraine;Private company;;;
 39708;Lishchynske LLC;Ukraine;Private company;;;The company is terminated. Identification code - 03745723
 39709;Lan LLC;Ukraine;Private company;;;Identification code - 32276472. The previous parent companies were Azent Ltd. (76%) and Harmelia Investments Ltd. (24%). As for 2024, the parent company is Agrogeneration Ukraine LLC.
-39710;Unknown (Hongrui Lemon Development Company Ltd);Myanmar;Private company;;;
+39710;Shan State Government Authority;Myanmar;Government institution;;;Shan State government oncluded a cooperative agreement on opium substitution cultivation with Hongrui Lemon Development Co., Ltd  to develop a 3,300 hectares) lemon agricultural base near the Chinese border town Ruili/Muse
 39711;Agrodruzstvo Jevisovice Ukraine LLC;Ukraine;Private company;;;
-39712;Unknown (Yunnan Hongyu Group);Myanmar;Private company;;;
-39713;Unknown (Yunnan Wei Kai Industrial Company Ltd);Myanmar;Private company;;;
+39712;Shan State Army - South (SSA South);Myanmar;Government institution;;;
+39713;United Wa State Army (UWSA);Myanmar;Government institution;;;The United Wa State Army is the military wing and ruling party of the Wa State in Myanmar.
 39714;Unknown (Yunnan Victoria Bio-technology Development Company Ltd);Myanmar;Private company;;;
 39715;Unknown (Yunnan Si Hao Economic and Trade Company Ltd);Myanmar;Private company;;;
 39716;Kusto Agro Farming LLC;Ukraine;Private company;;;"Code - 34868532
@@ -6120,7 +6137,9 @@ The company's charter was terminated due to bankruptcy and reorganization"
 39733;Unknown (Astral Asia);Myanmar;Private company;;;
 39734;Eland Coal Mining;Malawi;Private company;;;
 39735;Test Primary Investor 2018 CA Changed 1 Rechanged 2;Germany;Private company;;;
-39738;Unknown (Haejohyub Bio Energy Myanmar);Myanmar;Private company;;;
+39738;Joint Venture - Myanmar Industrial Crops Enterprise & Hae Johyub Bio Energy Corporation;Myanmar;Private company;;;"Note that the official name of the JV company was never released and this serves as a placeholder
+
+MICDE went into a MoU to carry out biodiesel production project with Korea Company, Hae Johyub Bio Energy Corporation"
 39739;National Farmers Corporation;Liberia;Private company;;;
 39740;"Unknown (CITIC Group; Kyaukphyu SEZ Holding Company (MKSHC consortium))";Myanmar;Private company;;;
 39741;PE Step;Ukraine;Private company;;;
@@ -8728,7 +8747,7 @@ Main investors: Africa Re, African Development Bank, CDC, European Investment Ba
 42488;Kiwo Plc;Israel;;;;
 42489;Unknown Kiwo Plc;Ethiopia;Private company;;;New Investor
 42490;Alefora Agro Industry Plc;Saudi Arabia;Private company;;;
-42491;Unknown (Alefora Agro Industry Plc);Ethiopia;Private company;;;
+42491;Elfora Agro Industry Plc;Ethiopia;Private company;https://elfora.com.et/;;
 42492;Global Haulage Group;Ghana;Private company;https://globalhaulagegroup.com/;;A holding company for eleven (11) subsidiary companies and one associate company.
 42493;Alebachew Mamo and Mulugeta Abereha Plc;Ethiopia;Private company;;;New Investor
 42494;Chaklie Ejegu Plc;Ethiopia;Private company;;;New Investor
@@ -9824,7 +9843,7 @@ Equity and/or financial support from Blue Stone Management, IFC, Dash Ventures, 
 43538;Advantage Lithium Corp.;Canada;Stock-exchange listed company;https://www.advantagelithium.com/index.html;;
 43539;South American Salars S.A.;Argentina;Private company;https://southamericansalars.com.ar/;;
 43540;Cauchari JV.;Argentina;Other;;;The Cauchari JV project is a 25/75 joint venture between Orocobre and Advantage Lithium Corp.
-43541;Alpha Litium;Canada;Stock-exchange listed company;https://alphalithium.com/;;Alpha Lithium ha reunido a un equipo de profesionales de la industria y actores experimentados que aportan un enfoque global y sin riesgos a la minería global del litio.
+43541;Alpha Litium;Canada;Stock-exchange listed company;;;
 43542;Unknown (Brazilian investors in Nigeria deal 8736);Brazil;;;;
 43543;Unknown (Brazilian investors in Nigeria);Nigeria;;;;
 43544;Lithium Americas Corp.;Canada;Stock-exchange listed company;https://www.lithiumamericas.com/;;
@@ -10546,7 +10565,7 @@ La excelencia de nuestros recursos humanos, el comportamiento ético y responsab
 44333;Alfa Farm;Ukraine;Other;;;a subsidiary company
 44335;West Africa Trade & Investment Hub de l’USAID;Senegal;Private company;;;
 44340;Swiss Sustainable Agri Holdings II B.V.;Netherlands;Private company;;https://opencorporates.com/companies/nl/78323118;
-44341;PEC Energia S.A.;Brazil;Private company;https://www.pecenergia.com.br/historia.html;;The wind farm is a partnership between PEC Energia S.A. and Rio Energy Comercializadora de Energia S.A. In the Environmental Impact Study, the company Millennium Wind Participações Ltda. is as operator. Today the park belongs to PEC Energia and Rio Energy Comercializadora de Energia S.A.
+44341;PEC Energia S.A.;Brazil;Private company;https://www.pecenergia.com.br/historia.html;;
 44342;Millennium Wind Participações Ltda.;Brazil;Private company;;;
 44343;Omega Desenvolvimento de Energia S.A.;Brazil;Private company;;;
 44344;CANME;Argentina;Other;https://canmesanjuan.com.ar/;;"Es una Sociedad del Estado. Es un tipo societario existente en Argentina para regular el funcionamiento de empresas públicas. Las sociedades del Estado tienen la estructura general de una Sociedad Anónima y funcionan mayormente en el marco del derecho privado, aunque tienen diferentes obligaciones y responsabilidades que otros tipos societarios por lo que siempre resta algún margen de aplicación del derecho público. En ese sentido, se trata de un tipo jurídico que se ubica a medio camino entre una Sociedad Anónima y la Empresa del Estado.
@@ -11476,7 +11495,7 @@ SJVN Ltd. is a JV of Indian Government and Government of Himachal Pradesh."
 45567;ItraMAS Corporation Sdn Bhd;Malaysia;Private company;https://itramas.com/;;Established in 1999, ITRAMAS is an award-winning leader in the Greentech engineering field, where it has gained a foothold in the 4 main sectors of Renewable Energy (RE), Energy Efficiency (EE), Electronic Manufacturing Services & Smart City.
 45568;Edra Power Holdings Sdn Bhd (Edra);Malaysia;Private company;https://www.edra.energy/;;Edra Power Holdings Sdn Bhd (“Edra”) is one of South East Asia’s leading international independent power producers, controlling a diversified portfolio of quality power generation assets across a range of technologies.
 45570;Leader Solar Energy Sdn Bhd (LSE);Malaysia;Private equity firm;https://www.leaderenergy.com/;;Leader Energy Group Berhad (formerly known as Leader Energy Holding Berhad) is principally an investment holding company. The Group and its jointly controlled entities are an independent power producer (“IPP”) that is primarily engaged in development, ownership, operation and maintenance of power generation and transmission assets.
-45572;The African National Oil Corporation s.a.r.l. (ANOC);Senegal;Private company;;;
+45572;African National Oil Corporation s.a.r.l. (ANOC);Senegal;Private company;;;
 45574;SJVN Limited;India;Stock-exchange listed company;https://sjvn.nic.in/;https://opencorporates.com/companies/in/L40101HP1988GOI008409;SJVN, formerly known as Satluj Jal Vidyut Nigam, is an Indian public sector undertaking in the Navratna Category which is involved in hydroelectric power generation and transmission.
 45576;State Bank of India (SBI);India;Bilateral Development Bank / Development Finance Institution;https://www.onlinesbi.sbi/;;State Bank of India (SBI) is an Indian multinational public sector bank and financial services statutory body headquartered in Mumbai, Maharashtra.
 45579;Union Bank of India;India;Bilateral Development Bank / Development Finance Institution;https://www.unionbankofindia.co.in/english/home.aspx;;Union Bank of India is one of the largest government-owned banks of India
@@ -12237,6 +12256,7 @@ Registry No. - J13/1215/2002,
 EUID - ROONRC.J13/1215/2002"
 46616;Veroniki Holding SpA;Italy;Private company;https://www.veronikiholding.com/en/;;
 46617;Cambodia Hydropower Development Co. Ltd (CHD);Cambodia;Private company;;https://data.opendevelopmentcambodia.net/library_record/webpage-capture-on-conserving-water-resources-to-generate-electricity-of-c-h-d-cambodia-hydropower/resource/a77c2ce6-0db0-42af-a183-eba9bd27562b;C.H.D (Cambodia) Hydropower Development Co. Ltd. is a private limited company that operates the Stueng Atay Upper Power Plant in Cambodia. They are a local branch of China Datang Corporation (CDT) for this investment
+46618;LNB Renewable Energy Private Limited (LNB Renewable);India;Private company;http://www.lnbrenewable.com/about-us.php;;LNB Renewable Energy Private Limited (LNB Renewable), a leading provider of EPC and O&M solutions for grid-connected rooftop and utility-scale solar power projects, is part of the LN Bangur Group, one of India's leading diversified business conglomerate with interests that span across various sectors like Textiles, Corporate, Farming, and more (Data Sources 1,2, and 3).
 46621;CETIC, International Hydropower Development Co., Ltd.;Cambodia;Private company;;;CETIC International Hydropower Development Co. Ltd (CETICI). is the first investment company, on BOT basis in electric section in Cambodia, approved by the Council for the Development of Cambodia (CDC) in December 29, 2000.
 46624;Atria Power Corporation Limited (Atria Power);India;Private company;https://www.atriapower.com/;;Atria Power is an India-based renewable energy company that develops, builds, owns, and operates utility-scale solar and wind energy projects. The company is committed to providing clean and affordable energy to communities in India, and has developed more than 800 MW of solar and wind projects across the country.
 46625;Naryn Production Enterprise LLC;Kyrgyz Republic;Private company;https://kulanak.kg/;;Naryn Production Enterprise LLC is an energy utility that generates, transmits, and distributes electricity. The company is headquartered in Kyrgyzstan.
@@ -12448,6 +12468,9 @@ The part of Buchachagrohlibprom group."
 46786;Granhold LLC;Belgium;Private company;https://www.granhold.com/;;
 46787;Kamuthi Solar Power Limited (KSPL);India;Private company;https://www.adanigreenenergy.com/solar-power/kamuthi;;Kamuthi Solar Power Limited, a subsidiary of the Adani Group, operates the 648 Kamuthi Solar Power Project
 46788;Atenil S.A.;Paraguay;Private company;https://www.atenil.com.py/;;
+46789;SilviCarbon Agroforestry Sole Company Limited (SCALA);Lao PDR;Private company;https://silvicarbon.com/scala-new/;;"SCALA operates an integrated landscape project in Laos, combining plantation forestry, carbon capture, native forest conservation and restoration, farmer-driven agriculture and biochar manufacturing.  
+
+The local Lao company ‘SilviCarbon Agroforestry Sole Company Limited’ (“SCALA”) is 100% owned by the Swedish holding company ‘SilviCarbon Agroforestry AB’, which in September 2021 was acquired by SilviCarbon BV from StoraEnso Ltd."
 46790;El Retiro S.A.;Paraguay;;https://www.npp-neem.com/;;
 46791;Fundación Panguana;Paraguay;Non - Profit organization (e.g. Church, University etc.);https://panguana.de/;;
 46792;Rodríguez Nocetti SRL;Argentina;Private company;https://www.rodrigueznocetti.com/;;
@@ -12633,7 +12656,10 @@ Following the successful commencement of operations of Master Wind, the Group ve
 
 In line with our commitment, we are continuing the process of investing in further indigenous and renewable energy projects, including wind and hydro power projects."
 46936;Reforestadora Caracoli S.A.S.;Colombia;Private company;;;Reforestadora Caracoli S.A.S. is based in Colombia. The head office is in Medellin. It operates in the All Other Crop Farming industry. The company was established on October 19, 2009
+46938;Palimarwar Solar House Pvt. Ltd. (PSHPL);India;Private company;;;Palimarwar Solar House Pvt. Ltd. (PSHPL) is a special purpose vehicle (SPV) incorporated by LNB Solar for the implementation of a 40 MW solar project in the Goongae Village, Barmar District, Rajasthan (Data Source 1).
 46939;Sishen Solar Facility;South Africa;Other;;;Its ownership structure is distributed among ACCIONA Energía, which holds the majority share of 54.9%, followed by Royal Bafokeng Holdings with 25.1%. Additionally, the Soul City Broad-Based Empowerment Company and the Dibeng Community Solar Energy Trust each own 10%, ensuring the inclusion of local stakeholders and economic empowerment mechanisms within the project.
+46946;LNB Solar Energy Private Limited (LNB Solar);India;Private company;;;"LNB Solar Energy Private Limited (LNB Solar) is wholly owned by LNB Renewable Energy Private Limited (LNB Renewable), a venture under LNB Group that focuses on green initiatives (Data Source 1; Data Source 2)."
+46947;LNB Group;India;Asset management firm;https://www.lnbgroup.com/about.php;;LNB Group is one of India's leading diversified business conglomerate with interests that span across various sectors like Textiles, Corporate, Farming, Agriculture Supply Chain Management Solutions, Renewable Energy, Tea, Health & Wellness, Financial Services and Private Equity.
 46949;Green Watts Renewable Energy LLC;Jordan;Private company;https://alcazarenergy.com/al-rajef-wind-farm/;;Green Watts Renewable Energy LLC is a special purpose vehicle incorporated in Jordan for the sole purpose of developing, constructing and operating the Project. It is 100% owned by Alcazar Energy Partners, a Dubai-based independent developer and power producer active in the Middle East, Africa and Turkey.
 46951;Pawan Danavi Private Limited;Sri Lanka;Private company;https://pawandanavi.lk/;;Pawan Danavi (Pvt) Ltd, a subsidiary company of LTL Holdings, operates The Pawan Danavi Wind Farm (also internally known as the Kalpitiya Wind Farm, and LTL Holdings Wind Farm after its parent company). It is a 10.2 MW onshore wind farm located near Kalpitiya, in the Puttalam District of Sri Lanka
 46955;Greenko Mauritius;Mauritius;Private company;;;Greenko Mauritius is an intermediate holding company wholly owned by the Greenko Energy Holdings (GEH), the ultimate holding company of the Greenko Group.
@@ -12801,6 +12827,7 @@ This project is in line with the Government of Pakistan’s desire to reduce dep
 47272;Minera Peregrine Argentina S. A. U.;Argentina;Private company;;;
 47273;Nuton Holdings Ltd.;United Kingdom of Great Britain and Northern Ireland;Private company;https://nuton.tech/;;
 47276;Enel Green Power Primavera;Brazil;Private company;https://www.enel.com/;;
+47277;Tecpetrol;Argentina;Private company;;https://www.tecpetrol.com/en;
 47278;Orion Group;United Kingdom of Great Britain and Northern Ireland;Asset management firm;https://www.orionjobs.com/;;Orion Group is a trusted leader in oil and gas recruitment, specialising in sourcing exceptional professionals for offshore and onshore roles across engineering, exploration, production, and supply chain sectors.
 47279;Bangla Sun Solar Limited (BSSL);Bangladesh;Private company;;;Scatec Solar, operating through a special purpose vehicle called Bangla Sun Solar Limited (BSSL), is spearheading the development of a solar park.
 47280;NSIA banque;Côte d'Ivoire;Investment Bank;https://www.nsiabanque.ci/;;
@@ -12810,5 +12837,40 @@ This project is in line with the Government of Pakistan’s desire to reduce dep
 47290;Biosoy;Senegal;Other;;;
 47292;NMA Sanders;Senegal;Private company;;;
 47293;FONSIS;Senegal;Investment fund;https://www.fonsis.org/fr/agrobusiness/;;
+47294;CMOC Brasil;Brazil;Private company;https://cmocbrasil.com/br;;CMOC Brasil is a subsidiary of CMOC International (formerly known as China Molybdenum Company). It is one of the largest mining companies in the world.
+47295;Atlas Renewable Energy;United States of America;Private company;https://www.atlasrenewableenergy.com;;Controlled by the UK-based investment firm Actis.
 47300;Sothys GmbH;Switzerland;Private company;https://sothysnature.com/;;Sothys GmbH es una empresa suiza especializada en la gestión forestal sostenible y el desarrollo de proyectos de carbono. Su VISIÓN es desarrollar proyectos rentables que sean un factor determinante en la mitigación del cambio climático, fomentando el desarrollo sostenible local y la protección de la biodiversidad. Su MISIÓN es promover proyectos de triple impacto—protección ambiental, responsabilidad social y productividad económica—mediante la gestión sostenible de bosques y la generación de créditos de carbono.
 47302;Jacaranda Monapo Lda.;Mozambique;Private company;https://jacaranda-agricultura.com/index.php/jacaranda-group/jacaranda-monapo;;
+47303;Agropecuaria Acres del Sud SA;Bolivia;Private company;;;
+47310;Amazon Reforestation Consortium;Brazil;Private company;;;There is little detailed information available about the Amazon Reforestation Consortium, aside from listing Michael Greene as the contact person. Greene, the founder of Agfor LLC, has overseen 19 offset projects in the Amazon, some of which have been associated with land conflicts.
+47311;Agro Boye Business SUARL;Senegal;Private company;;;
+47312;SERIC SUARL;Senegal;Private company;;;
+47313;SilviCarbon BV;Netherlands;Private company;https://silvicarbon.com/;;"SilviCarbon BV is a world leading nature based carbon removal company, and the founders have been active in the carbon and forestry markets since the 90ties, having managed hundreds of carbon and forestry projects. SilviCarbon team member has vast experience in developing green field plantations around the world, including Laos.
+
+SilviCarbon BV is 51% owned by Varo Energy BV, a leading independent European energy and fuel company focused on the energy transition. Varo Energy is owned for two thirds by Carlyle International Energy Partners and for one third by Vitol, amongst others the largest carbon trader in the world."
+47315;unknown (Jaky Rauchaudeau);Senegal;;;;
+47316;Groupe Managem;Senegal;Private company;https://www.managemgroup.com/en;;
+47317;Agri VMA SRL;Vietnam;Private company;https://agrivma.com/sobre-nosotros/;;
+47318;FUJINUCO;Vietnam;Private company;http://www.fujifeed.com.vn/trang-gioi-thieu;;
+47319;Mere Plantations in Ghana;Ghana;;;;
+47320;Unknown;Brazil;;;;
+47321;Stellantis;Netherlands;Stock-exchange listed company;https://www.media.stellantis.com/ar-es/;;
+47323;Enerplan;Brazil;;https://enerplanenergia.com.br/;;
+47324;Austroid Argentina Resources S.A.U;Argentina;Private company;https://www.austroidcorp.com/;;
+47326;Honda Energy do Brasil;Brazil;;https://www.honda.com.br/institucional/honda-energy;;
+47327;Patagonia Lithium Argentina S.A.;Argentina;Private company;https://www.patagonialithium.com.au/company-profile;;
+47330;Ministry of Agriculture, Livestock and Irrigation (MOALI);Myanmar;Government institution;https://myanmar.gov.mm/ministry-of-agriculture-livestock-irrigation;;"Ministry of Agriculture, Livestock and Irrigation; abbreviated MOALI) is the ministry which was composed with three former ministries, Ministry of Livestock, Fisheries and Rural Development, Ministry of Agriculture and Irrigation and Ministry of Cooperatives."
+47331;Federal Land Development Authority (FELDA);Malaysia;Government institution;http://www.felda.gov.my/;;"The Federal Land Development Authority (Felda; Malay: Lembaga Kemajuan Tanah Persekutuan, LKTP) is a Malaysian government agency that was founded to handle the resettlement of rural poor into newly developed areas (colonies, settlements or schemes) and to organize smallholder farms growing cash crops."
+47332;FWQ Enterprises (Private) Limited (FWQ);Pakistan;Private company;https://fwq.com.pk/;;"FWQ Enterprises (Private) Limited (FWQ) is FGV’s subsidiary in Pakistan with 65% shareholdings
+and the balance held by Westbury Group. It is in charge of the Bulking Installation/Terminal for handling and storage of Palm Oil and other Edible Oils, Modern Palm Oil Refinery, Solvent Extraction Plant and Port infrastructure Jetty Project of Liquid Cargo Terminal (LCT) at Port Qasim."
+47333;Westbury Group (WG);Pakistan;Private company;https://www.westburygroup.com.pk/about/#;;Westbury Group (WG) is one of the leading business houses in Pakistan. WG is providing import/export, refining, manufacturing, shipping, storage, warehousing, local trading, insurance and industrial services of diversified nature to various industrial units throughout Pakistan.
+47334;Pakistan Agricultural Research Council (PARC);Pakistan;Government institution;https://www.parc.gov.pk/;;The Pakistan Agricultural Research Council (PARC) is a premier research organization dedicated to enhancing agricultural productivity and sustainability in Pakistan.
+47335;First Myanmar Investment Company Limited (FMI);Myanmar;Stock-exchange listed company;https://fmi.com.mm/;;First Myanmar Investment (also abbreviated FMI) is a major Myanmar investment company founded in 1992 as one of Myanmar's first publicly traded companies. It is a subsidiary of Serge Pun & Associates
+47336;Serge Pun & Associates (SPA Group);Myanmar;Asset management firm;https://www.spa-myanmar.com/;;Serge Pun & Associates (also SPA Group) is a major Myanmar-based conglomerate, engaged in 8 core sectors with 25 subsidiaries, involved in automobiles, real estate, retail, luxury tourism, agriculture and financial services.
+47338;Vanimo Jaya & One Uni Development Corporation;Papua New Guinea;Private company;;;"This investor serves as a placeholder for the JVA company
+
+an SABL over 47,626 hectares of land in West Sepik Province was issued jointly to One Uni Development Corporation (a landowner company) and Vanimo Jaya Ltd (a logging company)"
+47340;Yupaoyan Cassava Processing Co., Ltd.;Lao PDR;Private company;;;Yupaoyan Cassava Processing Co., Ltd. is a leading cassava processing company in Laos, established in 2015 in Luang Namtha province, produces a variety of cassava products, including cassava starch, cassava flour, cassava chips, and ethanol
+47342;Safresco Perú S.A.;Peru;Private company;https://safrescoglobal.com/;;Safresco Peru S.A. inició sus operaciones como Agrícola Hoja Redonda, posteriormente se denominó San Miguel Fruits Perú S.A. y en 2023 comenzó a operar con su denominación actual.
+47345;Agricom Borcea LLC;Romania;Private company;;;
+47346;Transcarpathians Trading LLC;Romania;Private company;;;
