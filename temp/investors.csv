@@ -177,7 +177,7 @@ PSE Stock Code: NIKL"
 495;Ruam Jai Chao Nah (Uniting Farmers);Saudi Arabia;Private company;;;"the ""investor"" is not purely Saudi Arabian - it is a joint farming project between Saudi Arabian investors and Thai farmers"
 496;University of Kasetsart;Thailand;State-/government (owned) company;;;
 497;Viengsa Agricultural Co-operative;Thailand;;;;The Viengsa Agricultural Co-operative is an association of farmers
-498;Charoen Pokphand;Thailand;Stock-exchange listed company;;;
+498;Charoen Pokphand Group Co., Ltd. (CP Group);Thailand;Stock-exchange listed company;https://www.cpgroupglobal.com/en/home;;Charoen Pokphand Group operates a diverse range of businesses to create synergies across industries and deliver value in all dimensions. The Group’s businesses operates a diverse business covering Agro-industry and Food, Retail and Distribution, Media and Telecommunication, E-Commerce and Digital, Property Development and Infrastructure, Automotive and Industrial Products, Pharmaceuticals, and Finance and Banking.
 505;Planet Food World (PFWC);Saudi Arabia;Private company;;;
 507;Saudi Fund for Development;Saudi Arabia;Investment fund;;;Part of Saudi fund for development $566m investment vehicle for buying land abroad.
 508;Unnamed investor 106;Saudi Arabia;Private company;;;Société saoudienne
@@ -1573,7 +1573,7 @@ The Silverlands Fund targeted a net internal rate of return in the mid-teens, ac
 3135;Agrogeba;Spain;Investment fund;;;
 3136;Gujarat Industrial Development Corporation (GIDC);India;State-/government (owned) company;;;
 3138;Banya Group Co Ltd.;Cambodia;Private company;;;
-3139;Best Royal (K) Co. Ltd;;;;;
+3139;Best Royal (K) Co. Ltd;Cambodia;Private company;;;
 3141;Tumu Timbers Development Limited;Papua New Guinea;Private company;;;"a.k.a. ""Tuma Timbers Investment Ltd."""
 3142;Tongaat Hulett Sugar South Africa Ltd.;South Africa;Stock-exchange listed company;;;
 3143;Biomass Development Plc;Zambia;;;;
@@ -1997,7 +1997,9 @@ Billy  Rautenbach"
 3772;Jean Valvis;Switzerland;Individual entrepreneur;;;Jean Valvis is of Greek and Swiss Nationality.
 3773;Vargas 10 S.L.;Spain;Private company;;;
 3779;S.C. Agrocomplex Lunca Pascani SA;Romania;Stock-exchange listed company;;;80% of the shares are owned by  DUMITRU Pantazi, the deputy mayor of Pascani
-3780;S.C. Transavia S.A.;Romania;Stock-exchange listed company;;;
+3780;SC Transavia LLC;Romania;Stock-exchange listed company;;https://www.transavia.ro/;"Fiscal Code	5182310,
+Registry No.	J1994000089015 ,
+EUID	ROONRC.J1994000089015"
 3797;S.C. Sacom S.p.A.;Italy;Stock-exchange listed company;;;
 3800;S.C. Mimo Trading Corporation S.R.L.;Romania;Private company;;;owned by the Lebanese businessman Abdallah Mahmoud Achour 
 3802;Maria Ecaterina Văleanu-Traicu;Romania;Individual entrepreneur;;;Maria Ecaterina Văleanu-Traicu is the daughter of Ştefan Poienaru, the owner of S.C. Agrofam S.R.L. Fetesti
@@ -3971,7 +3973,6 @@ goes ahead, Kessler will have the right to acquire 5% of the shares"
 36876;Cambodia Dawn Plantation Ltd.;Cambodia;Private company;;;
 36879;Unknown (Yuan Longping High-Tech Agricultural Company);Zambia;Private company;;;
 36880;Banya Group Co Ltd.;Cambodia;Private company;;;
-36881;Unknown (Best Royal (K) Co. Ltd, in Cambodia, 36881);Cambodia;Private company;;;
 36883;Unknown (UNKNOWN);Zambia;Private company;;;
 36887;"PT Surya Sawit Sejati ""PT SSS1""";Indonesia;Private company;;;
 36888;"PT Sawit Seberang Seberang ""PT SSS2""";Indonesia;Private company;;;
@@ -5235,14 +5236,15 @@ EUID ROONRC.J2000000049212"
 38775;SC Andra International SRL;Romania;Private company;;;
 38776;SC Agrofarine SRL;Romania;Private company;;;
 38777;SC Sopema SRL;Romania;Private company;;;
-38778;SC Agricost SRL;Romania;Private company;;;
 38779;SC Holder Trade SRL;Romania;Private company;;;
 38780;SC Agrolact A.C.T. Jibert SRL;Romania;Private company;;;
 38781;SC Vis Agri SRL;Romania;Private company;;;
 38782;SC Sadelli Prodcom LLC;Romania;Private company;;;"Fiscal Code 7160700,
 Registry No. J05/428/1995, 
 EUID ROONRC.J5/428/1995"
-38783;SC Agrocom Strunga;Romania;Private company;;;
+38783;Agrocom Strunga LLC;Romania;Private company;;;"Fiscal Code	1949799,
+Registry No.	J22/624/1991,
+EUID	ROONRC.J22/624/1991"
 38784;Unknown (The Green Rich Co., Ltd. , in Cambodia, 38784);Cambodia;Private company;;;
 38785;SC Interagro SRL;Romania;Private company;;;
 38786;SC COMCEREAL SA VASLUI;Romania;Private company;;;
@@ -5294,7 +5296,9 @@ EUID ROONRC.J51/226/2010"
 38829;SC Agromixt Buciumeni SRL;Romania;Private company;;;
 38830;Unknown (S.C. Agrocomplex Lunca Pascani SA);Romania;Private company;;;
 38831;S.C. Agrichim S.R.L. Fetesti;Romania;Private company;;;
-38832;S.C. Afiliu Trans S.R.L.;Romania;Private company;;;
+38832;SC Afiliu Trans LLC;Romania;Private company;https://www.afiliu.ro/;;"Fiscal Code	9162146,
+Registry No.	J1997000151298,
+EUID	ROONRC.J1997000151298"
 38833;S.C. Carmolimp S.R.L.;Romania;Private company;;;
 38834;S.A. Agroind Berezeni;Romania;Private company;;;
 38835;S.C. Argonaut S.R.L.;Romania;Private company;;;
@@ -6217,7 +6221,9 @@ MICDE went into a MoU to carry out biodiesel production project with Korea Compa
 39796;Sein Wut Hmon Company Limitted;Myanmar;Private company;https://seinwuthmon.com/;;Sein Wut Hmon Group is one of the leading conglomerate group in Myanmar. Our group diverse array holding ranges of business into distribution, manufacturing, plantation, service, retail and trading. We are operating our business through Sein Wut Hmon Co., Ltd. (a distribution company), IMU Enterprise Ltd. (a manufacturing company), Sein Myo Daw Co., Ltd. (a trading company), and Star Way Co., Ltd. (a distributing company).
 39797;Jadeland Company;Myanmar;Private company;;;
 39798;Shpola-Agro Industry LLC;Ukraine;Private company;;;
-39799;Agricost S.A.;Romania;Private company;;;
+39799;Agricost PLC;Romania;Private company;;;"Fiscal Code 14327160,
+Registry No.	J2013000247092,
+EUID	ROONRC.J2013000247092"
 39800;Kenya Breweries Limited;Kenya;Private company;;;
 39801;Annawa Soe Moe;Myanmar;Private company;;;
 39802;Shwe Kanbawza Co. Ltd. (SKBZ);Myanmar;Private company;;;This company has supposedly renamed itself but no sources have mentioned what name it has been turned into. It changed due to a legal dispute with the local community and lost
@@ -7989,8 +7995,8 @@ SLA was acquired by the SIVA group."
 41646;Eastern Agro (Cambodia);Cambodia;;;;
 41647;Sethikula Co. Ltd.;France;Private company;;https://opencorporates.com/companies/kh/00017139;
 41650;Srun Sovannaphoum Investment Co. Ltd;Cambodia;Private company;;https://opencorporates.com/companies/kh/00001850;
-41653;Pour Khouch Aphivath Group Co. Ltd.;Cambodia;;;https://opencorporates.com/companies/kh/00007379;
-41654;Heam Kok Ham Co. Ltd.;Cambodia;;;;
+41653;Pour Khouch Aphivath Group Co. Ltd.;Cambodia;Private company;;https://opencorporates.com/companies/kh/00007379;
+41654;Heam Kok Ham Co. Ltd.;Cambodia;Private company;;;
 41655;Nature Plantation (K.H) Co. Ltd.;Cambodia;Private company;;;
 41656;Heng Mean Investment;Cambodia;Private company;;https://opencorporates.com/companies/kh/00001747;
 41657;(Cambodia) Farmer Investment Co. Ltd.;Cambodia;Private company;;;Company is backed by an unidentified Chinese company
@@ -10562,6 +10568,7 @@ La excelencia de nuestros recursos humanos, el comportamiento ético y responsab
 44281;SMG S.R.L.;Argentina;Private company;;;
 44283;CENTAUR RESOURCES P.G. S.A.S;Argentina;Private company;;;
 44285;Hanaq Argentina S.A.;Argentina;Private company;;;
+44286;Hanaq Group;China;Stock-exchange listed company;https://hanaqgroup.com;;
 44289;Rio Sava Exploration d.o.o;Serbia;Private company;https://www.riotinto.com/en;;
 44290;Carnex D.O.O ;Serbia;Private company;http://www.mkgroup.rs/;;
 44291;Sunoko d.o.o.;Serbia;Private company;https://www.sunoko.rs/en/;;
@@ -10779,8 +10786,8 @@ Previously known as: Geogen Corp."
 44521;Sinophil Mining and Trading Corporation;Philippines;Private company;;;
 44532;Unknown(Bas-Mangoky Project);Madagascar;;;;
 44537;Agro-Region LLC;Ukraine;Private company;;;Identification number - 32282203
-44540;Green Development Co.,Ltd.;Japan;Private company;http://gdc-ltd.com/en/#about;;No information about open corporation
-44542;C.A.D.I Co., Ltd;Cambodia;Private company;;https://opencorporates.com/companies/kh/00015521;
+44540;Green Development Co, Ltd.;Cambodia;Private company;;;
+44542;C.A.D.I Co., Ltd;Cambodia;Private company;;https://opencorporates.com/companies/kh/00015521;C.A.D.I Co., Ltd. is a joint venture between CP Group and Soma Group, under the entity of SM&CP MegaFarm
 44545;DTEK Prymorska wind farm LLC;Ukraine;Private company;;;Identification code - 36496784
 44546;DTEK Orlivska wind farm LLC;Ukraine;Private company;;;Identification code - 41310382
 44547;Primorskaya WEP B.V.;Netherlands;Private company;;;
@@ -11478,6 +11485,7 @@ The project is under the leadership of the Moroccan Agency for Sustainable Energ
 45454;KNCC ;Congo, Dem. Rep.;Individual entrepreneur;;;
 45456;FRM Commitment ;Congo, Dem. Rep.;;;;
 45457;M-KAT Green LLP;Kazakhstan;Private company;https://mkat.kz/m-kat-green/;;
+45458;Bosques Cautin S.A.;Chile;Private equity firm;https://bosquescautin.cl/;;
 45459;Ricardo Stoppe Junior;Brazil;Individual entrepreneur;;;
 45460;Barrick Chile Generación Limitada;Chile;Private company;;;
 45461;The Nature Conservancy;United States of America;Non - Profit organization (e.g. Church, University etc.);https://www.nature.org/es-us/sobre-tnc/quienes-somos/;;
@@ -12692,27 +12700,44 @@ Following the successful commencement of operations of Master Wind, the Group ve
 In line with our commitment, we are continuing the process of investing in further indigenous and renewable energy projects, including wind and hydro power projects."
 46935;Adani Energy Holdings Limited (AEHL);India;Private company;;;Adani Energy Holdings Limited (AEHL) is a wholly owned subsidiary of Adani Green Energy Limited (AGEL), the renewable energy arm of the Adani Group.
 46936;Reforestadora Caracoli S.A.S.;Colombia;Private company;;;Reforestadora Caracoli S.A.S. is based in Colombia. The head office is in Medellin. It operates in the All Other Crop Farming industry. The company was established on October 19, 2009
+46937;FFC Energy Limited (FFCEL);Pakistan;Stock-exchange listed company;https://ffcel.com.pk/;;"FFC Energy Limited (FFCEL) is a special purpose public limited company which has been established and set up under the laws of Pakistan and is incorporated under the Companies Act 2017. It is a 100% owned subsidiary of Fauji Fertilizer Company Ltd. which is one of the biggest names in Pakistan’s corporate sector for last 4 decades, and is the largest fertilizer producer in Pakistan with 60 % of the fertilizer market share in the country.
+
+FFCEL has developed Pakistan’s first Wind Energy Project at Jhampir, District Thatta, Sindh. The company has played a pioneering and leading role in developing Pakistan’s nascent wind power sector. With total installed capacity of 49.5 MW and consisting of 33 number of Nordex S77 1.5 MW wind turbines, FFCEL became Pakistan’s first wind power electricity generation company to achieve Financial Close on June 28, 2011."
 46938;Palimarwar Solar House Pvt. Ltd. (PSHPL);India;Private company;;;Palimarwar Solar House Pvt. Ltd. (PSHPL) is a special purpose vehicle (SPV) incorporated by LNB Solar for the implementation of a 40 MW solar project in the Goongae Village, Barmar District, Rajasthan (Data Source 1).
 46939;Sishen Solar Facility;South Africa;Other;;;Its ownership structure is distributed among ACCIONA Energía, which holds the majority share of 54.9%, followed by Royal Bafokeng Holdings with 25.1%. Additionally, the Soul City Broad-Based Empowerment Company and the Dibeng Community Solar Energy Trust each own 10%, ensuring the inclusion of local stakeholders and economic empowerment mechanisms within the project.
 46946;LNB Solar Energy Private Limited (LNB Solar);India;Private company;;;"LNB Solar Energy Private Limited (LNB Solar) is wholly owned by LNB Renewable Energy Private Limited (LNB Renewable), a venture under LNB Group that focuses on green initiatives (Data Source 1; Data Source 2)."
 46947;LNB Group;India;Asset management firm;https://www.lnbgroup.com/about.php;;LNB Group is one of India's leading diversified business conglomerate with interests that span across various sectors like Textiles, Corporate, Farming, Agriculture Supply Chain Management Solutions, Renewable Energy, Tea, Health & Wellness, Financial Services and Private Equity.
+46948;Zorlu Solar Pakistan (Private) Limited;Pakistan;Private company;https://www.zorluenerji.com.tr/en/corporate/sunsidiaries-and-asso/zorlu-solar-pakistan-private-ltd;;The company's core objective is to generate and supply electricity through various resources including, but not limited to, thermal energy plants, wind farms, hydroelectric power stations, and solar energy facilities. It aims to develop, operate, and manage electricity projects and transmission systems, and undertake all related activities including production, procurement, supply, and assembly of complementary components. The registration of the company in Pakistan was completed on November 18, 2016.
 46949;Green Watts Renewable Energy LLC;Jordan;Private company;https://alcazarenergy.com/al-rajef-wind-farm/;;Green Watts Renewable Energy LLC is a special purpose vehicle incorporated in Jordan for the sole purpose of developing, constructing and operating the Project. It is 100% owned by Alcazar Energy Partners, a Dubai-based independent developer and power producer active in the Middle East, Africa and Turkey.
 46951;Pawan Danavi Private Limited;Sri Lanka;Private company;https://pawandanavi.lk/;;Pawan Danavi (Pvt) Ltd, a subsidiary company of LTL Holdings, operates The Pawan Danavi Wind Farm (also internally known as the Kalpitiya Wind Farm, and LTL Holdings Wind Farm after its parent company). It is a 10.2 MW onshore wind farm located near Kalpitiya, in the Puttalam District of Sri Lanka
+46952;Greenko Suvaan Energy Private Limited;India;Private company;;;"Greenko Suvaan Energy Private Limited, incorporated on March 8, 2016, is a wholly owned subsidiary of Greenko Renewable Power Private Limited (GRPPL). The company currently operates a 100.00 MWAC (138.00 MWDC) solar power plant in Maharashtra, India (Data Source 1, Page 4). Previously known as Orange Suvaan Energy Private Limited, the company changed its name on January 18, 2021, following Greenko Group's acquisition of Orange Renewable, the parent company of Orange Suvaan, from Singapore's AT Capital Group (Data Source 3, Page 2; Data Source 2)."
+46953;Zorlu Energy Pakistan Limited;Pakistan;Private company;https://www.zorluenerji.com.tr/en/corporate/sunsidiaries-and-asso/zorlu-enerji-pakistan;;
 46955;Greenko Mauritius;Mauritius;Private company;;;Greenko Mauritius is an intermediate holding company wholly owned by the Greenko Energy Holdings (GEH), the ultimate holding company of the Greenko Group.
 46956;Greenko Energy Holdings (GEH);Mauritius;Asset management firm;https://greenkogroup.com/;;Incorporated in Mauritius, Greenko Enery Holdings (GEH) is the ultimate holding company of the Greenko Group, one of India's leading Renewable Energy companies with a net installed capacity of 11 GW across 20 states in India (Data Source 1). As of March 31, 2020, GEH had 188 subsidiaries based in India and 6 subsidiaries based in Mauritius and Singapore (Data Source 2, Page 2)
 46959;Sachal Energy Development (Pvt.) Ltd. (SEDL);Pakistan;Private company;https://www.sedlpk.com/;;"Sachal Energy Development (Pvt.) Ltd. (SEDL) is a leading renewable energy company dedicated to driving Pakistan’s transition towards clean and sustainable power. We specialize in the development and operation of wind energy projects, contributing to the nation’s energy security and environmental sustainability.
 
 Our flagship project of 49.5 MW wind power in Jhimpir, Sindh, has been operational since April 2017, generating approximately 136,500 MWh of clean electricity annually. By harnessing the power of wind, we are actively reducing carbon emissions and promoting energy independence"
 46960;Ponterra Ltd.;United Kingdom of Great Britain and Northern Ireland;Private company;https://ponterra.eco/;;
+46961;Vena Energy Solar Ravi India Power Resources Pvt. Ltd.;India;Private company;;;Vena Energy Solar Ravi India Power Resources Pvt. Ltd. is a private company incorporated on December 19, 2015. It is classified as a subsidiary of a foreign-incorporated entity and is registered with the Registrar of Companies, Bangalore. The company has an authorized capital of ₹30,000,000 and a paid-up capital of ₹23,100,000.
 46962;Panama Reforestation Services S.A.;Panama;Private company;https://panamareforestationservices.com/;;
+46963;MSPL Limited;India;Private company;https://baldota.co.in/mspl-limited;;"MSPL Limited is Baldota Group flagship company with varied interests and investments in iron ore mining, Palettization, mineral processing, and mineral export. MSPL Limited is among the industry's pioneering leaders with a rich history of over six decades of experience and expertise. MSPL also boasts the largest installed capacity of green and clean energy in India.
+
+MSPL Limited has 5 Mining leases and 1 pellet plant capacity of 1.2 MTPA. MSPL Limited is expanding its business by adding one more Beneficiation & pellet plant capacity of 3MTPA."
 47015;Andhra Pradesh Power Generation Corporation Limited (APGENCO);India;Government institution;https://apgenco.gov.in/;;Andhra Pradesh Power Generation Corporation Limited is power generating organization in Andhra Pradesh. It undertakes operation and maintenance of the power plants and also setting up new power projects alongside upgrading the project's capacity
+47018;SB Energy Private Limited;India;Private company;;;
 47019;SC Rotunda LLC;Romania;Private company;;;"Fiscal Code 22102770
 Registry No. J19/650/2007 
 EUID	ROONRC.J19/650/2007"
+47020;Mega Suryaurja Private Limited (MSUPL);India;Private company;;;Mega Suryaurja Private Limited (MSUPL) is a special purpose vehicle established by Mahindra Susten Private Limited (MSPL) to develop a 250 MW Solar Power Project in Rajasthan (Data Source 1, Page 1). Following the Share Purchase Agreement on December 14, 2023, MSPL transferred 100% of its shares in MSUPL to the Sustainable Energy Infra Trust (SEIT) on January 9, 2024, making MSUPL a wholly owned subsidiary of SEIT (Data Source 2, Page 3).
 47021;Sustainable Energy Infra Trust (SEIT);India;Stock-exchange listed company;https://www.linkedin.com/company/sustainable-energy-infra-trust;;"SEIT is an Indian Infrastructure Investment Trust (InvIT) established on July 20, 2023. It is jointly sponsored by Mahindra Susten Private Limited (MSPL), the renewable energy platform of the Mahindra Group, and 2726522 Ontario Limited. The latter is an affiliate of 2452991 (2OL), which is a wholly owned subsidiary of the Ontario Teachers' Pension Plan Board (OTPP), a leading global institutional investor (Data Source 1, Page 80; Data Source 2; Data Source 3, Page 2).
 
 SEIT is India's largest InvIT in the renewable energy space and is listed on the National Stock Exchange of India Limited. It made its trading debut on January 15, 2024, with an offer size of 22.63 billion rupees ($273 million) at an issue price of 100 rupees per unit (Data Source 4)."
+47022;Mahindra Susten Private Limited (MSPL);India;Private company;https://www.mahindrasusten.com/;;"Mahindra Susten Private Limited (MSPL), the clean-tech arm of the Mahindra Group, was established  in 2010 as a pioneer in India’s renewable power sector. It has developed over 1.5 GWp of IPP assets (working on 1.9 GWp+ more) and has executed over 4.2 GWp of renewable projects globally as an EPC contractor (Data Source 1).
+
+Mahindra Holdings Limited holds a 60.01% stake in MSPL, while 2452991 Ontario Limited (2OL) holds the remaining 39.99% (Data Source 2, Page 80)"
 47024;Tadau Energy Sdn Hbd;Malaysia;Private company;https://tadau.com.my/;;Tadau Energy is a power generating company utilizing photovoltaic technology that was established in 2015 with a primary objective of promoting and accelerating the development of renewable and clean energy globally.
+47025;Mahindra Holdings Limited (MHL);India;Private company;;;"Mahindra Holdings Limited (MHL) is a wholly owned subsidiary of the Mahindra Group's flagship company Mahindra & Mahindra Ltd., an Indian automobile manufacturing company headquartered in Mumbai, Maharashtra, India (Data Source 1; Data Source 2, Page 4)."
+47026;2452991 Ontario Limited (2OL);Canada;Private company;;;2452991 Ontario Limited (2OL) is a wholly owned subsidiary of Ontario Teacher's Pension Plan Board (OTPP) (Data Source 1, Page 80). It is registered with the Securities and Exchange Board of India (SEBI) under registration number INCAFP247815, although it uses a Canadian address (Data Source 2).
 47029;First Energy Capital;Canada;Private equity firm;https://www.firstenergycorp.com/fehome.html;;First Energy Capital is a specialist Asset Manager focused on infrastructure (renewable energy, water and transport). The organization purchased its Jasper shareholding from Intikon Energy an international developer and owner of renewable energy projects in both the wind and solar sectors in 2015.
 47030;Kholosani Holdings (Pty) Ltd;South Africa;Private company;https://kholosani.com/;;
 47031;Oakleaf Investment Holdings 90 Pty Ltd;South Africa;Private company;;;
@@ -12726,6 +12751,9 @@ Vaayu (India) Power Corporation Private Limited (VIPCPL) is a company founded by
 47039;Silvador Company LLC;Romania;Private company;https://silvador.ro/;;"Fiscal Code 12386631,
 Registry No. J15/223/1999, 
 EUID ROONRC.J15/223/1999"
+47040;Godawari Green Energy Limited;India;Private company;http://hpslindia.com/godawari-green-energy-limited/;;"Godawari Green Energy Limited (GGEL) was incorporated in 2009 as a 100% subsidiary of HIRA group's Godawari Power & Ispat Ltd (Data Source 1). However, in 2021, Virescent Renewable Energy Trust (VRET) signed a share purchase agreement to acquire 100% shareholding and management control in GGEL for ₹6.65 billion (~$98.11 million) (Data Source 2). 
+
+VRET was originally an Infrastructure Investment Trust (InvIT) established by global investment firm Kohlberg Kravis Roberts & Co. LLP (KKR) on February 25, 2021. It was listed on the National Stock Exchange (NSE) in October 2021, but got subsequently delisted and de-registered as an InvIT following its 100% acquisition by India Grid Trust (IndiGrid) in 2023  (Data Sources 3 and 4). While no publicly available data explicitly confirms a transition, IndiGrid's company structure, as published on its website, indicates that GGEL is now a wholly owned subsidiary of IndiGrid 2 Private Limited (IGL2). IGL2 is a wholly owned subsidiary of IndiGrid (Data Source 5)."
 47047;BIM Wind Power Joint Stock Company;Vietnam;Private company;;;BIM Wind Power Joint Stock company, a joint venture between BIM group (Vietnam) and AC Energy Corporation (Philippines) that runs the 88MW BIM Wind Power Project in Quan the 1 village, Phuoc Minh commune, Thuan Nam district, Ninh Thuan province, Vietnam.
 47048;ING Bank;Netherlands;Investment Bank;https://www.ing.nl/en/personal;;ING Bank, or ING Group N.V., is a Dutch multinational banking and financial services corporation, a public company, headquartered in Amsterdam, with a global presence and operations in over 40 countries.
 47049;Hong Kong Mortgage Corporation (HKMC) Ltd.;China, Hong Kong Special Administrative Region;State-/government (owned) company;https://www.hkmc.com.hk/eng/;;The Hong Kong Mortgage Corporation Limited (HKMC) is a public company limited by shares, wholly owned by the Hong Kong Special Administrative Region (HKSAR) Government through the Exchange Fund, operating as a mortgage financing company with a focus on promoting stability in the banking sector, wider home ownership, and local debt market development.
@@ -12733,6 +12761,7 @@ EUID ROONRC.J15/223/1999"
 47051;Climate Innovation and Development Fund (CIDF);United States of America;Investment fund;https://www.goldmansachs.com/our-firm/sustainable-finance/cidf;;In 2021, to help drive more capital, Goldman Sachs and Bloomberg Philanthropies partnered to seed and launch the Climate Innovation & Development Fund (“the Fund” or “CIDF”), which is managed by the Asian Development Bank (“ADB”). The Fund’s goal was twofold: 1) increase the pace, scale and ambition of climate solutions and 2) help transition to a low carbon economy.
 47052;Vietnam Electricity Construction JSC;Vietnam;Stock-exchange listed company;;;A Ho Chi Minh City-based company (stock ticker VNE) that took over as main investor around 2016. VNECO provided equity capital (~VND 393 billion) and raised debt (~VND 810 billion) for construction. VNECO’s Chairman Nguyễn Anh Tuấn and Deputy CEO Nguyễn Tịnh oversee Thuan Nhien Phong 1 Co..
 47054;Gentari Renewables Finnsurya Energy Private Limited (GRFEPL);India;Private company;;;Gentari Renewables Finnsurya Energy Private Limited (GRFEPL) currently manages a 185 MW solar portfolio in India, previously held by Fortum through Fortum FinnSurya Energy Private Limited. In 2024, the portfolio was sold to Gentari Renewables India Pte. Ltd. (GRIPL), the parent company of GRFEPL. (Data Sources 1 and 2).
+47060;JSW Energy Limited (JSWEL);India;Stock-exchange listed company;https://www.jsw.in/energy;;JSW Energy Limited (JSWEL) is amongst India's leading independent power producers with a locked-in platform capacity of 13.2 GW. It is part of India's leading conglomerate, the $24 billion JSW Group (Data Source 1, Page 16) . Notably, JSWEL is the parent company of the JSW Neo Energy Limited (JSWNEL), which recently completed the purchase of 1,753 megawatts of renewable energy assets from Mytrah Energy (Data Source 2).
 47061;Brookfield Renewable Partners L.P. (BEP);Canada;Stock-exchange listed company;https://bep.brookfield.com/;;Brookfield Renewable Partners L.P. is a publicly traded limited partnership that owns and operates renewable power assets, with corporate headquarters in Toronto, Ontario, Canada. It is 60% owned by Brookfield Asset Management.
 47062;ABC Renewable Energy Private Limited;India;Private company;;;ABC Renewable is jointly owned by Canada-headquartered alternative asset management firm Brookfield and Axis Energy Ventures India.
 47063;Axis Energy Ventures India;India;Private company;https://axisenergy.in/;;Axis Energy Ventures India Pvt. Ltd. is a flagship company of Axis Energy Group, in charge of the the energy generation of the company
@@ -12740,11 +12769,23 @@ EUID ROONRC.J15/223/1999"
 47068;Hero Solar Energy Private Limited (HSEPL);India;Private company;;;Hero Solar Energy Private Limited (HSEPL) is a wholly owned subsidiary of Hero Future Energies Private Limited (HFEPL). By the end of financial year 2023-2024, HSEPL has already commissioned 996.991 MW (Grid + Rooftop) Solar Power Projects by its own and through all its SPVs including Clean Solar Power (Bhadla) Private Limited and Clean Solar Power (Jodhpur) Private Limited.
 47076;Trade & Development Group (TDG);Netherlands;;;;
 47077;Green Infra Wind Energy Limited (GIWEL);India;Private company;;;"Sembcorp Green Infra Limited (SGIL) is now known as the Green Infra Wind Energy Limited  (GIWEL) following a re-organization of Sembcorp Group's renewable portfolio in India to increase the operational efficiencies through pooling of management resources and technical skills. GIWEL remains a step-down subsidiary of Sembcorp Industries through its wholly owned subsidiary, Sembcorp Utilities Pte Ltd (SCU) (Data Source 1, Page 105; Data Source 2, Page 2)."
+47078;JSW Hydro Energy Limited;India;Private company;https://www.jsw.in/energy/jsw-hydro-energy;;JSW Hydro Energy Limited is a public limited Company domiciled in India and is incorporated under the provisions of the Companies Act, 2013 applicable in India is wholly owned subsidiary of JSW Neo Energy Limited and is a step down subsidiary of JSW Energy Limited. The registered office of the Company is located at Sholtu Colony, P.O. Tapri, Dist. Kinnaur, 172104 (HP). The Company is primarily engaged in the business of generation and sale of power
 47091;Genagricola Foreste LLC;Romania;Private company;https://genagricola1851.net/it;;"Fiscal Code 39775940,
 Registry No. J35/2088/2023,
 EUID ROONRC.J35/2088/2023."
 47092;Aeolus Power Company Limited;United Kingdom of Great Britain and Northern Ireland;Private company;https://aeolus-energy.com/;;Aeolus Power Company Limited (Aeolus Energy Group) is a company that provides technical services to the wind and solar industries, with a focus on offshore wind farm development, financing, realization, and operation, aiming to help clients unlock sustainability.
+47093;Greenko Sironj Wind Power Private Limited (GSWPPL);India;Private company;;;"Greenko Sironj Wind Power Private Limited (GSWPPL), incorporated in January 2011, currently operates a 200MW wind power project in the state of Tamil Nadu. Previously known as Orange Sironj Wind Power Private Limited, the company changed its name on December 28, 2021, following Greenko Group's acquisition of Orange Renewable, the parent company of Orange Sironj, from Singapore's AT Capital Group (Data Source 1, Page 2; Data Source 2, Page 3; Data Source 3)."
 47097;Wind Power GSI Volyn LLC;Ukraine;Private company;;;
+47098;Bhilwara Green Energy Limited (BGEL);India;Private company;;;Bhilwara Energy Limited (“BEL” or the “Company”), an IFC investee company (IFC holds a 5.24% stake in the Company), wants to develop, own and operate a 51 MW wind farm (“the Project”), in Village Kukudwad, located in the Satara district, in the Maharashtra State in India. The Project will be built under a fixed all inclusive EPC contract with ReGen Powertech, an Indian company that designs, manufactures and installs gearless wind turbine generators using german technology licensed from Vensys AG. The project will utilize 34 ReGen Vensys 1.5 MW turbines. The Project output will be sold to the Maharashtra State Electricity Distribution Company utility under a 13 year Power Purchase Agreement (PPA). In addition, the Project will be eligible to receive Generation Based Incentives (“GBI”).
+47099;LNJ Bhilwara Group;India;Asset management firm;https://www.lnjbhilwara.com/index.html;;The LNJ Bhilwara Group is a diversified conglomerate with a significant presence in industries such as textiles, graphite electrodes, power generation.
+47100;India Clean Energy III;India;Private company;;;Minority equity investor in Bhilwara Energy Ltd., promoting renewable energy.
+47101;Wachovia, Jacob Ballas, New York Life Investment Fund;United States of America;Investment Bank;;;Institutional equity investors in Bhilwara Energy Ltd.
+47103;Wind World (India) Limited (WWIL);India;Private company;https://www.windworldindia.com/;;"Wind World (India) Limited since its inception in 1994, has been making giant strides in the wind energy segment. It has already installed more than 6204 wind energy converters in India with a total installed capacity exceeding 4561 MW
+
+Previously, the company was known as Enercon (india) Limited but renamed to WWIL"
+47107;Value Network Ventures Advisory Services Pte. Ltd. (VNV);Singapore;Private company;https://vnv.earth/;;Value Network Ventures (VNV) is a primary project developer of nature-based solutions and low-carbon technologies with over 130 projects under development, present across 18 countries across Southeast Asia, South Asia, the Middle East, and East Africa with over 15 years of experience in the carbon finance space.
+47108;Shriram Education and Welfare Society (SREWS);India;Non - Profit organization (e.g. Church, University etc.);;;Shri Ram Educational And Welfare Society is a non-profit organisation, established in 2011 that works primarily in the domain of Education, Employment, Gender, Technology and Energy & Environment. Its primary office is in Janjgir Champa, Chhattisgarh.
+47119;Clean Solar Power (Bhadla) Pvt. Ltd. (CSPBPL);India;Private company;;;Clean Solar Power (Bhadla) Private Limited develops solar energy projects. The company was founded on 26 April, 2016. It operates as a subsidiary of Hero Solar Energy Private Limited
 47127;LACTO AGRAR LLC;Romania;Private company;https://dn-agrar.eu/project/lacto-agrar-farm/;;"Fiscal Code 27773270,
 Registry No. J01/683/2010, 
 EUID ROONRC.J1/683/2010."
@@ -12815,6 +12856,9 @@ Axis Banks's equity shares are listed on the Bombay Stock Exchange (BSE) and Nat
 47176;TotalEnergies Renewables Singapore Private Limited;Singapore;Private company;https://totalenergies.sg/;;Present in Singapore since 1982, TotalEnergies has established a strong connection with deep geographic roots in the country and the region through activities ranging from regional headquarters, manufacturing to research & development.
 47177;Impofu East Wind Farm;South Africa;Other;;;
 47178;Impofu West Farm;South Africa;Other;;;
+47190;Azure Power;India;Private company;https://www.azurepower.com/;;"We are one of the Top Solar energy and sustainable development company in India
+
+We build and operate some of the largest grid-scale Solar power projects in the country, and supply the generated renewable power to government utilities, and independent industrial & commercial customers on long term fixed price contracts. The prices in many cases are at or below prevailing alternatives for these customers. We are committed to lead India’s energy transition by providing sustainable energy solutions and achieve net-zero commitments."
 47196;RENOVA Inc.;Japan;Private company;https://www.renovainc.com/en/;;Renova, Inc. is a Japanese-based company primarily engaged in the development and operation of renewable energy power plants. They specialize in solar photovoltaic, wind, biomass, geothermal, and hydro power generation.
 47197;PC1 Group Joint Stock Company (PCC1);Vietnam;Stock-exchange listed company;https://pc1epc.vn/en/introduction;;PC1 Group Joint Stock Company (Power Construction Joint Stock Company No. 1, or PCC1) is a public company. It's a leading company in Vietnam's power plant and electrical transmission construction sector, engaging in three main business lines: power plant & electrical transmission construction and installation, commercial building development, and electrical component & equipment manufacturing. PCC1 was established in 1963.
 47198;Société Générale;Singapore;Commercial Bank;https://wholesale.banking.societegenerale.com/en/about/locations/worldwide-details/office/singapore/;;Societe Generale’s expertise in Asia Pacific ranges from corporate and investment banking to asset management, securities services, global transaction banking and specialised financial services.
@@ -12853,10 +12897,21 @@ PROTeak is investing around US$180m in the Tabasco MDF project overall, includin
 47241;Wind Garden Wind Farm Project;South Africa;;;;
 47243;Fronteer (Pty) Ltd.;South Africa;Private company;;;
 47244;Red Rocket Opportunity Trust;South Africa;Other;;;
+47245;Janda Devi Nepal Energy Private Limited (JDNE);Nepal;Private company;https://jdnenergy.com/;;JDN Energy is a leading private company driving renewable energy adoption in Nepal. Specializing in solar, hydropower, and biomass, we have extensive expertise in these sectors.
+47250;CLP Wind Farms (Theni - Project II) Private Limited;India;Private company;https://www.clpgroup.com/en/about/our-business/assets-and-services/india/theni-ii-wind-farm.html;;CLP has a 50% indirect equity ownership in CLP Wind Farms (Theni – Project II) Private Limited held through Apraava Energy. CDPQ indirectly owns the remaining 50% through its equity stake in Apraava Energy.
+47251;China Light and Power Company, Limited (CLP Holdings Ltd);China, Hong Kong Special Administrative Region;Stock-exchange listed company;https://www.clpgroup.com/en/index.html;;CLP Group (Chinese: 中電集團) and its holding company, CLP Holdings Ltd (中電控股有限公司), also known as China Light and Power Company, Limited (now CLP Power Hong Kong Ltd., 中華電力有限公司), is an electricity company in Hong Kong. Incorporated in 1901 as China Light & Power Company Syndicate,[3] its core business remains the generation, transmission, and retailing of electricity.[4] It also has businesses in a number of Asian markets as well as EnergyAustralia in Australia. It is one of the two main electricity power generation companies in Hong Kong, the other being Hongkong Electric Company.
+47252;Apraava Energy Private Limitted;India;Stock-exchange listed company;https://www.apraava.com/;;"Apraava Energy is a diversified power company headquartered in Mumbai. Founded in 2002, Apraava Energy has evolved from being a single-asset company to a forward-looking, climate-conscious organisation. Its diverse portfolio comprises 3,150 MW of installed capacity which includes 924 MW of wind and 250 MW of solar energy projects across seven states, as well as two power transmission assets. In addition, the company is currently constructing a 251 MW wind farm which, when completed, will be its largest wind asset to date.
+
+Company was previously known as CLP India but renamed to Apraava Energy"
 47253;M/s. Master Wind Energy Limited (MWEL);Pakistan;Private company;https://masterwind.com.pk/pages/mgel;;"Building on the success of our first projects, Master Group is currently developing Master Green Energy Limited (MGEL), a second 50 MW wind farm in Jamshoro region. Currently in the construction phase, the project is expected to come online by third quarter of 2021.
 
 This project is in line with the Government of Pakistan’s desire to reduce dependence on thermal generation and increase the share of renewables in the energy mix. MWEL is being financed by a consortium of lenders, comprising Overseas Private Investment Corporation (OPIC) and a group of local financial institutions."
 47263;Aldebaran Argentina S.A.;Argentina;Private company;;;
+47264;SolarArise India Private Limited;India;Private company;https://www.solararise.com/;;"When India started on the solar mission, many skeptics called the 22GW solar-goal an unachievable dream.They believed fossil fuels could never be replaced.
+
+Today, with over 25GW’s installed, the reality has changed. Solar power is now the least expensive. We stand on the brink of eliminating every polluting fossil-fuel plant in India.
+
+At SolarArise, we've been converting abandoned land into sources of cheap, clean solar power. We're building a future without fossil fuels, a future where everyone can breathe fresh air."
 47265;Felber Forestal S.A.;Paraguay;Private company;https://felber-forestal.com/;;The implementation of the project is carried out by Felber Forestal S.A, in charge of the plantation establishment and permanence.
 47266;Agroempresa Forestal S.A.;Uruguay;Private company;https://af.com.uy/;;
 47268;Sel Afrique in Senegal (unknown);Senegal;;;;
@@ -13012,3 +13067,49 @@ The former name of SD Guthrie Bhd was Sime Darby Plantation Berhad. The company 
 47485;PT Andalan Sukses Makmur (PT ASMR);Indonesia;Private company;;;
 47486;PT Indo Sukses Lestari Makmur (ISLM);Indonesia;Private company;;;
 47494;Independent Timber and Stevedoring (PNG) Limited (IT&S);Papua New Guinea;Private company;;;"T&S is a registered PNG company jointly owned by IT&S USA Inc. – a Delaware USA registered company (12 million shares); Hilo Investments Pty Ltd- A Queensland, Australia registered company (7 million shares)"
+47499;Mahogani Vishwa Agro Private Limited (MVAL);India;Private company;https://mahoganivishwaagro.com/about-us/;;Mahogani Vishwa Agro Limited (MVAL), incorporated on January 25, 2019 as “Mahogani Vishwa Agro Private Limited. MVAL was started with an intent to create a stable sustainable income source for the farmers across the nation who is solely dependent on traditional subsistence driven farming.
+47500;Silales vejas LLC;Lithuania;Private company;;;"Registration code	302851807, 
+VAT	LT100007376818"
+47501;Notus Energy;Germany;Private company;https://www.notus.de/en;;
+47502;SOMA Group Co., Ltd.;Cambodia;Asset management firm;https://www.somagroup.com.kh/;;SOMA Group Co., Ltd. founded in 2007, is one of Cambodia's leading local conglomerate and a Management & Consulting firm.
+47503;Dnistrovska Wind Farm LLC;Ukraine;Private company;https://dwpp.com.ua/;;National code: 41360742
+47504;Elementum Ukraine Limited;United Kingdom of Great Britain and Northern Ireland;Private company;;;
+47505;GR Pacama SpA;Chile;Private company;;;
+47506;CI GMF II COOPERATIEF U.A.;Netherlands;Private company;;;
+47507;Estepa Solar SpA;Chile;Private company;;;
+47508;Nightowl 1 SpA;Chile;Private company;;;
+47509;Bess Halcón 18 SpA;Chile;Private company;;;
+47520;Zorlu Enerji;Türkiye;Private company;https://www.zorluenerji.com.tr/en;;Zorlu Enerji is an energy company based on Turkey which has experience in electricity generation & distribution from renewable energy sources, including geothermal, solar, wind and hydro power with total installed capacity is 991 MW and EV charging stations.
+47522;Equinox Gold;Canada;Stock-exchange listed company;https://www.equinoxgold.com/;;
+47524;Baldota Group;India;Asset management firm;https://baldota.co.in/;;Founded in 1961, the Baldota Group has a diversified interests in Mining, Pelletization, Wind Power, Gases, Shipping, Aviation, Environmental Care, Mental Wellness, and angel investments in startups.
+47527;Adani Solar Energy Jaisalmer One Private Limited (ASEJ One);India;Private company;;;"Adani Solar Energy Jaisalmer One Private Limited (ASEJ One) is a subsidiary of Adani Green Energy Limited (AGEL), established in 2019, located in the Jaisalmer district of Rajasthan, India. It is one of three special purpose vehicles (SPVs) that constitute the Adani Hybrid Energy Jaisalmer One Limited (AGEL HRG) green bond framework. The SPVs in the AGEL HRG are developing and operating hybrid renewable energy projects, combining wind and solar power for a more stable and efficient energy output.
+
+This company was previously known as  SBE Renewables Ten Projects Pvt. Ltd."
+47528;Adani Solar Energy Jaisalmer Two Private Limited;India;Private company;;;Adani Solar Energy Jaisalmer Two Private Limited (foremrly known as SBSR Power Cleantech Eleven Private Limited) is an Indian company that developed a 300 MW solar power project in Hapasar, Rajasthan, under a 25-year Power Purchase Agreement (PPA) with Solar Energy Corporation of India (SECI)
+47530;Bosques Cautín S.A.;Chile;Private company;https://cautin.cl/;;Bosques Cautín es una empresa forestal chilena fundada el 15 de mayo de 1992 en la ciudad de Temuco, Chile. Su objetivo es crear un patrimonio de plantaciones forestales en la Región de la Araucanía, Chile.
+47531;NOA Lithium Brines S.A.;Argentina;Private company;;;
+47532;NOA Lithium Brines INC.;Canada;Stock-exchange listed company;https://www.noalithium.com/about/company/;;
+47533;Hanacolla S.A.;Argentina;Private company;;;
+47536;American Salars Lithium Inc.;Canada;;https://americansalars.com/;;
+47537;Power Minerals Ltda.;Australia;Stock-exchange listed company;;;
+47538;Egeo S.A.;Argentina;Private company;;;
+47539;Col La Paz S.A.S.;Colombia;Private company;;;Col La Paz S.A.S representa un proyecto dedicado a la forestación mediante la introducción de la especie Acacia mangium en terrenos de pastizales degradados en el departamento del Vichada, Colombia. Nuestro objetivo principal es generar madera de calidad apta para el aserrío, así como biomasa de valor comercial, satisfaciendo las demandas tanto del mercado nacional como internacional.
+47540;MITCON Nature Based Solutions Limited;India;Private company;https://www.mitconnbs.com/;;MITCON Nature Based Solutions Limited is an Indian Private Limited Company that operates in the agriculture, hunting, and forestry sector, specializing in solutions for soil health and other nature-based methods to enhance food production and biodiversity.
+47541;CLP Wind Farms (India) Private Limited (CLPWFPL);India;Private company;https://www.clpgroup.com/en/about/our-business/assets-and-services/india/mahidad-wind-farm.html;;CLP has a 50% indirect equity ownership in CLP Wind Farms (India) Private Limited held through Apraava Energy. CDPQ indirectly owns the remaining 50% through its equity stake in Apraava Energy.
+47542;La Caisse;Canada;Investment fund;https://www.lacaisse.com/fr;;La Caisse , formerly Caisse de dépôt et placement du Québec ( CDPQ ), is an institutional investor managing the Quebec Pension Plan and several other public and parapublic pension and insurance plans in Quebec .
+47543;&Forest ApS;Denmark;Private company;;https://www.northdata.com/&Forest%20ApS,%20Helleb%C3%A6k/CVR%2043637118;El objeto de la empresa es desarrollar proyectos forestales y realizar actividades de inversión.
+47544;Empresa de Acueducto y Alcantarillado de Pereira S.A.S E.S.P;Colombia;State-/government (owned) company;https://www.aguasyaguas.com.co/;;La Empresa de Acueducto y Alcantarillado de Pereira S.A.S E.S.P. es la entidad encargada de prestar y administrar los servicios de agua potable y saneamiento en la ciudad de Pereira, Colombia, y también es conocida como Aguas y Aguas de Pereira. Se dedica a la captación, tratamiento y distribución de agua para el consumo humano, así como al manejo del sistema de alcantarillado sanitario y pluvial de la ciudad.
+47546;Energimp S.A.;Brazil;Private company;https://www.energimp.com.br/geracao-e-parques/;;
+47547;Energon RJ Wind Power Pvt. Ltd.;India;Private company;;;The FTP Project was developed by Energon RJ Wind Power Pvt. Ltd. and is the 26th renewable energy project Equis has commissioned since October 2013, with another 56 projects under development and construction. Energon is one of Asia’s largest independent power producers focused on wind power generation and is an Equis investee company.
+47549;Clean Wind Power (Ratlam) Pvt. Ltd (CWPR);India;Private company;;;CWPR was incorporated on July 24, 2013, as a 100% subsidiary of HWE, which in turn is a wholly-owned subsidiary of HFEPL. The SPV was incorporated for developing and operating 100 MW wind in the states of Madhya Pradesh, India.
+47550;Fortum Solar Plus Private Limited;India;Private company;;;"Fortum Solar Plus Private Limited developed the 250-MW Rajasthan solar power plants but was later sold from Finish company Fortum to Actis in 2021.
+
+The new operating company name since the sale has not been clarified or found in data sources"
+47551;Mahindra Renewables Private Limited (MPRL);India;Private company;;;MRPL is 100% subsidiary of Mahindra Susten Private Limited (MSPL) - serves as the developer and operator of renewable energy projects in india
+47552;Jakson Power Pvt. Ltd;India;Private company;;;
+47554;Cemig;Brazil;Private company;https://www.cemig.com.br/en/;;
+47555;Alternate Wetting and Drying (AWD) Rice Cultivation Project;India;Other;https://vnv.earth/the-dhan-solution/;;"This investor serves as a placeholder for a CS project being implemented in Maharashtra, India.
+
+It involves 2 investors in: Value Network Ventures Advisory Services Pte. Ltd. from Singapore (serving as Project Proponent and funder of project) and Shriram Education and Welfare Society (SREWS) as implementation partner (provide the participating farmers with the guidance and training needed to implement AWD)"
+47559;Power Minerals S.A.;Argentina;Private company;;;Información sobre la compañía puede encontrarse en: https://www.cuitonline.com/detalle/33712229549/power-minerals-s.a.html (último acceso 2025/09/30).
+47561;Nomad Foods Europe Limited;United Kingdom of Great Britain and Northern Ireland;Private equity firm;https://www.nomadfoods.com/;;
