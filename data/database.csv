@@ -1067,7 +1067,7 @@ Deal Number;Target Country;Target Region;Investor 1;Investor 2;Investor 3;Invest
 6113;Ukraine;Eastern Europe;Kurland LLC;NCH Capital Inc.;;Ukraine;United States of America;;Eastern Europe;;;Private;Private;;Wheat;Corn;Maize;;12000.0
 6114;Ukraine;Eastern Europe;Krasne-Agroinvest LLC;NCH Capital Inc.;;Ukraine;United States of America;;Eastern Europe;;;Private;Private;;Wheat;Corn;Maize;;2960.0
 6116;Ukraine;Eastern Europe;AF Zapovit Shevchenko;Myronivsky Hliboproduct PJSC;;Ukraine;Ukraine;;Eastern Europe;Eastern Europe;;Private;Private;;Wheat;Barley;;;12000.0
-6119;Ukraine;Eastern Europe;AF Matyshi;Resilient JSC;;Ukraine;Czech Republic;;Eastern Europe;Eastern Europe;;Private;Private;;Wheat;Corn;Maize;;2477.0
+6119;Ukraine;Eastern Europe;AF Matyshi;Agromino A/S;;Ukraine;Denmark;;Eastern Europe;Northern Europe;;Private;Private;;Wheat;Corn;Maize;;2477.0
 6122;Romania;Eastern Europe;Ingka Investments Romania LLC;IKEA A/S;;Romania;Sweden;;Eastern Europe;Northern Europe;;Private;Private;;;;;;33000.0
 6151;Lao PDR;;Lao Banana Company Ltd (LBC);;;Denmark;;;Northern Europe;;;Private;;;Banana;;;;350.0
 6203;Cambodia;South-East Asia;Dau Thieng-Kratie Rubber Development Co. Ltd.;Vietnam Rubber Group;;Cambodia;Vietnam;;South-East Asia;South-East Asia;;Private;Government;;Rubber;;;;3578.0
@@ -1321,7 +1321,7 @@ Deal Number;Target Country;Target Region;Investor 1;Investor 2;Investor 3;Invest
 7331;Cambodia;South-East Asia;Jiang Ly Investment Co. Ltd.;;;;;;;;;Private;;;Rubber;;;1900;1900.0
 7339;Cambodia;South-East Asia;Heng Nong (Cambodia) International Company Ltd.;Hengfu Sugar Group;;Cambodia;China;;South-East Asia;Eastern Asia;;Private;Unknown;;;;;;6488.0
 7349;Cambodia;South-East Asia;NK Agri (Cambodia) Ltd.;;;India;;;Southern Asia;;;Private;;;;;;;8892.0
-7350;Cambodia;South-East Asia;Hoang Anh Oyadav Co. Ltd.;Hoang Anh Gia Lai Joint Stock Company (HAGL Group);;Cambodia;Vietnam;;South-East Asia;South-East Asia;;Private;Private;;Rubber;;;;3128.0
+7350;Cambodia;South-East Asia;Hoang Anh Oyadav Co. Ltd.;Hoang Anh Gia Lai Joint Stock Company (HAGL Group);;Cambodia;Vietnam;;South-East Asia;South-East Asia;;Private;Private;;Rubber;;;;2352.4
 7398;Sierra Leone;Sub-Saharan Africa;Aristeus Palm Oil Limited;;;Mauritius;;;Sub-Saharan Africa;;;Private;;;;;;;47567.7
 7407;Indonesia;South-East Asia;PT Agriplus (PT AGP);IOI Group;;Indonesia;Malaysia;;South-East Asia;South-East Asia;;Private;Private;;;;;;6149.0
 7450;Cambodia;South-East Asia;Seladamex Co, Ltd;;;Cambodia;;;South-East Asia;;;Private;;;Rubber;;;;9000.0
@@ -1329,7 +1329,7 @@ Deal Number;Target Country;Target Region;Investor 1;Investor 2;Investor 3;Invest
 7463;Cambodia;South-East Asia;Tay Ninh Siem Reap Aphivath Caoutchouch Co. Ltd.;;;Vietnam;;;South-East Asia;;;Private;;;;;;;4610.45
 7468;Cambodia;South-East Asia;Excel Castor Plantation Co. Ltd.;;;Malaysia;;;South-East Asia;;;Private;;;Rubber;;;;3713.1
 7486;Ukraine;Eastern Europe;Agrocompany Prykarpattya LLC;UkrLandFarming PLC;;Ukraine;Cyprus;;Eastern Europe;Western Asia;;Private;Private;;Wheat;Corn;Maize;;22000.0
-7487;Cambodia;South-East Asia;Chu Prong Stung Treng Rubber Project (Binh Phuoc);;;Vietnam;;;South-East Asia;;;Private;;;Rubber;;;;5100.0
+7487;Cambodia;South-East Asia;Binh Phuoc Kratie Rubber 1 Company;Vietnam Rubber Group;;Vietnam;Vietnam;;South-East Asia;South-East Asia;;Private;Government;;Rubber;;;;5100.0
 7491;Cambodia;South-East Asia;Dak Lak Mondulkiri Aphivath Caoutchouch;Dak Lak Rubber Corporation (DAKRUCO);;Vietnam;Vietnam;;South-East Asia;South-East Asia;;Government;Government;;Rubber;;;;1500.0
 7506;Indonesia;South-East Asia;PT Ladang Sawit Mas;IOI Group;;Indonesia;Malaysia;;South-East Asia;South-East Asia;;Private;Private;;;;;;8300.0
 7512;Uruguay;South America;Milagro SA;San Miguel;;Uruguay;Argentina;;South America;South America;;Private;Private;;;;;;1430.0
@@ -1365,7 +1365,7 @@ Deal Number;Target Country;Target Region;Investor 1;Investor 2;Investor 3;Invest
 7674;Moldova;Eastern Europe;WeTrade Agro S.r.l.;Sungrain Farming International Ltd.;;Moldova;Cyprus;;Eastern Europe;Western Asia;;Private;Unknown;;;;;;30000.0
 7675;Moldova;Eastern Europe;Agro-SZM S.r.l.;Sudzucker AG;;Moldova;Germany;;Eastern Europe;Western Europe;;Unknown;Private;;Wheat;Corn;Maize;;13400.0
 7679;Uganda;Sub-Saharan Africa;ASILI FARMS LIMITED;Philipp Prinz;;Uganda;United States of America;;Sub-Saharan Africa;;;Private;Private;;Rice;Corn;Maize;;5463.0
-7680;Ukraine;Eastern Europe;Petersen AGRO PC;Petersen Nils;;Ukraine;Germany;;Eastern Europe;Western Europe;;Private;Private;;Wheat;Corn;Maize;;1076.0
+7680;Ukraine;Eastern Europe;Petersen AGRO PC;Petersen Nils;;Ukraine;Germany;;Eastern Europe;Western Europe;;Private;Private;;Wheat;Corn;Maize;;1355.15
 7681;Ukraine;Eastern Europe;Korystivske LLC;TS&TS Ahrar GmbH& Co. KG;;Ukraine;Germany;;Eastern Europe;Western Europe;;Private;Private;;Wheat;Corn;Maize;;1571.0
 7687;Bulgaria;Eastern Europe;Advance Terrafund REIT;Karoll Financial Group;;Bulgaria;Bulgaria;;Eastern Europe;Eastern Europe;;Finance;Unknown;;;;;;1840.7
 7688;Bulgaria;Eastern Europe;Advance Terrafund REIT;Karoll Financial Group;;Bulgaria;Bulgaria;;Eastern Europe;Eastern Europe;;Finance;Unknown;;;;;;10509.0
@@ -1499,8 +1499,8 @@ Deal Number;Target Country;Target Region;Investor 1;Investor 2;Investor 3;Invest
 8154;Ukraine;Eastern Europe;Trigon Farming Kharkiv LLC;Agromino A/S;;Ukraine;Denmark;;Eastern Europe;Northern Europe;;Private;Private;;Wheat;Corn;Maize;;23503.0
 8175;Ukraine;Eastern Europe;Agro Capital Center LLC;Granush Limited;;Ukraine;Cyprus;;Eastern Europe;Western Asia;;Private;Private;;Wheat;;;;9378.0
 8176;Indonesia;South-East Asia;PT. Karya Makmur Bahagia (PT KMB);IOI Group;;Indonesia;Malaysia;;South-East Asia;South-East Asia;;Private;Private;;;;;;15056.31
-8183;Ukraine;Eastern Europe;Oliynykova Sloboda LLC;Resilient JSC;;Ukraine;Czech Republic;;Eastern Europe;Eastern Europe;;Private;Private;;Wheat;Corn;Maize;;592.0
-8197;Ukraine;Eastern Europe;Agrocompany Bilotserkivska LLC;Resilient JSC;;Ukraine;Czech Republic;;Eastern Europe;Eastern Europe;;Private;Private;;Wheat;Corn;Maize;1928;1928.0
+8183;Ukraine;Eastern Europe;Oliynykova Sloboda LLC;Agromino A/S;;Ukraine;Denmark;;Eastern Europe;Northern Europe;;Private;Private;;Wheat;Corn;Maize;;592.0
+8197;Ukraine;Eastern Europe;Agrocompany Bilotserkivska LLC;Agromino A/S;;Ukraine;Denmark;;Eastern Europe;Northern Europe;;Private;Private;;Wheat;Corn;Maize;1928;1928.0
 8198;Indonesia;South-East Asia;PT. Berkat Cipta Abadi;Korindo Group;;Indonesia;Indonesia;;South-East Asia;South-East Asia;;Private;Private;;;;;;14525.0
 8205;Myanmar;South-East Asia;Jinhgpaw Nadi;;;;;;;;;Unknown;;;Banana;;;;202.0
 8210;Indonesia;South-East Asia;PT. Kalimantan Sawit Kusuma;Cargill;;Indonesia;United States of America;;South-East Asia;;;Unknown;Private;;;;;;1391.0
@@ -1832,7 +1832,7 @@ Deal Number;Target Country;Target Region;Investor 1;Investor 2;Investor 3;Invest
 9703;Ukraine;Eastern Europe;DTEK Botievska wind farm LLC;DTEK Renewables B.V.;;Ukraine;Netherlands;;Eastern Europe;Western Europe;;Private;Private;;;;;1984;1984.0
 9704;Ukraine;Eastern Europe;DTEK Prymorska wind farm LLC;Primorskaya WEP B.V.;;Ukraine;Netherlands;;Eastern Europe;Western Europe;;Private;Private;;;;;;2146.4
 9706;Ukraine;Eastern Europe;DTEK Orlivska wind farm LLC;DTEK RENEWABLES FINANCE B.V.;;Ukraine;Netherlands;;Eastern Europe;Western Europe;;Private;Private;;;;;;1513.22
-9707;Ukraine;Eastern Europe;Resilient Stara Synyava LLC;Resilient JSC;;Ukraine;Czech Republic;;Eastern Europe;Eastern Europe;;Private;Private;;Wheat;Corn;Maize;;849.0
+9707;Ukraine;Eastern Europe;Resilient Stara Synyava LLC;Agromino A/S;;Ukraine;Denmark;;Eastern Europe;Northern Europe;;Private;Private;;Wheat;Corn;Maize;;849.0
 9708;Indonesia;South-East Asia;First Resources;;;Singapore;;;South-East Asia;;;Private;;;;;;;20000.0
 9714;Ukraine;Eastern Europe;Bershadska branch of Zernoproduct PRJSC of MHP;MHP S.E.;;Ukraine;Cyprus;;Eastern Europe;Western Asia;;Private;Private;;Wheat;Rapeseed;;;9002.0
 9715;Ukraine;Eastern Europe;Viytivetska branch of Zernoproduct PJSC of MHP;MHP S.E.;;Ukraine;Cyprus;;Eastern Europe;Western Asia;;Private;Private;;Wheat;Rapeseed;;;2424.0
@@ -2102,6 +2102,9 @@ Deal Number;Target Country;Target Region;Investor 1;Investor 2;Investor 3;Invest
 11237;Pakistan;Southern Asia;Zorlu Energy Pakistan Limited;Zorlu Enerji;;Pakistan;Türkiye;;Southern Asia;;;Private;Private;;;;;;526.09
 11245;Panama;Central America;12Tree Finance GmbH;;;Germany;;;Western Europe;;;Unknown;;;;;;;1471.0
 11249;India;Southern Asia;Mega Suryaurja Private Limited (MSUPL);Mahindra Holdings Limited (MHL);;India;India;;Southern Asia;Southern Asia;;Private;Private;;;;;;395.96
+11270;India;Southern Asia;Clean Solar Power (Bhainsada) Pvt. Ltd.;Temasek Holdings;;India;Singapore;;Southern Asia;South-East Asia;;Private;Finance;;;;;;328.38
+11275;India;Southern Asia;Juniper Green Sigma Private Limited (JGSPL);AT Capital Group;;India;Singapore;;Southern Asia;South-East Asia;;Private;Private;;;;;;251.4
+11276;India;Southern Asia;Mahindra Susten Private Limited (MSPL);Mahindra Holdings Limited (MHL);;India;India;;Southern Asia;Southern Asia;;Private;Private;;;;;;347.22
 11278;Romania;Eastern Europe;Genagricola Foreste LLC;Gruppo Assicurazioni Generali SpA;;Romania;Italy;;Eastern Europe;Southern Europe;;Private;Private;;;;;;1770.0
 11286;India;Southern Asia;Clean Solar Power (Bhadla) Pvt. Ltd. (CSPBPL);Hero Future Energies Private limited (HFEPL);;India;United Kingdom of Great Britain and Northern Ireland;;Southern Asia;;;Private;Private;;;;;;380.25
 11287;Romania;Eastern Europe;LACTO AGRAR LLC;AM Advies BV;;Romania;Netherlands;;Eastern Europe;Western Europe;;Private;Private;;Corn;Maize;;;1454.02
@@ -2174,3 +2177,15 @@ Deal Number;Target Country;Target Region;Investor 1;Investor 2;Investor 3;Invest
 11515;Brazil;South America;Neoenergia S.A.;Grupo Iberdrola;;Brazil;Spain;;South America;Southern Europe;;Private;Private;;;;;;2920.0
 11528;Colombia;South America;Col La Paz S.A.S.;12Tree Finance GmbH;;Colombia;Germany;;South America;Western Europe;;Private;Unknown;;;;;;3091.0
 11530;Colombia;South America;&Forest ApS;;;Denmark;;;Northern Europe;;;Private;;;Eucalyptus;;;;12000.0
+11543;Brazil;South America;Rio Energy;Equinor;;Brazil;Norway;;South America;Northern Europe;;Private;Government;;;;;;1074.0
+11563;Chile;South America;Enel Green Power Chile Ltda.;Enel Green Power;;Chile;Italy;;South America;Southern Europe;;Private;Private;;;;;;417.98
+11564;Chile;South America;Solarcentury Chile SpA;Statkraft;;Chile;Norway;;South America;Northern Europe;;Private;Government;;;;;;447.28
+11568;Chile;South America;Enel Green Power Chile Ltda.;Enel Green Power;;Chile;Italy;;South America;Southern Europe;;Private;Private;;;;;;470.31
+11571;Chile;South America;Ibereólica Solar Elena SpA;Ibereólica;;Chile;Spain;;South America;Southern Europe;;Unknown;Private;;;;;;636.48
+11572;Chile;South America;Enel Green Power Chile Ltda.;Enel Green Power;;Chile;Italy;;South America;Southern Europe;;Private;Private;;;;;;201.1
+11574;Liberia;Sub-Saharan Africa;Masayaha Logging Company;Magna Logging Corporation;;Libya;Liberia;;Northern Africa;Sub-Saharan Africa;;Private;Private;;;;;;35337.0
+11576;Ukraine;Eastern Europe;Chernivtsi Solar LLC;Kernel Holding S.A.;;Ukraine;Luxembourg;;Eastern Europe;Western Europe;;Private;Private;;;;;;212.51
+11607;Ukraine;Eastern Europe;Matiushi LLC;Agromino A/S;;Ukraine;Denmark;;Eastern Europe;Northern Europe;;Private;Private;;Wheat;Corn;Maize;;2178.0
+11617;Brazil;South America;Voltalia S/A;;;France;;;Western Europe;;;Private;;;;;;;991.0
+11628;Brazil;South America;Enerfin/Enervento (Elecnor Group);;;Canada;;;Northern America;;;Private;;;;;;;3467.0
+11639;Brazil;South America;Enel Green Power;;;Italy;;;Southern Europe;;;Private;;;;;;;1709.0
