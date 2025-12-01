@@ -1019,7 +1019,6 @@ Group Co. Ltd"
 2301;Mega First Corporation Berhad (MFCB);Malaysia;Stock-exchange listed company;;;
 2302;Unnamed investor;Zambia;;;;
 2303;Hengfu Sugar Group;China;;;;probably also involved in other concessions in the area, which are contracted on the same day.
-2307;Unknown (#158488);China;;;;Chinese-owned
 2311;Unknown (#158492);Cambodia;;;;
 2315;CJ Corporation;Republic of Korea;Stock-exchange listed company;;;
 2316;MH Ethanol Co. Ltd.;Republic of Korea;Stock-exchange listed company;;;Former name: Muhak Alcohol Co. Ltd.
@@ -1675,7 +1674,7 @@ Universal Success holds the remaining 20%"
 3301;Robin Group;Singapore;;;;
 3302;SK Plantation Pte Ltd.;Singapore;Private company;;;
 3303;Qalaa Holdings;Egypt, Arab Rep.;Investment fund;;;Legal status as an investment holding company. 
-3304;Cam Try Cooperation;Israel;;;;
+3304;Camtree Corporation;Cambodia;Private company;;;Parent company is supposedly from Israel but no official investor name has been tagged to the company
 3305;Fu Lai Chun Group;China;Private company;;;
 3306;Fri-el International Holding SA;Luxembourg;Private company;;https://opencorporates.com/companies/lu/B113985;"Part of Fri-El Green Power. The company is held by three brothers Gostner who each seem to own a third of the Fri-El Group company through their individually held entities of Ener-Fin Srl, Fri-El Energy Investments Srl and Fri-El Capital Srl.
 (http://www.consob.it/web/consob-and-its-activities/newsletter/documenti/english/en_newsletter/2017/year_23_n-38_23_october_2017.html)"
@@ -3962,7 +3961,7 @@ goes ahead, Kessler will have the right to acquire 5% of the shares"
 36861;ADERCI;Côte d'Ivoire;Private company;;;
 36862;AgriSol Energy Tanzania Ltd;Tanzania;Private company;;;
 36863;Kilombero Sugar Company Ltd;Tanzania;Private company;;;
-36865;Mantra Tanzania Ltd;Tanzania;Private company;;;
+36865;Mantra Tanzania Ltd;Tanzania;Private company;https://mantratanzania.co.tz/;;
 36867;Kitomondo Plantational LTD;Tanzania;Private company;;https://opencorporates.com/companies/tz/59977;
 36872;Am Phal Focus;Cambodia;Private company;;;
 36873;China Zambia Friendship Farm;Zambia;Private company;;;
@@ -3992,7 +3991,7 @@ goes ahead, Kessler will have the right to acquire 5% of the shares"
 36922;A.D. Serviços Lda;Mozambique;Private company;;;
 36926;Green Choice (Cambodia) Co.,Limited;Cambodia;Private company;;;
 36928;Companhia Industrial do Monapo;Mozambique;Private company;;;
-36929;Heng Ruy (Cambodia) International Company Limited;Cambodia;Private company;;;
+36929;Heng Rui (Cambodia) International Company Limited;Cambodia;Private company;;;
 36930;Florestas de Niassa;Mozambique;Private company;;;
 36931;Heng Yue (Cambodia) Company Limited;Cambodia;Private company;;;
 36932;Lozane Farms;Mozambique;Private company;;;
@@ -4969,7 +4968,7 @@ EUID	ROONRC.J35/2534/2005"
 38501;Yun Khean Minerals (Cambodia) Co., Ltd.;Cambodia;Private company;;;
 38502;Suon Vatanak Co., Ltd.;Cambodia;Private company;;;
 38503;Kieng Sa Apivath Co., Ltd.;Cambodia;Private company;;;
-38504;MDS Import Export Co., Ltd.;Cambodia;Private company;;;
+38504;MDS Import Export Co., Ltd.;Cambodia;Private company;;;MDS Import Export Co. Ltd is a Cambodian private company. It is part of the business empire of Oknha Try Pheap, one of Cambodia’s most prominent tycoons. Try Pheap (also spelled Try Pheap) is the ultimate beneficial owner and financier behind MDS. The company is domestic (Cambodian) and classified as a private limited company. Its registered address is in Phnom Penh (Toeuk La’ak 3, Tuol Kork).
 38505;FGV-CVC;Cambodia;Private company;;;
 38506;Unkown (China Freight Costs Cambodia Investment Company);Cambodia;Private company;;;
 38507;Fephy Malaysia (Cambodia) Plathasin Co. Ltd.;Cambodia;Private company;;;
@@ -5196,13 +5195,13 @@ The Amorim Group seems to have disinvested from Agromoz (https://www.legal500.co
 38738;Crest Agro Products Limited;Nigeria;Private company;;;
 38739;Matond Farms Limited;Nigeria;Private company;;;
 38740;Millstones FZE;Nigeria;Private company;;;
-38741;Agro Allied Syrups Limited;Nigeria;Private company;;;
+38741;Shao Golden Farms Limited;Nigeria;Private company;;;
 38742;Thai Farm International Limited;Nigeria;Private company;;;
 38743;Kaboji Farms Ltd;Nigeria;Private company;;;
 38745;Unknown (Smart Globe International);Cameroon;Private company;;;
 38746;Golden Sugar Company Limited;Nigeria;Private company;https://goldensugarng.com/;;"
 Golden Sugar Company is a wholly owned subsidiary of Flour Mills of Nigeria Plc, and a member of the FMN Gro"
-38747;Agro Allied Farms Sunti Ltd;Nigeria;Private company;;;
+38747;Sunflag farms Limited;Nigeria;Private company;;;Company was rebranded from the name Agro-Allied Farms Sunti Limited to Sunflag farms Limited.
 38748;AngloGold Ashanti (Ghana) Limited;Ghana;Private company;;;
 38749;Sintoukola Potash S.A.;Congo, Rep.;Private company;;;
 38750;Blanket Gold Mine;Zimbabwe;Private company;;;
@@ -5234,7 +5233,9 @@ EUID ROONRC.J2000000049212"
 38775;SC Andra International SRL;Romania;Private company;;;
 38776;SC Agrofarine SRL;Romania;Private company;;;
 38777;SC Sopema SRL;Romania;Private company;;;
-38779;SC Holder Trade SRL;Romania;Private company;;;
+38779;Holder Trade LLC;Romania;Private company;https://holdertrade.ro/;;"Fiscal Code	7188786
+Registry No.	J36/187/1995 
+EUID	ROONRC.J36/187/1995"
 38780;SC Agrolact A.C.T. Jibert SRL;Romania;Private company;;;
 38781;SC Vis Agri SRL;Romania;Private company;;;
 38782;SC Sadelli Prodcom LLC;Romania;Private company;;;"Fiscal Code 7160700,
@@ -5322,7 +5323,9 @@ EUID	ROONRC.J22/2489/2021"
 38861;S.C. Agrofam Prod S.R.L.;Romania;Private company;;;
 38862;S.C. Patrol Service S.R.L.;Romania;Private company;;;
 38863;Dumitru Andresoiu;Romania;Individual entrepreneur;;;
-38864;S.C. Agrodelta Sireasa S.A.;Romania;Private company;;;
+38864;Agrodelta Sireasa LLC;Romania;Private company;;;"Fiscal Code	3053840
+Registry No.	J2023003166232 
+EUID	ROONRC.J2023003166232"
 38865;SC Agrocov LLC;Romania;Private company;;;"Fiscal Code 15603573,
 Registry No. J40/10811/2012,
 EUID	ROONRC.J40/10811/2012,"
@@ -5331,8 +5334,12 @@ EUID	ROONRC.J40/10811/2012,"
 38868;S.C. Interagroalignment S.R.L.;Romania;Private company;;;
 38869;Recond Com Impex SRL;Romania;Private company;;;
 38870;S.C. Akkeron Farming S.R.L.;Romania;Private company;;;
-38871;S.C. Agrogal S.A.;Romania;Private company;;;
-38872;S.C. Agrointer S.R.L.;Romania;Private company;;;
+38871;Agrogal LLC;Romania;Private company;;;"Fiscal Code	1627815,
+Registry No.	J1991000761176,
+EUID	ROONRC.J1991000761176"
+38872;Agrointer LLC;Romania;Private company;;;"Fiscal Code	6826649
+Registry No.	J34/1207/1994 
+EUID	ROONRC.J34/1207/1994"
 38873;Unknown (SALIC (Saudi Agriculture and Livestock Co));Sudan;Private company;;;
 38874;Huae Sinban Company;Russian Federation;Private company;;;
 38875;Unknown (UAE investors);Morocco;Private company;;;
@@ -5555,7 +5562,7 @@ The official company name has not been found, this serves as a placeholder until
 39107;Unknown (Zanadu Coal Mongolia LLC, in Mongolia, 39107);Mongolia;Private company;;;
 39108;Mangreit group;Mongolia;Private company;;;
 39109;Cotrefor;Congo, Dem. Rep.;Private company;;;Replaced by IFCO (investor 43052)
-39110;ENRA SPRL;Congo, Dem. Rep.;Private company;;;
+39110;Enzyme Raffiners Association (ENRA SPRL);Congo, Dem. Rep.;Private company;;;
 39111;La Société Commerciale des Transports et des Ports (SCTP);Congo, Dem. Rep.;Private company;;;
 39112;TALA-TINA;Congo, Dem. Rep.;Private company;;;
 39113;RIBA CONGO SPRL;Congo, Dem. Rep.;Private company;;;
@@ -5637,7 +5644,7 @@ The official company name has not been found, this serves as a placeholder until
 39191;Los Dos Ríos SA.;Argentina;Private company;;;
 39192;Zed SA.;Argentina;Private company;;;
 39193;Unknown (Uniline Finance Ltd.);Ukraine;Private company;;;
-39194;Sunti Golden Sugar Company;Nigeria;Private company;;;
+39194;Sunti Golden Sugar Estates Limited (SGSE);Nigeria;Private company;https://goldensugarng.com/;;
 39195;Nimini Holdings Limited;Sierra Leone;Private company;;;Previously held by Polo Resources
 39196;SOMIO Toungou SA;Central African Republic;Private company;;;
 39197;Unknown (AGPL Investments Pte.Ltd);Senegal;Private company;;;
@@ -6149,7 +6156,7 @@ Final beneficiary - Yerkin Tatishev (Kazakhstan)"
 39718;Burlutske PLAE;Ukraine;Private company;;;"The company was shelled by Russian artillery.
 The company's charter was terminated due to bankruptcy and reorganization"
 39719;Agrofirm Barvinkivs`ka ALLC;Ukraine;Private company;;;
-39720;AF Podolivska LLC;Ukraine;Private company;;;
+39720;AF Podolivska LLC;Ukraine;Private company;;;National code: 32414467
 39721;Ukraina Nova LLC;Ukraine;Private company;;;
 39722;Bopolu Development Corporation (BODECO);Liberia;Private company;;;
 39723;Universal Forestry Corporation;Liberia;Private company;;;
@@ -6554,6 +6561,7 @@ UUID: 21a02646-60e8-48c9-93ca-0f0d5364ff27"
 40130;Sekong 3 Hydropower Company;Lao PDR;Other;;;"Imported from Land Observatory
 UUID: 22a6f93a-3945-4661-bdbc-79588246bcc3
 Economic Sector: Energy sector"
+40134;Sinomexim Investment Co., Ltd;Cambodia;Private company;;;Chinese owned company operating in Cambodia tho the official parent company has not been found
 40135;Korea National Oil Corporation - KNOC;Republic of Korea;State-/government (owned) company;https://www.knoc.co.kr/ENG/sub01/sub01_1_1.jsp;;"Imported from Land Observatory
 UUID: 26003f60-23e8-4bc6-88c1-69d49238435d
 
@@ -6618,7 +6626,7 @@ UUID: 505f30e0-11a7-45fb-b18c-2d584210b946
 Economic Sector: Mining"
 40199;Quasa-Geruco Joint Stock Company;Vietnam;State-/government (owned) company;;;"Imported from Land Observatory
 UUID: 50d23b89-253a-4562-b155-524a6e5e9921"
-40200;CamAgra Investment Group Ltd;Cambodia;Private company;;https://opencorporates.com/companies/kh/00018933;
+40200;CamAgra Investment Group Ltd;Cambodia;Private company;http://www.camagra.net/;https://opencorporates.com/companies/kh/00018933;CamAgra Investment Group Ltd is a private commercial company managing Acacia forest plantation of 7000 hectares, and a wood processing factory, operating in Cambodia. The field operation center, located in Sihanoukville province.
 40205;Indochina Development Partners (IDP);Cyprus;Other;http://www.idp-laos.com/;;"Imported from Land Observatory
 UUID: 52eee069-9aa8-441b-89cc-fdd4bdf6fb60
 Economic Sector: Agriculture
@@ -7427,7 +7435,7 @@ The company was created in 2006."
 41006;Unknown (Green Quest Pharmaceuticals );Malawi;;;;
 41007;Graham Macntosh;South Africa;Individual entrepreneur;;;
 41008;New Kin International Ltd;China;;;;
-41009;Makanjila heavy mineral sands (HMS);;;;;
+41009;Mawei Mining Limited;China;;;;
 41010;Bank Hapoalim;Israel;Other;http://www.bankhapoalim.com/;https://opencorporates.com/companies/il/514206457;Commercial bank
 41011;Ampal American Israel Corporation;United States of America;Private company;;https://opencorporates.com/companies/us_ny/53729;
 41012;Banco Nacional do Desenvolvimento;Brazil;Bilateral Development Bank / Development Finance Institution;https://www.bndes.gov.br/wps/portal/site/home;https://opencorporates.com/companies/gb/06823603;It is a development bank under the Brazilian government
@@ -7566,7 +7574,7 @@ SSR Mining is a precious metals producer with three operations, including the Ma
 41178;Booker McConnel;;;;;
 41179;East African Development Bank;;;;;
 41180;Base Toliara;Madagascar;;;;
-41181;Geita Gold Mine;Tanzania;;http://www.geitamine.com/en.html#future;;
+41181;Geita Gold Mining Limited (GGML);Tanzania;Stock-exchange listed company;http://www.geitamine.com/en.html#future;;The company is a subsidiary of a stock exchange listed company
 41182;Siguiri Gold Mine;Guinea;;;;
 41183;EcoEnergy Ukraine LLC;Ukraine;Private equity firm;;;
 41184;Votorantim SA.;Brazil;Private company;http://www.votorantim.com.br/;;
@@ -9978,7 +9986,7 @@ The CDC has an administrative and financial management autonomy while being plac
 43643;Liberian Wood Industry;United States of America;Private company;;;Listed owners: Edmond Villani (USA), Nicholas Bratt (USA), Juerg Schaeppi (Swiss) and Markus Rorhbasser (Swiss). Majority owner of International Consultant Capital.
 43644;Boroo Mining Corporation Pte Ltd;Singapore;Private company;https://boroomc.com.sg/;https://opencorporates.com/companies/sg/201827959R;Previously OZD ASIA PTE. LTD.
 43645;PT. Wana Hijau Semesta;Indonesia;Private company;;;
-43646;PT. Alao Kuning;Indonesia;Private company;;;
+43646;PT. Alao Kuning;Indonesia;Private company;;;PT. Alao Kuning is a legally registered Limited Liability Company in Indonesia, identified by business number 69982 and headquartered in GOLD COAST OFFICE PANTAI INDAH KAPUK TOWER EIFFEL, JALAN PANTAI INDAH KAPUK UNIT OTA 11 WF, NORTH JAKARTA.
 43647;PT. Multi Daya Fortuna;Indonesia;Private company;;;
 43648;Anteks Group JSC;Uzbekistan;Private company;;;
 43649;Digital Prime Textile LLC;Uzbekistan;Private company;;;Cotton cluster
@@ -10550,6 +10558,7 @@ A través de los parques eólicos Madryn -el más grande del país-, Chubut Nort
 La excelencia de nuestros recursos humanos, el comportamiento ético y responsable en cada ámbito maximizan el alto valor agregado de las actividades de GENNEIA y refuerza el compromiso con la comunidad y el futuro."
 44260;POSCO ARGENTINA S.A.U;Argentina;Private company;;;
 44262;Lithium Power S.A.;Argentina;Private company;;;
+44265;Uranium One Group;Russian Federation;Private company;https://uranium1.com/;;
 44267;Vršački vinogradi;Serbia;Private company;;;The company was firstly privatized by a domestic investor before the Chinese investor's emergence. Initially was a state-owned company 
 44268;Zhe Jiang Guan Nan;China;;;;
 44269;Corriente Argentina S.A.;Argentina;Private company;;;
@@ -13123,6 +13132,7 @@ VAT	LT100007376818"
 47507;Estepa Solar SpA;Chile;Private company;;;
 47508;Nightowl 1 SpA;Chile;Private company;;;
 47509;Bess Halcón 18 SpA;Chile;Private company;;;
+47517;Huot Sambat Co. Ltd.;Cambodia;Private company;;;
 47520;Zorlu Enerji;Türkiye;Private company;https://www.zorluenerji.com.tr/en;;Zorlu Enerji is an energy company based on Turkey which has experience in electricity generation & distribution from renewable energy sources, including geothermal, solar, wind and hydro power with total installed capacity is 991 MW and EV charging stations.
 47522;Equinox Gold;Canada;Stock-exchange listed company;https://www.equinoxgold.com/;;
 47524;Baldota Group;India;Asset management firm;https://baldota.co.in/;;Founded in 1961, the Baldota Group has a diversified interests in Mining, Pelletization, Wind Power, Gases, Shipping, Aviation, Environmental Care, Mental Wellness, and angel investments in startups.
@@ -13155,10 +13165,12 @@ The new operating company name since the sale has not been clarified or found in
 47555;Alternate Wetting and Drying (AWD) Rice Cultivation Project;India;Other;https://vnv.earth/the-dhan-solution/;;"This investor serves as a placeholder for a CS project being implemented in Maharashtra, India.
 
 It involves 2 investors in: Value Network Ventures Advisory Services Pte. Ltd. from Singapore (serving as Project Proponent and funder of project) and Shriram Education and Welfare Society (SREWS) as implementation partner (provide the participating farmers with the guidance and training needed to implement AWD)"
+47556;Han Seng Coal Mine Co Ltd (HSCMC);Cambodia;Private company;;;
 47559;Power Minerals S.A.;Argentina;Private company;;;Información sobre la compañía puede encontrarse en: https://www.cuitonline.com/detalle/33712229549/power-minerals-s.a.html (último acceso 2025/09/30).
 47560;Cataventos Acaraú Geração de Energias Renováveis Ltda;Brazil;Private company;;;
 47561;Nomad Foods Europe Limited;United Kingdom of Great Britain and Northern Ireland;Private equity firm;https://www.nomadfoods.com/;;
 47562;Nova Eólica Buriti SA;Brazil;Private company;https://www.energimp.com.br/;;
+47570;Vanguard Perú;Peru;Private company;https://vanguardteam.com/es/;;
 47572;Parque eolico Nolana SpA;Chile;Private company;;;
 47573;Canadian Solar Libertador Solar Holding SpA.;Chile;Private company;;;
 47575;Ibereólica Solar Elena SpA;Chile;;;;
@@ -13183,3 +13195,13 @@ The Company's registered office is at the 3rd Floor JTKC Bldg., 2155 Don Chino R
 47595;Matiushi LLC;Ukraine;Private company;;;National code: 03755348
 47601;Aliança Energia;Brazil;;https://aliancaenergia.com.br/;;
 47604;Polimix Energia;Brazil;Private company;https://www.polimix.com.br/index.html;;
+47606;OPDE Chile Spa;Chile;;;;
+47608;ERNC Loa SpA;Chile;;;;
+47609;Andacor S.A.;Chile;;https://inmobiliaria.andacor.com/;;
+47620;Giovani Glandi;Italy;Individual entrepreneur;;;
+47643;Rui Feng (Cambodia) International Company Ltd.;Cambodia;Private company;;;
+47644;Rui Feng;China;Private company;;;Note: Official name of company has not been found, but is a large investor in sugar globally but especially in Cambodia
+47645;State Atomic Energy Corporation Rosatom (ROSATOM);Russian Federation;State-/government (owned) company;https://rosatom.ru/en/index.html;;State Atomic Energy Corporation Rosatom (Rosatom) is a multi-industry holding company which comprises assets in power engineering, machine building, and construction.
+47660;ADP-Agro LLC;Ukraine;Private company;;;National code: 45360065
+47676;Oddormeanchey Power Industrial Co Ltd;Cambodia;Private company;;;Oddormeanchey Power Industrial Co Ltd is a Cambodian company developing the Trapeang Prasat coal-fired power plant project in Oddar Meanchey province
+47682;Sinomine Kitumba Minerals Company Limited;Zambia;Private company;;;
