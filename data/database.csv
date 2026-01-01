@@ -263,6 +263,7 @@ Deal Number;Target Country;Target Region;Investor 1;Investor 2;Investor 3;Invest
 1798;Sierra Leone;Sub-Saharan Africa;Sunbird Bioenergy (SL) Limited;Sunbird Bioenergy Africa Limited;;Sierra Leone;Mauritius;;Sub-Saharan Africa;Sub-Saharan Africa;;Private;Unknown;;Cassava;;;;23500.0
 1812;Sierra Leone;Sub-Saharan Africa;Unknown (Sierra Gold Corporation);Sierra Gold Corporation;;Sierra Leone;Canada;;Sub-Saharan Africa;Northern America;;Private;Unknown;;Rice;Corn;Maize;;46255.0
 1817;Sierra Leone;Sub-Saharan Africa;Goldtree (SL) Ltd.;Phatisa Group Limited;;Sierra Leone;Mauritius;;Sub-Saharan Africa;Sub-Saharan Africa;;Private;Private;;;;;;11339.0
+1825;Swaziland;;D1 Oils Africa Pty;NEOS Resources PLC;;Swaziland;United Kingdom of Great Britain and Northern Ireland;;;;;Private;Private;;Jatropha;;;;6000.0
 1827;Swaziland;;EI RANCH PTY LTD;Emvest Asset Management;;Swaziland;South Africa;;;Sub-Saharan Africa;;Private;Finance;;;;;;1386.0
 1839;Tanzania;Sub-Saharan Africa;Kilombero Plantations Ltd.;Agrica;;Tanzania;Guernsey;;Sub-Saharan Africa;;;Private;Private;;Rice;;;;5818.0
 1846;Tanzania;Sub-Saharan Africa;Sun Biofuel Tanzania Ltd;Sun Biofuels;;Tanzania;United Kingdom of Great Britain and Northern Ireland;;Sub-Saharan Africa;;;Private;Private;;Jatropha;;;;8211.0
@@ -278,6 +279,7 @@ Deal Number;Target Country;Target Region;Investor 1;Investor 2;Investor 3;Invest
 1999;Congo, Dem. Rep.;;Plantations Et Huileries du Congo sa (PHC);Government of the Democratic Republic of the Congo;Kuramo African Opportunity Agribusiness Vehicle LP;Congo, Dem. Rep.;Congo, Dem. Rep.;Cayman Islands;;;;Private;Government;Unknown;;;;;101455.0
 2006;Congo, Dem. Rep.;;Feronia PEK sprl;CDC Group plc;Kuramo African Opportunity Agribusiness Vehicle LP;Congo, Dem. Rep.;United Kingdom of Great Britain and Northern Ireland;Cayman Islands;;;;Private;Government;Unknown;Rice;Bean;;;10000.0
 2024;Zambia;Sub-Saharan Africa;African Crops Ltd.;Hawkwood Capital LLC;;Zambia;United Kingdom of Great Britain and Northern Ireland;;Sub-Saharan Africa;;;Private;Finance;;Wheat;Corn;Maize;;27087.0
+2039;Zambia;Sub-Saharan Africa;D1 Oils Plant Science Zambia Limited;NEOS Resources PLC;;Zambia;United Kingdom of Great Britain and Northern Ireland;;Sub-Saharan Africa;;;Private;Private;;Jatropha;;;;174000.0
 2044;Zambia;Sub-Saharan Africa;Marli Investments Zambia Ltd.;Unnamed investor 109;;Zambia;India;;Sub-Saharan Africa;Southern Asia;;Private;Unknown;;Jatropha;;;;12000.0
 2050;Zambia;Sub-Saharan Africa;EmVest Livingstone;Emvest Asset Management;;Zambia;South Africa;;Sub-Saharan Africa;Sub-Saharan Africa;;Private;Finance;;Wheat;Corn;Maize;;2513.0
 2053;Zambia;Sub-Saharan Africa;Chobe Agrivision Company Limited;Agrivision Africa (Pty) Ltd;;Zambia;South Africa;;Sub-Saharan Africa;Sub-Saharan Africa;;Private;Private;;Wheat;Corn;Maize;;4094.0
@@ -669,7 +671,7 @@ Deal Number;Target Country;Target Region;Investor 1;Investor 2;Investor 3;Invest
 4396;Zambia;Sub-Saharan Africa;Zambika Agricultural Ltd;Ambika;;Zambia;Russian Federation;;Sub-Saharan Africa;;;Private;Unknown;;Corn;Maize;Tobacco;;1700.0
 4398;Zambia;Sub-Saharan Africa;Unknown (Herdon Investments);Herdon Investments;;Zambia;United Kingdom of Great Britain and Northern Ireland;;Sub-Saharan Africa;;;Private;Unknown;;;;;;650.0
 4399;Zambia;Sub-Saharan Africa;Unknown (Vixers Farming);Vixers Farming;;Zambia;Zimbabwe;;Sub-Saharan Africa;Sub-Saharan Africa;;Private;Unknown;;Wheat;Corn;Maize;;1200.0
-4405;Zambia;Sub-Saharan Africa;Unknown (Munyati Farming Ltd);Munyati Farming Ltd;;Zambia;Zimbabwe;;Sub-Saharan Africa;Sub-Saharan Africa;;Private;Unknown;;Corn;Maize;;;3500.0
+4405;Zambia;Sub-Saharan Africa;Munyati Farming Ltd;Munyati Farming Ltd;;Zambia;Zimbabwe;;Sub-Saharan Africa;Sub-Saharan Africa;;Private;Unknown;;Corn;Maize;;;3500.0
 4407;Zambia;Sub-Saharan Africa;Unknown (Nkanga Farms Limited);Nkanga Farms Limited;;Zambia;Zimbabwe;;Sub-Saharan Africa;Sub-Saharan Africa;;Private;Unknown;;Cotton;;;;11000.0
 4411;Romania;Eastern Europe;SC Delta-Rom Agriculture LLC;Ener. Fin. s.r.l.;;Romania;;;Eastern Europe;;;Private;Unknown;;Wheat;Corn;Maize;;9998.0
 4412;Romania;Eastern Europe;Alsagro Farm LLC;Grassa Yves et fils SARL;;Romania;France;;Eastern Europe;Western Europe;;Private;Finance;;Wheat;Rapeseed;Barley;;4600.0
@@ -949,6 +951,7 @@ Deal Number;Target Country;Target Region;Investor 1;Investor 2;Investor 3;Invest
 5648;Brazil;South America;Summit Brazil LLC;Summit Agricultural Group;;Brazil;United States of America;;South America;;;Private;Finance;;Corn;Maize;;;4451.0
 5649;Belize;Central America;Belize Sugar Industries Limited;Florida Crystals Corporation;;Belize;United States of America;;Central America;;;Private;Private;;;;;;1618.0
 5650;Paraguay;South America;Agrotoro SA.;Grupo Favero;;Paraguay;Brazil;;South America;South America;;Private;Private;;;;;;37500.0
+5659;Malawi;Sub-Saharan Africa;Salima Sugar Company Limited;Green Belt Initiative (GBI) Holdings Limited;;Malawi;Malawi;;Sub-Saharan Africa;Sub-Saharan Africa;;Private;Government;;Corn;Maize;;;6293.0
 5667;Malawi;Sub-Saharan Africa;Kawandama Hills Plantations (KHP);Citrefine International Limited;;Malawi;United Kingdom of Great Britain and Northern Ireland;;Sub-Saharan Africa;;;Private;Private;;Eucalyptus;;;;6000.0
 5680;Argentina;South America;Unknown (Anzere SA., in Argentina, 39485);Anzere SA.;;Argentina;Uruguay;;South America;South America;;Private;Private;;;;;;19954.0
 5697;Colombia;South America;Cooperativa Palmas de Risaralda;Promotora Hacienda las Flores;;Colombia;Colombia;;South America;South America;;Private;Private;;;;;;1000.0
@@ -1661,6 +1664,7 @@ Deal Number;Target Country;Target Region;Investor 1;Investor 2;Investor 3;Invest
 8967;Romania;Eastern Europe;Unknown (Michel Créteur);Michel Créteur;;Romania;France;;Eastern Europe;Western Europe;;Private;Private;;Wheat;Corn;Maize;;2630.0
 8970;Cameroon;Sub-Saharan Africa;Transformation Reef Cameroon (TRC);REEF HOUT BV;;Cameroon;Netherlands;;Sub-Saharan Africa;Western Europe;;Private;Private;;;;;;55580.0
 8972;Russian Federation;;Sibirskaya Niva LLC;Ekosem-Agrar AG;;Russian Federation;Germany;;;Western Europe;;Private;Private;;;;;;112000.0
+9034;Indonesia;South-East Asia;PT Parit Sembada;Di-Yi;;Indonesia;Malaysia;;South-East Asia;South-East Asia;;Private;Private;;;;;;3990.4
 9040;Russian Federation;;Agrogard-Orel LLC;Lespako Limited LLC;;Russian Federation;Cyprus;;;Western Asia;;Private;Private;;Wheat;Corn;Maize;;56900.0
 9042;Russian Federation;;Otrada Farms LLC;Sucden Group;;Russian Federation;France;;;Western Europe;;Private;Unknown;;Wheat;Corn;Maize;;19000.0
 9045;Russian Federation;;OJSC Mondi Syktyvkar LPK;Mondi Group plc;;Russian Federation;United Kingdom of Great Britain and Northern Ireland;;;;;Private;Private;;;;;;198595.0
@@ -1703,6 +1707,7 @@ Deal Number;Target Country;Target Region;Investor 1;Investor 2;Investor 3;Invest
 9094;Kazakhstan;Central Asia;Zhanatas Wind-Power Station LLP;State Power Investment Corporation Limited;;Kazakhstan;China;;Central Asia;Eastern Asia;;Private;Government;;;;;;233.5
 9096;Russian Federation;;Econiva Altai LLC;Ekosem-Agrar AG;;Russian Federation;Germany;;;Western Europe;;Private;Private;;Wheat;Corn;Maize;;14000.0
 9125;Ukraine;Eastern Europe;Agrokompleks Zelena Dolyna LLC;Terra Food Milk Ukraine Limited;;Ukraine;Cyprus;;Eastern Europe;Western Asia;;Private;Private;;Wheat;Corn;Maize;;25750.0
+9153;India;Southern Asia;Talwandi Sabo Power Limited (TSPL);Vedanta Resources;;India;United Kingdom of Great Britain and Northern Ireland;;Southern Asia;;;Private;Private;;;;;;849.84
 9161;Russian Federation;;Agroproduct LLC;Meadway Holdings Ltd.;;Russian Federation;Cyprus;;;Western Asia;;Unknown;Unknown;;Beet;;;;13000.0
 9167;Russian Federation;;Agrofirm Agrosugar-3 LLC;Meadway Holdings Ltd.;;Russian Federation;Cyprus;;;Western Asia;;Private;Unknown;;Wheat;Beet;Barley;;6810.0
 9169;Russian Federation;;SoyuzAgro LLC;Meadway Holdings Ltd.;;Russian Federation;Cyprus;;;Western Asia;;Private;Unknown;;Beet;;;;58967.0
@@ -1807,6 +1812,7 @@ Deal Number;Target Country;Target Region;Investor 1;Investor 2;Investor 3;Invest
 9439;Ukraine;Eastern Europe;Kuibyshivske PRAE;Malyhina Tetiana;;Ukraine;Russian Federation;;Eastern Europe;;;Private;Private;;Wheat;Rapeseed;Barley;;3583.0
 9444;Serbia;Southern Europe;Carnex D.O.O;Agri Holding AG;;Serbia;Switzerland;;Southern Europe;Western Europe;;Private;Private;;;;;;4704.0
 9468;Serbia;Southern Europe;Agrounija d.o.o.;Agri Holding AG;;Serbia;Switzerland;;Southern Europe;Western Europe;;Private;Private;;Apple;;;;7770.0
+9471;Mozambique;Sub-Saharan Africa;Verdant Frontiers;;;United States of America;;;;;;Unknown;;;;;;;500.0
 9492;Vietnam;South-East Asia;Phu Yen TTP Joint Stock Company (TTPY);;;Vietnam;;;South-East Asia;;;Private;;;;;;;256.0
 9502;Ukraine;Eastern Europe;Alfa Farm;;;Ukraine;;;Eastern Europe;;;Private;;;Wheat;Corn;Maize;;3640.0
 9506;Brazil;South America;EDP Renováveis Brasil S.A.;EDP, S.A.;;Brazil;Portugal;;South America;Southern Europe;;Private;Government;;;;;;2616.0
@@ -1844,6 +1850,7 @@ Deal Number;Target Country;Target Region;Investor 1;Investor 2;Investor 3;Invest
 9727;Indonesia;South-East Asia;First Resources;;;Singapore;;;South-East Asia;;;Private;;;;;;;5188.0
 9741;Ethiopia;Sub-Saharan Africa;Efrem Mulugeta Coffee Plantation & Beehive;Unknown (Efrem Mulugeta Coffee Plantation & Beehive);;Ethiopia;Israel;;Sub-Saharan Africa;Western Asia;;Private;Unknown;;Coffee;;;;367.21
 9742;Ukraine;Eastern Europe;Vindkraft Ukraina LLC;Wingcraft holdings limited;;Ukraine;Cyprus;;Eastern Europe;Western Asia;;Private;Private;;;;;;432.42
+9760;Indonesia;South-East Asia;PT Patiware;Fullest Holding Limited;;Indonesia;British Virgin Islands;;South-East Asia;;;Unknown;Unknown;;;;;;6801.78
 9761;Indonesia;South-East Asia;PT. Mulia Sawit Agro Lestari;;;Indonesia;;;South-East Asia;;;Private;;;;;;;11006.97
 9769;Congo, Rep.;;Forest Neutral Congo (FNC);Government of the Republic of Congo;Total S.A.;Congo, Rep.;Congo, Rep.;France;;;Western Europe;Unknown;Government;Private;;;;;40000.0
 9802;Peru;South America;JCC INVERSIONES S.A.C;;;Peru;;;South America;;;Private;;;;;;;8050.0
@@ -2115,6 +2122,9 @@ Deal Number;Target Country;Target Region;Investor 1;Investor 2;Investor 3;Invest
 11287;Romania;Eastern Europe;LACTO AGRAR LLC;AM Advies BV;;Romania;Netherlands;;Eastern Europe;Western Europe;;Private;Private;;Corn;Maize;;;1454.02
 11289;Romania;Eastern Europe;DN AGRAR PRODLACT LLC;AM Advies BV;;Romania;Netherlands;;Eastern Europe;Western Europe;;Private;Private;;;;;;441.0
 11290;Romania;Eastern Europe;DN AGRAR APOLD LLC;AM Advies BV;;Romania;Netherlands;;Eastern Europe;Western Europe;;Private;Private;;;;;;2341.47
+11291;India;Southern Asia;ReNew Wind Energy (MP Two) Pvt. Ltd;ReNew Power Private Limited (RPPL);;India;India;;Southern Asia;Southern Asia;;Private;Private;;;;;;200.0
+11293;India;Southern Asia;ReNew Wind Energy (MP Two) Pvt. Ltd;ReNew Power Private Limited (RPPL);;India;India;;Southern Asia;Southern Asia;;Private;Private;;;;;;651.47
+11302;Bangladesh;Southern Asia;Eleris Energy Bangladesh LTD;Pacific Energy Group, LLC;;Bangladesh;United States of America;;Southern Asia;;;Private;Private;;;;;;2225.77
 11305;Bulgaria;Eastern Europe;Advance Terrafund REIT;Karoll Financial Group;;Bulgaria;Bulgaria;;Eastern Europe;Eastern Europe;;Finance;Unknown;;;;;;1191.3
 11321;India;Southern Asia;CLP Wind Farms (Theni - Project II) Private Limited;China Light and Power Company, Limited (CLP Holdings Ltd);Apraava Energy Private Limitted;India;China, Hong Kong Special Administrative Region;India;Southern Asia;;Southern Asia;Private;Private;Private;;;;;214.01
 11323;India;Southern Asia;Mahindra Renewables Private Limited (MPRL);Mahindra Holdings Limited (MHL);;India;India;;Southern Asia;Southern Asia;;Private;Private;;;;;;508.29
@@ -2196,3 +2206,29 @@ Deal Number;Target Country;Target Region;Investor 1;Investor 2;Investor 3;Invest
 11627;Chile;South America;Ibereólica ERNC Antofagasta SpA;Ibereólica;;Chile;Spain;;South America;Southern Europe;;Private;Private;;;;;;1490.2
 11628;Brazil;South America;Enerfin/Enervento (Elecnor Group);;;Canada;;;Northern America;;;Private;;;;;;;3467.0
 11639;Brazil;South America;Enel Green Power;;;Italy;;;Southern Europe;;;Private;;;;;;;1709.0
+11658;Uruguay;South America;Unknown;Teachers Insurance and Annuity Association of America (TIAA);;Uruguay;United States of America;;South America;;;Unknown;Private;;Eucalyptus;;;;21429.0
+11659;Brazil;South America;Brasilwood;Teachers Insurance and Annuity Association of America (TIAA);;Brazil;United States of America;;South America;;;Private;Private;;Eucalyptus;;;;11522.0
+11660;Colombia;South America;Forestal Monterrey Colombia SAS;Teachers Insurance and Annuity Association of America (TIAA);;Colombia;United States of America;;South America;;;Private;Private;;;;;;24336.0
+11665;Panama;Central America;Apical Reforestadora S de RL;Teachers Insurance and Annuity Association of America (TIAA);;Panama;United States of America;;Central America;;;Private;Private;;Teak;;;;331.0
+11666;Panama;Central America;Apical Reforestadora S de RL;Teachers Insurance and Annuity Association of America (TIAA);;Panama;United States of America;;Central America;;;Private;Private;;Teak;;;;917.0
+11667;Panama;Central America;Apical Reforestadora S de RL;Teachers Insurance and Annuity Association of America (TIAA);;Panama;United States of America;;Central America;;;Private;Private;;Teak;;;;488.0
+11668;Panama;Central America;Apical Reforestadora S de RL;Teachers Insurance and Annuity Association of America (TIAA);;Panama;United States of America;;Central America;;;Private;Private;;Teak;;;;868.0
+11669;Panama;Central America;Apical Reforestadora S de RL;Teachers Insurance and Annuity Association of America (TIAA);;Panama;United States of America;;Central America;;;Private;Private;;Teak;;;;638.0
+11670;Panama;Central America;Apical Reforestadora S de RL;Teachers Insurance and Annuity Association of America (TIAA);;Panama;United States of America;;Central America;;;Private;Private;;Teak;;;;379.0
+11671;Panama;Central America;Apical Reforestadora S de RL;Teachers Insurance and Annuity Association of America (TIAA);;Panama;United States of America;;Central America;;;Private;Private;;Teak;;;;844.0
+11672;Panama;Central America;Apical Reforestadora S de RL;Teachers Insurance and Annuity Association of America (TIAA);;Panama;United States of America;;Central America;;;Private;Private;;Teak;;;;683.0
+11673;Panama;Central America;Apical Reforestadora S de RL;Teachers Insurance and Annuity Association of America (TIAA);;Panama;United States of America;;Central America;;;Private;Private;;Teak;;;;349.0
+11674;Panama;Central America;Apical Reforestadora S de RL;Teachers Insurance and Annuity Association of America (TIAA);;Panama;United States of America;;Central America;;;Private;Private;;Teak;;;;1185.0
+11697;Brazil;South America;Uniggel Sementes;Teachers Insurance and Annuity Association of America (TIAA);;Brazil;United States of America;;South America;;;Private;Private;;Corn;Maize;Cotton;;1767.0
+11702;Brazil;South America;Tellus Participações S/A;Teachers Insurance and Annuity Association of America (TIAA);;Brazil;United States of America;;South America;;;Private;Private;;Corn;Maize;Cotton;;2494.0
+11705;Brazil;South America;Tellus Participações S/A;Teachers Insurance and Annuity Association of America (TIAA);;Brazil;United States of America;;South America;;;Private;Private;;;;;;8688.0
+11706;Brazil;South America;Unknown;Teachers Insurance and Annuity Association of America (TIAA);;Brazil;United States of America;;South America;;;Private;Private;;Corn;Maize;;;1552.0
+11707;Brazil;South America;Schmidt Agricola;Teachers Insurance and Annuity Association of America (TIAA);;Brazil;United States of America;;South America;;;Private;Private;;Corn;Maize;Cotton;;7066.0
+11708;Brazil;South America;Unknown;Teachers Insurance and Annuity Association of America (TIAA);;Brazil;United States of America;;South America;;;Private;Private;;Corn;Maize;;;4504.0
+11709;Brazil;South America;Unknown;Teachers Insurance and Annuity Association of America (TIAA);;Brazil;United States of America;;South America;;;Private;Private;;;;;;1370.0
+11710;Brazil;South America;Unknown;Teachers Insurance and Annuity Association of America (TIAA);;Brazil;United States of America;;South America;;;Private;Private;;;;;;4981.0
+11712;Brazil;South America;Unknown;Teachers Insurance and Annuity Association of America (TIAA);;Brazil;United States of America;;South America;;;Private;Private;;;;;;2307.0
+11713;Brazil;South America;Coopercitrus;Teachers Insurance and Annuity Association of America (TIAA);;Brazil;United States of America;;South America;;;Private;Private;;;;;;705.0
+11714;Brazil;South America;Unknown;Teachers Insurance and Annuity Association of America (TIAA);;Brazil;United States of America;;South America;;;Private;Private;;;;;;6658.0
+11715;Brazil;South America;Unknown;Teachers Insurance and Annuity Association of America (TIAA);;Brazil;United States of America;;South America;;;Private;Private;;;;;;4596.0
+11716;Brazil;South America;Unknown;Teachers Insurance and Annuity Association of America (TIAA);;Brazil;United States of America;;South America;;;Private;Private;;;;;;1024.0
