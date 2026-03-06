@@ -19,7 +19,12 @@
   "resources": [
     {
       "name": "land-deals",
-      "path": "data/land-deals.csv",
+      "path": "data/database.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "dialect": {
+        "delimiter": ";"
+      },
       "schema": {
         "fields": [
           {
