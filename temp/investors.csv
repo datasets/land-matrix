@@ -848,7 +848,7 @@ for mechanized farming.
 2017;PONDICHERRY INDUSTRIAL PROMOTION DEVELOPMENT AND INVESTMENT CORPORATION LIMITED(PIPDIC);India;State-/government (owned) company;;;"Om Metals & SPML hold around 18.5% stake each, the Pondicherry Government holds
 26% & Urban Infrastructure Ltd holds 37%"
 2018;Spectre International;Kenya;Private company;;;Spectre International signed the initial lease in 2001. Energem later became majority shareholder in the factory
-2019;PanAust Limited;Australia;Stock-exchange listed company;;;
+2019;PanAust Limited;Australia;Private company;https://panaust.com.au/;;PanAust Limited is a Brisbane-based mining company, acting as a subsidiary of China’s Guangdong Rising Assets Management Co. Ltd.. It specializes in copper and gold exploration, mining, and production, with major operations in Laos (Phu Kham) and projects in Papua New Guinea and Chile. It is known for large-scale, open-pit copper-gold concentrate production.
 2020;Arrowny Japan Company;Japan;Private company;;;joint venture with Lao company
 2021;Namibia Development Corporation;Namibia;State-/government (owned) company;;;Ownership share unknown
 2022;Labour Investment Holdings (LIH);Namibia;Private company;;;
@@ -1378,7 +1378,6 @@ Deep River Investment (DRI), the main shareholder of the CIEL Group and GML Inve
 2862;Chongxay Rubber Co., Ltd.;China;;;;"company is also called ""Jongxay"""
 2864;Bao Sen Rubber Development;China;Private company;;;
 2867;Basic Energy Corporation (BEC);Philippines;Stock-exchange listed company;https://www.basicenergy.ph/;;Basic Energy Corporation (BEC) is a publicly listed holding company in the Philippines. It has business interests in various fields of renewable energy and alternative fuels, and oil and gas exploration and development.
-2869;Chonghe;;;;;
 2870;Olivo Noble S.A.;Spain;Private company;;;
 2871;Flour Lao China Company;China;Private company;;;
 2872;Yunnan Rubber Company Ltd.;China;State-/government (owned) company;;;
@@ -2464,7 +2463,7 @@ see https://www.farmlandgrab.org/post/view/24142-congo-seeks-investors-for-farml
 4463;Korea Land and Housing Corporation;Republic of Korea;State-/government (owned) company;;;"It is ""largest public enterprise"", See http://world.lh.or.kr/englh_html/englh_about/about_1.asp. There is one source called company as Korean land Corporation, see http://www.bacgiang.gov.vn/ves-portal/7434/Viet-Han-Industrial-Park.html"
 4464;Bac Giang Industrial zone Infrastructure Development Company;Vietnam;State-/government (owned) company;;;
 4465;Fuji Bac Giang development JSC;Japan;Stock-exchange listed company;;;It belongs to Fuji Corporation Global. 
-4466;Zijin Mining Group Co., Ltd;China;Stock-exchange listed company;;;
+4466;Zijin Mining Group Co., Ltd;China;Stock-exchange listed company;https://www.zijinmining.com/;;
 4467;China Molybdenum Co., Ltd;China;Stock-exchange listed company;;;
 4468;Lundin Mining Corporation;Canada;Stock-exchange listed company;;;
 4469;Line Trust Corporation Limited;Gibraltar;Other;;;Corporate trust. Fleurette Properties Limited is ultimately owned by Line Trust Corporation Limited. Fleurette Group project owned by Fleurette Properties Limited. 
@@ -2522,7 +2521,7 @@ see https://www.farmlandgrab.org/post/view/24142-congo-seeks-investors-for-farml
 4554;Transfrontier Investment Holdings;South Africa;;;;
 4557;Argento Ltd;Mauritius;;;;Other name is Argento Continental Corporation
 4558;Local representative;Mozambique;;;;
-4559;PHI Group, Inc;United States of America;Stock-exchange listed company;;;
+4559;Philux Global Group Inc.;United States of America;Stock-exchange listed company;https://philuxglobal.com/;;Philux Global Group Inc. (formerly PHI Group, Inc.), headquartered in Huntington Beach, California, is a diversified financial services holding company traded on the OTC Markets under the ticker symbol PHIL.
 4560;ROVIC GROUP;Senegal;;;;
 4562;PNT Co., Ltd;Cambodia;Private company;http://phuclocgroup.vn/;;Registered in Cambodia but is owned by a Vietnamese Company
 4566;PLT INDUSTRIAL ZONE INVESTMENT JOINT STOCK COMPANY;Vietnam;Private company;;;
@@ -3026,7 +3025,7 @@ the name of the company is specified as t Daduhe Forestation Burea."
 34983;Unknown (I K Company);Iraq;Private company;;;
 34985;Unknown (Hawkar);Iraq;Private company;;;
 34986;Unknown (Shiwa Company);Iraq;Private company;;;
-34987;Phu Bia Mining Limited;Lao PDR;Private company;;;
+34987;Phu Bia Mining Limited (PBM);Lao PDR;Semi state-owned company;https://phubiamining.com/en/;;Phu Bia Mining Limited (PBM) is a prominent, Laos-based mid-tier mining company and a member of the PanAust Group. It operates the Phu Kham Copper-Gold and Ban Houayxai Gold-Silver operations. Since 1994, it has focused on open-pit mining, producing copper concentrate and gold-silver doré while contributing over US$1 billion to the Lao economy
 34988;Birla Lao Pulp & Plantations Company Limited;Lao PDR;Private company;;;
 34989;Unknown (Agarwood Lao Group Co. Ltd.);Lao PDR;Private company;;;
 34990;Ari Construction and Building Repairment Co;China;Private company;;;
@@ -3101,7 +3100,9 @@ The GFII operates in partnership with Ecofuel Development Corp., Itochu Corp., J
 35153;Biocombustibles de Guatemala SA;Guatemala;Private company;;;
 35159;Unknown (Mitsubishi Corp.);Indonesia;Private company;;;
 35164;Unknown (Jeonnam Feedstock Ltd.);Philippines;Private company;;;
-35170;SR Metals, Inc.;Philippines;Private company;;;
+35170;SR Metals, Inc. (SRMI);Philippines;Private company;;;"SR Metals Inc. (SRMI) is a 100% Filipino-owned mining company based in Tubay, Agusan del Norte, specializing in the extraction and export of nickeliferous ore, primarily to China and Indonesia.
+
+Owners are identified as Francis Enrico ""Eric"" Gutierrez identified as a key owner and Chairman. Caloocan Representative Edgar Erice, a former president of the firm, is also recognized as a key figure and founding chairman."
 35177;Unknown (Far East Agricultural Investment Co);Vietnam;Private company;;;
 35178;Unknown (East Asia Development and Agricultural Investment Company (EADACO));Philippines;Private company;;;
 35181;Charoen Pokphand Foods Philippines Corp.;Philippines;Private company;;;Lead investor/operator. CPF set up CPF Philippines Corp in 2007 and has since financed all major project components (feed mills, farms, hatcheries). It injects capital for construction and operation. CP Group (owned by the Chearavanont family) is the ultimate owner. CPF’s integration ensures supply of technology, breeding stock, and access to export markets.
@@ -3109,7 +3110,7 @@ The GFII operates in partnership with Ecofuel Development Corp., Itochu Corp., J
 35189;Unknown (Highlands Development Cooperative);Philippines;Private company;;;
 35190;Unknown (Leyte Agri Corporation, Praj Industries Ltd);Philippines;Private company;;;
 35197;ECO Global Bio-Oils Inc;Philippines;Private company;;;
-35201;MacroAsia Corporation;Philippines;Private company;;;
+35201;MacroAsia Corporation;Philippines;Stock-exchange listed company;https://macroasiacorp.com/;;MacroAsia Corporation is a leading provider of aviation-related support services in the Philippines. Its major business segments derive income from aircraft maintenance, repair and overhaul (MRO), food services (airline and institutional catering), gateway services (ground handling), property development and leases (ecozone operations) and water concessions/utility.
 35202;Unknown (Biosystems Co. Ltd);Philippines;Private company;;;
 35203;JLV Shrimp Farm;Philippines;Private company;;;
 35208;Unknown (Unnamed investor 97);Thailand;Private company;;;
@@ -3784,10 +3785,10 @@ of Maris Ltd since 2012"
 36469;Golden Arrow Resources Corp.;Argentina;Private company;;;
 36470;Metallurgical Corporation of China Limited Arg.;Argentina;Private company;http://www.mcc.com.cn/mccen/index/index.html;;
 36472;Unknown (Karmin Exploration Inc., in Peru, 36472);Peru;Private company;;;
-36473;Unknown (Fortuna Silver Mines Inc, in Peru, 36473);Peru;Private company;;;
+36473;Compania Minera Bateas S.A.C.;Peru;Private company;;;
 36474;Alturas Minerals Corp - Minera IRL Limited);Peru;Private company;;;
 36475;Unknown (SK Energy, in Peru, 36475);Peru;Private company;;;
-36477;Cañariaco Copper Perú SA.;Peru;Private company;;;
+36477;Cañariaco Copper Perú S.A.C.;Peru;Private company;https://altacopper.com/;;
 36478;Unknown (Hudbay Minerals Inc., in Peru, 36478);Peru;Private company;;;
 36479;Unknown (Bear Creek Mining Corporation, in Peru, 36479);Peru;Private company;;;
 36482;Narborough Plantations Public Limited Company;Malaysia;Private company;;;
@@ -3922,7 +3923,7 @@ goes ahead, Kessler will have the right to acquire 5% of the shares"
 36770;SAFBOIS with REDD+ partner;Congo, Dem. Rep.;Private company;;;Initially SAFBOIS transferred the concession for REDD+ conservation purposes to Jadora. Around 2018 the concession was transferred to Congo Emissions Management and reduced in size.
 36771;Busira Lomami Equateur;Congo, Dem. Rep.;Private company;;;
 36772;Busira Lomami Orientale;Congo, Dem. Rep.;Private company;;;
-36773;Company of Trade and Plantations (CCP);Congo, Dem. Rep.;Private company;;;
+36773;Compagnie de Commerce et Plantation (CCP);Congo, Dem. Rep.;Private company;;;Its English name is Company of Trade and Plantations (CCP)
 36774;SSC Bosondjo;Congo, Dem. Rep.;Private company;;;Part of Grouppe Blattner Elwyn
 36775;SSC Binga;Congo, Dem. Rep.;Private company;;;Société de Cultures Congolaises
 36778;Proef;Angola;Private company;;;
@@ -4596,7 +4597,7 @@ GSFF holds 83% of Chikweti (including credits), the remaining 17% belong to othe
 37940;Unknown (Bao Sen Rubber Development);Lao PDR;Private company;;;
 37941;Campos Morombí S.A;Paraguay;Private company;;;
 37945;Unknown (Basic Energy Corporation);Philippines;Private company;;;
-37948;Unknown (Chonghe);Lao PDR;Private company;;;
+37948;Chongher Luang Prabang Rubber Company Limited;Lao PDR;Private company;;;Other data source list the investor as Jongher Luangprabang Rubber Co. Ltd and another as Zhonghe Rubber Company
 37950;Unknown (Yunnan Rubber Company Ltd.);Lao PDR;Private company;;;
 37952;Unknown (Seunly Rubber Plantation Company);Lao PDR;Private company;;;
 37953;Unknown (Deshang);Lao PDR;Private company;;;
@@ -5112,13 +5113,14 @@ History of beneficiaries:
 38651;Bai Shan Lin Inc.;Guyana;Private company;;;
 38653;Santa Fe Inc;Guyana;Private company;;;
 38654;Bornion Guyana Inc.;Guyana;Private company;;;
-38655;Agro-Region Boryspil LLC;Ukraine;Private company;;;"Identification code - 37747547
+38655;AR Boryspil LLC;Ukraine;Private company;;;"Identification code - 37747547
 
 History of changes in ownership of the operating company:
 2011 - CLOSED JOINT STOCK COMPANY ""BREEDING PLANT ""AGRO-REGION"" (now it is ""GARNA LOHISTYKA LLC), code- 32054570 (Ukraine)
 2016 - CLAREFIELD LIMITED (Cyprus)
 2019 - AGRO REGION STOCKHOLM HOLDING (Sweden), ultimate Beneficial owner  - Peter Elam Håkansson, from 2021 - Aivaras Abromavicius
-2022 - Garna Stockholm Holding AB (Sweden), ultimate Beneficial owner  - Aivaras Abromavicius"
+2022 - Garna Stockholm Holding AB (Sweden), ultimate Beneficial owner  - Aivaras Abromavicius
+2026 - Enselco Holding Ltd (part of Kernel holding)"
 38657;"Chinese - Ukrainian Agricultural Company ""FANDA"" LLC";Ukraine;Private company;;;
 38658;Arab Agricultural Services Company (Rosso);Mauritania;Private company;https://www.aaaid.org/en/arab-company-agricultural-services-rosso;;
 38659;AE Nibulon LLC;Ukraine;Private company;;;
@@ -5556,7 +5558,7 @@ The official company name has not been found, this serves as a placeholder until
 39094;Hai Vuong Group;Vietnam;Private company;;;
 39095;Truong Thanh OJI Forest Planting Company Ltd.;Vietnam;Private company;;;
 39096;Entree Gold Ltd;Mongolia;Private company;;;
-39098;C&N VINA Co.,LTD;Vietnam;Private company;;;
+39098;C&N VINA Co.,LTD;Republic of Korea;Private company;https://cnvn.com.vn/;;C&N VINA Ltd., company has been specializing in investing in infrastructure construction of industrial parks in Vietnam. It has been started since the formation and development of successful Minh Hung Korea industrial park in Binh Phuoc in 2005. Catching up with import and export policies and benefits from Free Trade Agreements, especially TPP (Agreeent on Trans-Pacific Partnership), C&N VINA Ltd., created a favorable investment environment for investors. Up to now, C&N VINA Ltd., has completed fully 100% for lease land in Minh Hung industrial park, Binh Phuoc province with 200ha. It also expanded the construction of Phong Dien industrial park in Thua Thien Hue and Tam Anh Korea industrial park in Quang Nam.
 39099;Tellus Marketing Pte;Mongolia;Private company;;;Terracom Ltd of Australia divested all its Mongolian assets including Tellus Marketing to Bridge.
 39100;Viglacera Corporation – JSC;Vietnam;Private company;;;
 39101;Anian Resourses LLC;Mongolia;Private company;;;
@@ -6084,7 +6086,7 @@ In 2019 the Company was terminated due to the reorganization process. The regist
 39647;Zlagoda LLC;Ukraine;Private company;;;
 39648;EGAT International Co., Ltd.;Myanmar;Private company;;;
 39649;Myanmar Royal Prestige Plantation Co., Ltd;Myanmar;Private company;;;
-39650;Enselco Agro LLC;Ukraine;Private company;;;
+39650;Enselco Agro LLC;Ukraine;Private company;;;National code ID 37083810
 39651;Vyshneve-Agro ALLC;Ukraine;Private company;;;
 39652;Prydniprovskyi Kray ALLC;Ukraine;Private company;;;
 39653;FGV Pho La Min Co Ltd;Myanmar;Private company;;;
@@ -6452,16 +6454,24 @@ Code - 33129725"
 40016;Mayers-Delfs-Agro LLC;Ukraine;Private company;;;
 40017;Dukra Agro LLC;Ukraine;Private company;;;Code - 32535756
 40018;Prima Rosa Flowers Limited;Kenya;Private company;;;
-40021;Agro-Region Lyubar LLC;Ukraine;Private company;https://agro-region.com/western-cluster/;;Identification code - 36328230
-40022;Agro-Region Kozelets LLC;Ukraine;Private company;;;"Code - 37750091
+40021;AR Lyubar LLC;Ukraine;Private company;;;"Identification code - 36328230
+
 History of changes in ownership of the operating company
 2016 - CLAREFIELD LIMITED (Cyprus)
 2019 - AGRO REGION STOCKHOLM HOLDING (Sweden), ultimate Beneficial owner  - Peter Elam Håkansson, from 2021 - Aivaras Abromavicius
-2023 - Garna Stockholm Holding AB (Sweden), ultimate Beneficial owner  - Aivaras Abromavicius"
+2023 - Garna Stockholm Holding AB (Sweden), ultimate Beneficial owner  - Aivaras Abromavicius
+2026 - Enselco Holding Ltd (part of Kernel holding)"
+40022;AR Kozelets LLC;Ukraine;Private company;;;"Code - 37750091
+
+History of changes in ownership of the operating company
+2016 - CLAREFIELD LIMITED (Cyprus)
+2019 - AGRO REGION STOCKHOLM HOLDING (Sweden), ultimate Beneficial owner  - Peter Elam Håkansson, from 2021 - Aivaras Abromavicius
+2023 - Garna Stockholm Holding AB (Sweden), ultimate Beneficial owner  - Aivaras Abromavicius
+2026 - Enselco Holding Ltd (part of Kernel holding)"
 40023;Unknown (African Safari Wood Lodge CC, Mafwe Traditional Authority);Namibia;Private company;;;
 40024;Border Timbers Limited;Zimbabwe;Private company;;;
 40025;Sunlodges (T) Limited;Tanzania;Private company;;https://opencorporates.com/companies/tz/32742;
-40026;Bilopillia Agro LLC;Ukraine;Private company;;;Harvesting in the region is delayed due to increased shelling by Russia. For security reasons, companies do not report on the harvest.
+40026;Bilopillia Agro LLC;Ukraine;Private company;;;National code 35103599
 40027;Bilopillia Agrosvit LLC;Ukraine;Private company;;;Code - 35671804. The operating company is a part of Agroprosperis Group
 40028;Kodjen B LLC;Ukraine;Private company;;;"Code - 34584103
 Until 2020, the operating company Kodjen B LLC had a foreign investor as its parent. Since March 2020, the company's shares are owned by Ukrainians/domestic investors."
@@ -6493,7 +6503,7 @@ DMX ROYAL SRL (Fiscal Code	23809044, Registry No. J34/355/2008)"
 40052;Manquete agro-industrial project;Angola;Private company;;;
 40053;Koloryt Agro LLC;Ukraine;Private company;;;National code: 34700975
 40054;Kurland LLC;Ukraine;Private company;;;National code: 34657396
-40055;Krasne-Agroinvest LLC;Ukraine;Private company;;;
+40055;Krasne-Agroinvest LLC;Ukraine;Private company;;;National code: 34988571
 40056;Agro Balt LLC;Ukraine;Private company;;;"National ID 34887335.
 The company was dissolved in 2018.  Legal successor - Kurland LLC (deal #6113, investor #40054)."
 40057;AF Zapovit Shevchenko;Ukraine;Private company;;;
@@ -6982,8 +6992,8 @@ The previous parent company was SALIC Ukraine LLC."
 40516;Agro Investments (Ukraine) Limited;Cyprus;;;;
 40517;Bio Verde LLC;Ukraine;Private company;;;
 40518;Vesele-Agro LLC;Ukraine;Private company;;;
-40521;Vesele-Agro LLC;Ukraine;Private company;;;
-40522;Volyn-Agro LLC;Ukraine;Private company;;;
+40521;Vesele-Agro LLC;Ukraine;Private company;;;National code 34973979
+40522;Volyn-Agro LLC;Ukraine;Private company;;;National code: 34244835
 40523;Mya Thidar Sway Tin;Myanmar;Individual entrepreneur;;;"""Stark Industries Co. Ltd. is owned and founded by Mya  Thida  Sway  Tin,  a  Myanmar  businesswoman with  connections  to  military  and  business  elite. Mya Thida Sway Tin takes her name from her exhusband, Maung Maung Sway Tin, who recently died. They are both named in the Panama Papers."" (EIA.2016: Green Desert)"
 40525;Prestige Platform Sdn Bhd;Malaysia;;;;
 40530;Iglesia ni Cristo;Philippines;Other;;;Church of christ
@@ -7031,28 +7041,27 @@ EUID	ROONRC.J36/68/2010"
 40572;Brody Agro LLC;Ukraine;Private company;;;"Code - 35116440. The operating company is a part of Agroprosperis Group
 In 2024, the Antimonopoly Committee of Ukraine has decided to approve the purchase of Brody Agro LLC for Hanse Agri Ukraine. Therefore, the relationships can change in the near future"
 40573;Isola Enterprises Ltd.;Cyprus;Private company;;;
-40574;Tsentr Dar LLC;Ukraine;Private company;;;
 40575;Bio Agro LLC;Ukraine;Private company;;;
 40576;Dubenskyi krai LLC;Ukraine;Private company;;;
-40577;Volyn Krai LLC;Ukraine;Private company;;;
+40577;Volyn Krai LLC;Ukraine;Private company;;;National code ID 34712886
 40578;Genesta Limited;Cyprus;;;https://opencorporates.com/companies/cy/HE277698;
 40579;Group of companies Vitagro LLC;Ukraine;Private company;;;
 40580;Agroholding Zorya LLC;Ukraine;Private company;;;
 40581;Horyn Agro LLC;Ukraine;Private company;;;ID number - 34112267.
 40582;Investment company Vitagro LLC;Ukraine;Investment fund;;;
 40583;Bio-lan LLC;Ukraine;Private company;;;
-40584;Shumsk Agro LLC;Ukraine;Private company;;;
+40584;Shumsk Agro LLC;Ukraine;Private company;;;National ID code: 34043068
 40585;Jerste S.a.r.l.;Luxembourg;Private company;;;Previous name Jerste B.V. and registration in the Netherlands.
 40586;Petrobena East Africa Limited;Tanzania;;;;
 40587;Petrobena East Africa Limited;Tanzania;;;;
-40588;Agro Kolos L LLC;Ukraine;Private company;;;
+40588;Agro Kolos L LLC;Ukraine;Private company;;;National ID 35051635
 40589;Pitt Holdings Limited;Cyprus;;;https://opencorporates.com/companies/cy/HE223995;
 40590;Ray Agro LLC;Ukraine;Private company;;;
-40591;Starokostyantyniv Agro LLC;Ukraine;Private company;;;
-40595;AF Obriy LLC;Ukraine;Private company;;;
+40591;Starokostyantyniv Agro LLC;Ukraine;Private company;;;National ID 34337479
+40595;Agrofirma Obriy LLC;Ukraine;Private company;;;National code: 35779344
 40596;Agro Star 2006 LLC;Ukraine;Private company;;;
 40597;Letychiv Agro LLC;Ukraine;Private company;;;Previous parent company - Bio Verde (subsidiary in NCH Capital Inc.)
-40598;Agro-Maidan LLC;Ukraine;Private company;;;
+40598;Agro-Maidan LLC;Ukraine;Private company;;;Since 2016, the operating company is terminated and merged with Letychiv-Agro (deal 6636, Investor ID - 40597)
 40599;NAP II Holdings B. V.;Netherlands;Investment fund;;;
 40600;New Agro Podillya LLC;Ukraine;Private company;;;"Code - 38188900.
 The previous parent company was NAP II Holdings B. V. (Netherlands)."
@@ -7073,11 +7082,12 @@ The previous parent company was NAP II Holdings B. V. (Netherlands)."
 40616;unknown (Department of Economic Development in Abu Dhabi (DED), the Food Security Centre — Abu Dhabi (FSCAD) and the Ministry of Agriculture, Animal Industry and Fisheries of Uganda);;;;;
 40617;Kelmentsi Agro LLC;Ukraine;Private company;;;
 40618;Michael Matthias Heinrich;Germany;Individual entrepreneur;;;
-40619;Agrofirma Rubansky LLC;Ukraine;Private company;;;
-40620;Agrofirma Shargorod LLC;Ukraine;Private company;;;
-40621;Krayevyd Podillya LLC;Ukraine;Private company;;;
-40622;MP Alpha LLC;Ukraine;Private company;;;
-40623;Polonne Agro LLC;Ukraine;Private company;;;
+40619;Kurylivtsi Agro LLC;Ukraine;Private company;;;"Previous name of the company: Agrofirma Rubansky LLC. In 2023 company changed its name to ""Kurylivtsi Agro"".
+National ID code: 35353973"
+40620;Agrofirma Shargorod LLC;Ukraine;Private company;;;National code ID: 35728295
+40621;Kraievyd Podillya LLC;Ukraine;Private company;;;National code: 34918499
+40622;MP-Alfa LLC;Ukraine;Private company;;;National code: 34004595
+40623;Polonne Agro LLC;Ukraine;Private company;;;National code: 36009500
 40624;Korostyshivzeminvest LLC;Ukraine;Private company;;;
 40625;AGRISER d.o.o.;Serbia;Private company;;;
 40626;Big Game Parks (BGP);Swaziland;Private company;http://biggameparks.org/;;Big Game Parks (BGP) is a private non-profit Trust
@@ -7095,7 +7105,7 @@ The previous parent company was NAP II Holdings B. V. (Netherlands)."
 40639;Nosivka Agro LLC;Ukraine;Private company;;;Identification code - 34593872
 40640;Nizhyn Agro LLC;Ukraine;Private company;;;Code - 35195139. The operating company is a part of Agroprosperis Group
 40641;Bakhmach Agro LLC;Ukraine;Private company;;;
-40642;Semenivka Agro LLC;Ukraine;Private company;;;
+40642;Semenivka Agro LLC;Ukraine;Private company;;;National code ID 35188049
 40643;Glukhiv-Agroinvest LLC;Ukraine;Private company;;;
 40647;San Miguel Holdings Corp.;Philippines;Stock-exchange listed company;;;
 40648;Ayala Land Inc.;Philippines;Stock-exchange listed company;;;
@@ -7106,14 +7116,15 @@ The previous parent company was NAP II Holdings B. V. (Netherlands)."
 40654;Bases Conversion and Development Authority (BCDA);Philippines;Government institution;https://www.bcda.gov.ph/;;The Bases Conversion and Development Authority (BCDA) is a development corporation vested with corporate powers under Republic Act (RA) 7227 (Bases Conversion and Development Act of 1992), signed into law by former President Corazon C. Aquino last March 13, 1992. The BCDA Charter was amended by RA 7917 in 1995, and further amended by RA 9400 in 2007.
 40655;Karla Marksa-2 PE;Ukraine;Private company;;;Code - 34264605
 40656;Vorozhbalatinvest LLC;Ukraine;Private company;;;In March 2022, a Russian air strike damaged the company's property worth more than UAH 21 million.
-40658;Ryasnyanske LLC;Ukraine;Private company;;;
+40658;Ryasnyanske LLC;Ukraine;Private company;;;National code: 30841386
 40660;GoldPlata Mining International Corporation;Panama;Private company;;https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=61731174;
-40661;Ukrlatagro LLC;Ukraine;Private company;;;
+40661;Ukrlatagro LLC;Ukraine;Private company;;;National code: 33584483
 40662;Ancor Investments Ltd.;Cyprus;;;https://opencorporates.com/companies/cy/HE177888;
 40663;Agrotop LLC;Ukraine;;;;
-40664;"PALE ""Zorya""";Ukraine;Private company;;;
+40664;"PALE ""Zorya""";Ukraine;Private company;;;"National code: 30377984.
+Previously part of the Agroperspires holding company. But from 21.05.2025 - part of Agroton holding"
 40665;Kelagers Investments Limited;Cyprus;;;;
-40666;Charivnyi svitanok LLC;Ukraine;;;;
+40666;Charivnyi svitanok (Agro) LLC;Ukraine;Private company;;;National code: 35533699
 40667;Agrolatinvest LLC;Ukraine;Private company;;;
 40668;Orilkalatinvest LLC;Ukraine;Private company;;;
 40669;Supina Agro LLC;Ukraine;Private company;;;
@@ -7315,7 +7326,8 @@ Recounting the history of Trasacco Group is to immerse yourself in the epos of t
 40874;Leyte Ironsand Mining Corporation;Philippines;Private company;;;Edited name should be Corporation not coporation.
 40875;Agroprosperis Bank;Ukraine;Investment fund;;;Bank
 40876;JTI Leaf (Mw)Ltd;Malawi;Private company;https://www.jti.com/africa/malawi;;
-40877;LLC Mizoch-Agroproduct;Ukraine;Private company;;; In the company (LLC Mizotske RTE) changed its name for LLC Mizoch-Agroproduct.
+40877;LLC Mizoch-Agroproduct;Ukraine;Private company;;;"In 2011 the company (LLC Mizotske RTE) changed its name for LLC Mizoch-Agroproduct.
+National code: 00906628"
 40878;Japan Tobacco Incorp;Japan;Stock-exchange listed company;;;JTI - Japan Tobacco International is the international tobacco division of Japan Tobacco Incorp.The company is headquartered in Tokyo and Japan Tobacco International's headquarters are in Geneva, Switzerland.
 40879;Libero Copper Corporation;Canada;Stock-exchange listed company;http://liberocopper.com/;https://www.bloomberg.com/quote/LBC:CN;Bloomberg link
 40881;Cyclone Metals;Australia;Stock-exchange listed company;https://cyclonemetals.com/;;"Merged by scheme of arrangement between Hamill Resources Limited and International Goldfields Limited 13 June 2003.
@@ -7843,7 +7855,7 @@ The beneficiary owner is Omelianenko Oksana Oleksandrivna."
 41449;Lepanto Consolidated Mining Co.;Philippines;Private company;;;
 41450;Monark Constructors Corporation;Philippines;Private company;;;
 41451;Lazi Bay Resources Development, Inc. (LBRDI);Philippines;Private company;;;
-41452;Philex Mining Corporation;Philippines;Stock-exchange listed company;;;
+41452;Philex Mining Corporation (PMC);Philippines;Stock-exchange listed company;https://www.philexmining.com.ph/;;Philex Mining Corporation was incorporated in the Philippines in 1955 and has been listed in the Philippine Stock Exchange since November 23, 1956. PMC, PGPI (a wholly-owned subsidiary incorporated in the Philippines), and PMC, Silangan Mindanao Exploration Co. Inc. (SMECI) and its subsidiary, SMMCI, both wholly-owned by PMC and incorporated in the Philippines, are primarily engaged in the large-scale exploration, development, and utilization of mineral resources.
 41453;"Zvenyhorodska branch of SPF ""Urozhay""";Ukraine;;;;
 41454;Zambales Diversified Metals Corporation;Philippines;Private company;;;
 41455;Panapino Mining Inc.;Philippines;Private company;;;
@@ -8625,7 +8637,7 @@ This is an investment company controlled by Roman Abramovich and Evgeny Shvidler
 42311;Nedbank Limited;South Africa;Commercial Bank;https://www.nedbank.co.za/content/nedbank/desktop/gt/en/personal.html;https://opencorporates.com/companies/za/1951-000009-06;
 42312;Rand Merchant Bank (RMB);South Africa;Commercial Bank;https://www.rmb.co.za/;;Listed in the JSE stock exchange
 42313;Mauricio Montes;Argentina;Individual entrepreneur;;;
-42314;Bio Lat LLC;Ukraine;Private company;;;
+42314;Bio Lat LLC;Ukraine;Private company;;;National code: 34072544
 42315;"""Indicia"" CJSC";Lithuania;Private company;;;"""Indicia"" CJSC: registration number - 304064188; data of registration - 06/23/2015"
 42316;Vesna LLC;Russian Federation;Private company;https://www.altailes.com/about/structure/;;"Vesna LLC: identification number - 1052201904545; data of registration - 23.05.2005"
 42317;Sodruzhestvo LLC;Russian Federation;Private company;https://www.altailes.com/about/structure/;;"Sodruzhestvo LLC: identification number - 1052202224139; data of registration - 02.08.2005. It belongs to the Forest Holding ""Altajles""."
@@ -10405,6 +10417,9 @@ https://inceptionmining.com/about-us/"
 44064;Ministry of Ports, Shipping and Waterways;India;Government institution;https://shipmin.gov.in/;;
 44065;Larsen & Toubro;India;Private company;https://www.larsentoubro.com/;;Also known as Larsen & Toubro Limited or simply L&T
 44066;Nabha Power Limited;India;Private company;https://www.nabhapower.com/;;
+44067;Bangladesh India Friendship Power Company Limited (BIFPCL);Bangladesh;Private company;https://www.bifpcl.com/;;"A 50:50 joint venture between India's state-owned National Thermal Power Corporation (NTPC) and Bangladesh's Bangladesh Power Development Board (BPDB) to develop the Maitree Super Thermal Power Project, a supercritical power plant situated in Sapmari and Katakhali villages under Rampal Upazila in Bagerhat District of Bangladesh.
+
+BIFPCL was formed on October 31, 2012 and was registered as a private limited company."
 44068;Punjab State Power Corporation;India;State-/government (owned) company;https://pspcl.in/;;Formerly Punjab State Electricity Board (PSEB) unbundled by the government of Punjab into two companies on 16 April 2010 as Punjab State Power Corporation Ltd. (POWERCOM) and Punjab State Transmission Corporation Ltd. (TRANSCO).
 44069;Punjab State Power Corporation Limited;India;State-/government (owned) company;https://pspcl.in/;;Formerly Punjab State Electricity Board (PSEB), it was unbundled by the government of Punjab into two companies on 16 April 2010 as Punjab State Power Corporation Ltd. (POWERCOM) and Punjab State Transmission Corporation Ltd. (TRANSCO).
 44070;Punjab Urban Development Authority;India;Government institution;https://puda.punjab.gov.in/;;
@@ -10539,8 +10554,19 @@ Ul'yanovets LLC was founded on 2002/12/17. dentification number - 2625027673"
 44234;Liaoshen Industrial Park Company Limited;China;State-/government (owned) company;;https://opencorporates.com/companies/ug/80010000776725;
 44237;Hillside Agriculture Limited;Uganda;Private company;;https://opencorporates.com/companies/ug/80010003610461;
 44239;"Сlosed non-diversified venture corporate investment fund ""Сonditerinvest"" PJSC";Ukraine;Investment fund;;;
-44240;Agro-Region Borzna LLC;Ukraine;Private company;;;
-44241;Agro-Region Khmelnytskyi LLC;Ukraine;Private company;;;Unique identification number - 37504806.
+44240;AR Borzna LLC;Ukraine;Private company;;;"National code: 37440879
+
+History of changes in ownership of the operating company:
+2016 - CLAREFIELD LIMITED (Cyprus)
+2019 - AGRO REGION STOCKHOLM HOLDING (Sweden), ultimate Beneficial owner  - Peter Elam Håkansson, from 2021 - Aivaras Abromavicius
+2023 - Garna Stockholm Holding AB (Sweden), ultimate Beneficial owner  - Aivaras Abromavicius
+2026 - Enselco Holding Ltd (part of Kernel holding)"
+44241;AR Khmelnytskyi LLC;Ukraine;Private company;;;"Unique identification number - 37504806.
+History of changes in ownership of the operating company
+2016 - CLAREFIELD LIMITED (Cyprus)
+2019 - AGRO REGION STOCKHOLM HOLDING (Sweden), ultimate Beneficial owner  - Peter Elam Håkansson, from 2021 - Aivaras Abromavicius
+2023 - Garna Stockholm Holding AB (Sweden), ultimate Beneficial owner  - Aivaras Abromavicius
+2026 - Enselco Holding Ltd (part of Kernel holding)"
 44242; Lotus Resources Pty Ltd;Australia;;;;
 44246;Chornukhynsʹkyy kray LLC;Ukraine;Private company;;;Subsidiary
 44248;Pathfinder Resources Ltd.;Australia;Private company;https://www.pathfinderresources.com.au/;;Pathfinder Resources Ltd. (Pathfinder or the Company) is a precious and base metals exploration and development company headquartered in Perth, Western Australia.
@@ -10548,6 +10574,7 @@ Ul'yanovets LLC was founded on 2002/12/17. dentification number - 2625027673"
 44250;Ganfeng Lithium Co.,Ltd.;China;Stock-exchange listed company;http://www.ganfenglithium.com/about1_en.html;;
 44253;Puna Mining S.A.;Argentina;Private company;;;
 44255;Brine Lithium Resources S.A.;Argentina;Private company;;;
+44256;Pluspetrol Resources Corporation B.V.;Netherlands;Private company;https://www.pluspetrol.net/en/compania;;
 44257;ALUAR Aluminio Argentino SAIC ;Argentina;Stock-exchange listed company;https://aluar.com.ar/seccion/descripci-n-de-la-empresa/2/32;;"Aluar es una compañía de capitales nacionales gestionada de acuerdo a los más exigentes parámetros internacionales de la industria y en permanente evolución. Desde sus inicios triplicó la capacidad de producción de aluminio de 140.000tn gracias a un constante plan de inversiones, lo que le permite hoy abastecer completamente el mercado local con aproximadamente el 30% de su volumen producido, exportando el otro 70% a países como Estados Unidos, Brasil, Japón y Alemania, entre otros.
 
 En la División Primario se materializa la mayor parte de las operaciones de Aluar, con una capacidad de producción de aluminio primario de 460.000tn anuales en su planta de Puerto Madryn. Allí se producen placas, lingotes, barrotes, alambrón y aleaciones de aluminio para abastecer a las más diversas industrias, construcción, automotriz, packaging, líneas de transmisión de energía, entre otras.
@@ -10713,7 +10740,7 @@ Avaada Energy Private Limited (AEPL) is a leading independent power producer in 
 44427;QTerminals W.L.L.;Qatar;Private company;;;
 44428;Deymanivskyy Dar LLC;Ukraine;Private company;;;
 44429;Zinkiv-Agrotrans PJSC;Ukraine;Stock-exchange listed company;;;
-44430;Galan Exploraciones S.A.;Argentina;Private company;;;
+44430;Galan Lithium S.A.;Argentina;Private company;;;
 44431;NRG Metals Argentina S.A.;Argentina;Private company;;;
 44432;Lithium South Development;Canada;Stock-exchange listed company;;;
 44433;TTC Attapeu Sugarcane Sole Company Limited;Lao PDR;Private company;https://www.facebook.com/ttcattapeusugar/;;
@@ -10889,7 +10916,8 @@ Aconcagua cuenta con una calificaciones A – Estable por FixSCR y es Auditada p
 44655;Ukraine renewable energy holdings UREH limited;Cyprus;Private company;;;
 44657;Unión Temporal Omega Energy;Colombia;Private company;;;The Unión Temporal Omega Energy is formed by Omega Energy Colombia, a branch of Omega Energy International SA, incorporated in Panama and by Nikoil Energy Corp. Sucursal Colombia, incorporated in the British Virgin Islands. 
 44659;Astra Capital Group;Ukraine;Private company;;;
-44660;Koryukivka Agro LLC;Ukraine;Private company;;;Id number - 35789085
+44660;Koryukivka Agro LLC;Ukraine;Private company;;;"Id number - 35789085
+In 2016, the operating company was acquired by Agroprosperis holding. Right after that (2017), the company was terminated and merged with Semenivla Agro (deal 6662, investor ID - 40642)"
 44661;Buimerske PE;Ukraine;Private company;;;Id number 34573641
 44662;Podilskenergo PE;Ukraine;Private company;;;Identification code - 38307207
 44663;Elementum (UK) I Limited LLC;United Kingdom of Great Britain and Northern Ireland;Private company;;;
@@ -12036,6 +12064,8 @@ Renewable energy projects"
 46255;Phakwe Solar (RF) Pty Ltd.;South Africa;Private company;;;
 46256;Reatile Solar Power (RF) Pty Ltd;South Africa;Private company;;;
 46257;Cicada Community Trust;South Africa;Non - Profit organization (e.g. Church, University etc.);;;
+46258;Revotech Asia Limited;China, Hong Kong Special Administrative Region;Private company;https://www.inriskable.com/business_info/company/hk/35440902;;
+46259;Leading Resources Global Limited;China, Hong Kong Special Administrative Region;Private company;;;
 46260;nValid Percision Engineering Pte. Ltd.;Singapore;Private company;https://nvalidpe.com/;;
 46261;The Government Employees Pension Fund;South Africa;State-/government (owned) company;;;
 46262;Roggeveld Wind Power Trust;South Africa;Other;;;Community trust
@@ -12294,6 +12324,7 @@ EUID ROONRC.J40/7426/2000"
 46581;Sihnet Ahro LLC;Ukraine;Private company;;;Code - 38129667
 46582;Greenstone Group;Ukraine;Private company;;;Group of Companies - Greenstone Management LLC , Greenstone Trading LLC, Greenstone Protein LLC
 46583;Wintrading Holdings Limited;British Virgin Islands;Private company;;;
+46585;Galan Lithium Limited;Australia;Private company;https://galanlithium.com.au/es/;;
 46586;Premier Energy PLC;Cyprus;Stock-exchange listed company;https://www.premierenergygroup.eu/;;Premier Energy Group operates in the region of South-Eastern Europe (Romania, Moldova and Serbia). It produces electricity from renewable sources and is a supplier of natural gas infrastructure in Romania
 46588;RBPI (Thailand) Company Limited;Thailand;;;;
 46589;Lewis Energy Colombia Inc;Colombia;Private company;https://lewisenergycorp.com/;https://opencorporates.com/companies/us_tx/0801355384;Lewis Energy Colombia Inc es una subsidiaria de la empresa canadiense LNG Energy Gruop Corp.
@@ -13073,6 +13104,7 @@ They manage subsidiaries  and develop agricultural activities in multiple locati
 47368;Sumifru Singapore Pte. Ltd;Singapore;Private company;;;
 47369;Thornton Venture Limited;United Kingdom of Great Britain and Northern Ireland;Private equity firm;;;
 47370;Enel Green Power Chile Ltda.;Chile;Private company;https://www.enelgreenpower.com/es/paises/sudamerica/chile;;
+47371;Triconboston Consulting Corporation Private Limited;Pakistan;Private company;http://swpcl.pk;;Triconboston Consulting Corporation (Private) Limited (TBCCPL) is the Project Company and Special Purpose Vehicle (SPV) established for the Triconboston Wind Power Project in Pakistan. Its primary objective is the development, ownership, and operation of three 50 MW wind power projects located in Thatta District, Sindh Province, in southern Pakistan
 47372;Agricorp;France;Private company;http://monacoresources.com/agribusiness/;;Agricorp is registered in Monaco and manages the agro industrial division of monaco resources group S.A.M.
 47374;Central American Resources, Inc.;Panama;Private company;;;Central American Resources, Inc. (CARI) is an investment holding company and was incorporated under Panamanian laws in 1971.
 47375;SEA Diner Holding (S) Pte. Ltd.;Singapore;Private company;;;SEA Diner Holdings (S) Pte. Ltd., an entity managed by Crescent Point Group, is a Singapore-incorporated company focused on investing in leading companies in the consumer sector in China and the ASEAN region. The Investor and its affiliates have invested over US$1 billion in ASEAN and Chinese consumer businesses to date, including consumer product companies and technology companies. The food category has been a key focus for the Investor and its affiliates, with a particular emphasis on food products that have a large addressable market in China.
@@ -13149,6 +13181,7 @@ The former name of SD Guthrie Bhd was Sime Darby Plantation Berhad. The company 
 47482;PT Langgeng Muaramakmur;Indonesia;Private company;;;PT Langgeng Muaramakmur operates 4 palm oil estates and an oil mill in Kalimantan Selatan Province, Indonesia.
 47485;PT Andalan Sukses Makmur (PT ASMR);Indonesia;Private company;;;
 47486;PT Indo Sukses Lestari Makmur (ISLM);Indonesia;Private company;;;
+47493;Mira Power Limited;Pakistan;Private company;https://www.mira-power.com/;;Mira Power Limited is an Independent Power Producer (IPP) that is developing and operating the project. It is a subsidiary of a South Korean Consortium which includes Korea South-East Power Company (KOSEP), Daelim Industrial Company Limited (Daelim), and Lotte Engineering and Construction (Lotte)
 47494;Independent Timber and Stevedoring (PNG) Limited (IT&S);Papua New Guinea;Private company;;;"T&S is a registered PNG company jointly owned by IT&S USA Inc. – a Delaware USA registered company (12 million shares); Hilo Investments Pty Ltd- A Queensland, Australia registered company (7 million shares)"
 47495;Livelihoods Funds;France;Other;https://livelihoods.eu/;;The mission of the Livelihoods Funds is to support the efforts of agricultural and rural communities to restore the natural ecosystems that are the foundations of their livelihoods, food security and income.
 47499;Mahogani Vishwa Agro Private Limited (MVAL);India;Private company;https://mahoganivishwaagro.com/about-us/;;Mahogani Vishwa Agro Limited (MVAL), incorporated on January 25, 2019 as “Mahogani Vishwa Agro Private Limited. MVAL was started with an intent to create a stable sustainable income source for the farmers across the nation who is solely dependent on traditional subsistence driven farming.
@@ -13215,6 +13248,8 @@ It involves 2 investors in: Value Network Ventures Advisory Services Pte. Ltd. f
 47582;Horizon Minerals BV;Netherlands;Private company;https://www.linkedin.com/company/horizon-minerals-bv/;;
 47583;West Water Group Inc.;Liberia;Private company;;;
 47587;Ibitu Energía;Brazil;Private company;https://ibituenergia.com/;;
+47588;Grupo Moreno;Brazil;Private company;https://www.usinamoreno.com.br;;A traditional group in Brazil’s sugar-energy sector, with operations in the state of São Paulo.
+47591;CTG Brasil;Brazil;Private company;https://www.ctgbr.com.br;;It is a subsidiary of the state-owned China Three Gorges Corporation.
 47592;Titan Mining and Energy Corporation (TMEC);Philippines;Private company;https://coalasiaholdings.com/ourcompany.html;;"COAL is an investment holding company primarily engaged in the business of investing in coal and energy related businesses. Currently, the Company owns the 100.00% equity interest in Titan Mining and Energy Corporation (TMEC), which owns coal assets under COC #159, COC #166, and COC #167. COAL may also venture into other mineral resource businesses in the future.
 
 
@@ -13226,6 +13261,7 @@ On June 26, 2012 the Company's Board of Directors and shareholders, through a ma
 
 The Company's registered office is at the 3rd Floor JTKC Bldg., 2155 Don Chino Roces Avenue, Makati City."
 47595;Matiushi LLC;Ukraine;Private company;;;National code: 03755348
+47597;Sowitec Brasil Energias Renováveis LTDA;Brazil;Private company;https://br.sowitec.com/pt/home;;The subsidiary of the German group Sowitec invests through the company Complexo de Geração de Energias Gameleiras S.A. (CNPJ 36.850.677/0001-66).
 47600;SJVN Lower Arun Power Development Company Private Limited (SLPDC);Nepal;State-/government (owned) company;https://slpdc.com.np/;;
 47601;Aliança Energia;Brazil;;https://aliancaenergia.com.br/;;
 47604;Polimix Energia;Brazil;Private company;https://www.polimix.com.br/index.html;;
@@ -13359,7 +13395,10 @@ is located in Gunung Sari Village, Segah District, Berau Regency, East Kalimanta
 47791;Ruiyuan Richfield Sylvine Co., Ltd;Lao PDR;Private company;https://sklaos.com/who-we-are/;;Ruiyuan Richfield Sylvine Co., Ltd. (often called Ruiyuan Richfield) is originally a Chinese company. It is a subsidiary of SK Agricultural Technic Co., Ltd., whose wholly-owned subsidiary Ruiyuan Richfield Sylvine signed a project agreement in Laos.
 47794;Kipchimchim;Kenya;Private company;;;
 47795;Jaramogi Investments Limited;Kenya;Private company;;;
+47801;Lao Kaiyuan Mining Sole Co. Ltd;Lao PDR;Private company;https://www.facebook.com/laokaiyuan/;;Lao Kaiyuan Mining Sole Co. Ltd, founded in 2008 and based in Khammouane Province, Laos, is a Chinese-owned enterprise specializing in the exploration, production, and sale of potash fertilizer.
 47802;Biase Plantation Limited;Nigeria;Private company;;;Biase Plantations Ltd was fully registered in the Cross River State of Nigeria and issued with a Certificate of incorporation under the Nigeria’s Companies and Allied Matters Act of 1990 in 10th February 2011.
+47806;Zangge Mining (Laos) Development Co., Ltd;Lao PDR;Private company;;;Zangge Mining (Laos) Development Co., Ltd is a subsidiary of Zangge Mining Company Limited (officially Zangge Mining Co., Ltd.), a major Chinese potash and lithium producer.
+47815;Zhongya Yuxi Cement Lao Sole Co., Ltd;Lao PDR;Private company;;;Zhongya Yuxi Cement Lao Sole Co., Ltd is a Chinese-invested company based in Saravane, Laos, specializing in cement production with a 200,000 tpa capacity plant operational since the mid-2000s.
 47817;Transmara Investment Limited;Kenya;Private company;;;
 47818;Sucrière des Mascareignes Limited;Mauritius;Private company;;;Incorporated on January 28th, 1999, Sucrière des Mascareignes Limited (“SML”) is an investment holding entity based in Mauritius. It is principally engaged in the business of growing and milling of sugarcane in Kenya and Tanzania, and the commercialization of sugar and its by-products such as molasses via its subsidiaries,
 47819;Miwa Sugar Limited;Mauritius;Stock-exchange listed company;https://miwasugar.com/;;Miwa Sugar is listed on the stock exchange where IBL Group holds 27.64%, CIEL Group holds 20.96%. The remaining 51.40% is held by other investors.
@@ -13370,6 +13409,7 @@ is located in Gunung Sari Village, Segah District, Berau Regency, East Kalimanta
 47830;Société d’Exploitation des Mines d’Or de Sadiola SA;Mali;Private company;;;Allied acquired an 80% shareholding in SEMOS on 1 January 2021. SEMOS is a Malian registered (SA) company, majority owned by Allied through various subsidiaries. The Government of Mali holds a 20% stake in the company
 47832;Allied Gold Mali Corp;Mali;Private company;;;As at 2023, Allied Gold Mali Corp. is 100% owned by Allied Gold Corp Limited
 47833;Bureau des Mines et de la Géologie du Burkina (BUMIGEB);Burkina Faso;State-/government (owned) company;https://www.bumigeb.bf/a-propos;;
+47836;Nam Bi Power Company Limited;Lao PDR;Semi state-owned company;;;Nam Bi Power Company Limited is associated with the development of hydroelectric projects in Sekong Province, Laos, specifically the Nam Bi 1 and Nam Bi 2 projects. PowerChina Chengdu Engineering Co., Ltd. has been involved in these projects, with EDL-GEN (Electricite du Laos Generation) holding ownership stakes as of 2024
 47839;West Sugar company;Kenya;Private company;;;
 47840;PT Mineral Industri Indonesia (MIND ID);Indonesia;State-/government (owned) company;https://mind.id/;;PT Mineral Industri Indonesia (Persero) , commonly abbreviated as MIND ID , is an Indonesian state-owned mining company . The Indonesian government holds a majority stake in the company through Danantara .
 47841;Azad Pattan Power Private Limited;Pakistan;Private company;https://www.azadpattanhpp.com/index.php;;Azad Pattan Power Private Limited (the “Company” or “APPL”) is the owner and developer of the 700.7 MW Azad Pattan hydroelectric power generating complex (the “Project” or “Azad Pattan HPP”) on River Jhelum located in district Sudhnoti, Azad Jammu and Kashmir (“AJ&K”).
@@ -13377,6 +13417,16 @@ is located in Gunung Sari Village, Segah District, Berau Regency, East Kalimanta
 47843;Dudhkoshi Jalvidyut Company Limited (DJCL);Nepal;State-/government (owned) company;https://dkjvcl.org.np/;;Dudhkoshi Jalvidyut Company Limited (DJCL) is a subsidiary of the Nepal Electricity Authority (NEA) dedicated to developing the 670 MW (formerly 600 MW + 70 MW) Dudh Koshi Storage Hydroelectric Project in eastern Nepal. The project is a major, high-priority storage facility designed to address dry-season power shortages and export electricity, with funding support from the Asian Development Bank (ADB).
 47844;Grootfontein PV (PTY) LTD;South Africa;Private company;;;These are 3 companies namely Grootfontein PV 1 (PTY) LTD, Grootfontein PV 2 (PTY) LTD and Grootfontein PV 3 (PTY) LTD
 47845;Grootfontein Local Community Trust;South Africa;Other;;;Local community trust
+47846;HudBay Peru S.A.C.;Peru;Private company;https://hudbayminerals.com/peru/default.aspx;;
+47848;Amata City Lao Company Limited (Amata City Lao);Lao PDR;Private company;https://amata.com/our-location/laos;;Amata City Lao Company Limited (Amata City Lao) is a subsidiary of Thailand's Amata Corporation PCL, developing smart and eco-friendly industrial estates in northern Laos. It focuses on two major projects: Amata Smart & Eco City Namor in Oudomxay and Amata Smart & Eco City Natuey in Luang Namtha, targeting logistics, technology, and manufacturing sectors.
+47850;AB Renovation & Construction Co., Ltd;Lao PDR;Private company;;;"AB Renovation & Construction Co., Ltd is an engineering services firm based in Vientiane, Laos, focused on building renovation and construction. They specialize in improving structural, residential, or commercial spaces. 
+
+In 2025, it signed an MoU with the government of Laos & China-based Shaochun Hung Heuang Co., Ltd."
+47851;Douangchaleurn Development Construction Group Co., Ltd. (DDC);Lao PDR;Private company;https://www.ddcgroups.la/en/;;Douangchaleurn Development Construction Group Co., Ltd. (DDC) is a 100% Laotian-owned construction and development company established in 1997, based in Xiengkhouang Province. Known for major infrastructure and investment projects, DDC is developing a Smart City in Vientiane Capital and has engaged in mining projects, including partnerships for copper-gold exploration.
+47852;Wealth Power Group Vietnam Joint Stock Company (WPG);Vietnam;Private company;https://wealthpower.com.vn/en/;;Wealth Power Group Vietnam Joint Stock Company (WPG) is a Vietnam-based company specializing in renewable energy development and investment. Primarily operating as a renewable energy firm, it focuses on solar, wind, and LNG energy projects to provide sustainable energy solutions.
+47854;Tin Thanh Group Joint Stock Company (TIN THANH GROUP);Vietnam;Private company;;;"This is a website found: 
+But, it seems the website is not accessible now."
+47876;One Valley Peru S.A.C.;Peru;Private company;;;
 47878;Provident Capital Partners;Singapore;Asset management firm;https://www.procap-partners.com/;;Provident Capital Partners is a Singapore-based private equity and investment firm founded in 2004, focusing on long-term, controlling, or substantial investments in Southeast Asia, particularly Indonesia.
 47880;Lim Gunawan Hariyanto;Indonesia;Individual entrepreneur;;;Lim Gunawan Hariyanto (born in 1960) is an Indonesian businessman whose business is in the natural resources sector. He is currently CEO of Harita Group, a family conglomerate, which has companies in plantations, mining, smelters, and refineries. He is also the CEO of Singapore-listed palm oil company Bumitama Agri.
 47881;Manang Marsyangdi Hydropower Company Pvt. Ltd. (MMHCPL);Nepal;Private company;;;MMHCPL is the JVA working on the Manang Marsyangdi Hydroelectric Project (MMHEP or M1). The project is developed by a joint venture between Butwal Power Company (BPC) of Nepal and Chinese firms, including SCIG International Ltd., Xingcheng International Investment Co. Ltd., and QYEC International Co. Ltd..
@@ -13385,9 +13435,11 @@ is located in Gunung Sari Village, Segah District, Berau Regency, East Kalimanta
 
 The Group coordinates multiple segments including clean energy, grid & power, energy services, and energy technology. It advances hydropower, wind, solar and new energy storage, while deploying pumped storage, hydrogen, distributed energy, and energy digitalization"
 47884;Laraib Group (LG);Pakistan;Private company;https://laraibgroup.com/;;The Laraib Group is a private, leading renewable energy developer based in Islamabad, Pakistan, with a primary focus on hydropower development. It operates as a series of companies under common ownership that identifies, develops, constructs, and operates hydropower projects.
-47896;Agroproseris 2 Limited;Cyprus;Private company;;;National code: НЕ 361667
+47889;Alta Copper Corp.;Canada;Private company;https://altacopper.com/;;Alta Copper Corp. is focused on the development of its 100% owned Cañariaco advanced staged copper project. Cañariaco comprises 91 square kilometers of highly prospective land located 102 kilometers northeast of the City of Chiclayo, Peru, which includes the Cañariaco Norte deposit, Cañariaco Sur deposit and Quebrada Verde prospect, all within a 4km NE-SW trend in northern Peru’s prolific mining district. Cañariaco is one of the largest copper deposits in the Americas not held by a major.
+47896;Agroprosperis 2 Limited;Cyprus;Private company;;;National code: НЕ 361667
 47897;PT Malindomas Perkebunan;Indonesia;Private company;;;The parent organization of PT Malindomas Perkebunan is Kuala Lumpur Kepong Berhad (KLK). KLK is a prominent Malaysian-based plantation company that acquired a 92% stake in PT Malindomas Perkebunan in August 2007. PT Malindomas Perkebunan operates oil palm plantations in Berau, East Kalimantan.
 47899;Nasarawa state Government;Nigeria;;;;
+47900;PT Karya Makmur Abadi;Indonesia;Private company;;;PT Karya Makmur Abadi operates a 9,397-hectare oil palm estate in Central Kalimantan. The company also runs a palm oil mill that processes fresh fruit bunches (FFBs) sourced from its own concession areas as well as from smallholder cooperatives.
 47901;Cadoux Limited;Australia;Stock-exchange listed company;https://cadoux.com.au/;;Cadoux Limited (ASX: CCM), formerly FYI Resources Limited, is an Australian-based critical minerals company developing high-purity alumina (HPA) for EV batteries, LEDs, and sapphire glass.
 47902;Masdar, Infinity Power and Hassan Allam utilities Consortium;Egypt, Arab Rep.;Private company;;;
 47903;Hassan Allam Utilities;Egypt, Arab Rep.;Private company;https://www.hassanallam.com/about-us;;
@@ -13396,3 +13448,36 @@ The Group coordinates multiple segments including clean energy, grid & power, en
 47906;Asia-Potash International Investment (Guangzhou) Co., Ltd.;China;Stock-exchange listed company;http://www.asia-potash.com/en/about/about.aspx;;Sino-Agri Potash Co., Ltd. (specifically Sino-Agri International Potash Co., Ltd.) is a subsidiary of Asia-Potash International Investment (Guangzhou) Co., Ltd.. It is a key enterprise operating in Laos, focusing on potash mining and fertilizer production under this parent company.
 47907;Vietnam National Chemical Group (Vincachem);Vietnam;State-/government (owned) company;https://www.vinachem.com.vn/en.html;;The Vietnam National Chemical Group (Vinachem) is a state-owned enterprise founded in 1995 that serves as a key player in Vietnam’s industrial sector, focusing on manufacturing and trading fertilizers, pesticides, rubber products, batteries, and basic chemicals
 47908;SK Agricultural Technic Sole Co., Ltd;Lao PDR;Private company;https://sklaos.com/;;SK Agricultural Technic Sole Co., Ltd. is an international company focused on potash mining and agricultural projects in Laos, led by Chairman Soukkaseum Silimoungkhoun.
+47910;Garna Kyiv LLC;Ukraine;Private company;;;National code - 37905299
+47914;MacroAsia Mining Corporation (MMC);Philippines;Private company;;;"MacroAsia Mining Corporation (MMC), a wholly owned subsidiary of MacroAsia Corporation (MAC), was incorporated on September 25, 2000 to serve as an institutional vehicle through and under which the business of a mining enterprise may be established, operated and maintained. 
+
+MMC has been focused on providing consultancy and  mining exploration services, particularly on nickel areas and projects. Since 2013, MMC has served the exploration and drilling requirements for the nickel laterite deposits of some of the major nickel producers in the country. 
+
+On June 07, 2019, MAC, executed Deeds of Assignment (DOAs) in favor of MMC, wherein MAC assigned to the latter, all its rights and interests under its Mineral Production Sharing Agreements (MPSA) in Palawan. 
+
+The MPSA’s that were assigned to MMC are Mineral Production Sharing Agreement (MPSA) Nos. 220-2005-IVB and 221-2005-IVB covering the 1,113.98 and 410.00 hectares, respectively, situated in Brooke’s Point Palawan. With the DENR approval, these tenements are now recorded under MMC."
+47917;Kaiyuan Potash Group Limited;China, Hong Kong Special Administrative Region;Private company;;;Kaiyuan Potash Group Limited is a Hong Kong-registered company that owns and operates major potash mining operations in Laos through its subsidiary, Lao Kaiyuan Mining Sole Co. Ltd. It is owned by Qingdao East Steel Tower Stock Co. Ltd. of China.
+47918;Qingdao East Steel Tower Stock Co. Ltd.;China;Stock-exchange listed company;;;Qingdao East Steel Tower Stock Co., Ltd. (002545.SZ), founded in 1982 and based in Jiaozhou, China, is a major manufacturer and installer of steel structures and iron towers, specializing in power transmission, telecommunications, and petrochemical infrastructure. The company also operates in the potash fertilizer industry.
+47919;Zangge Mining Co., Ltd.;China;Stock-exchange listed company;https://www.zgmining.com/;;Zangge Mining Co., Ltd. is a listed Chinese joint-stock company (000408.SZ) headquartered in Golmud, Qinghai, specializing in the mining, production, and sales of potassium chloride and battery-grade lithium carbonate.
+47920;Zhongya Yuxic Co. Ltd.;China;Private company;;;
+47923;OBELISK SOLAR POWER SAE;Egypt, Arab Rep.;Private company;;;
+47925;AMATA Corporation Public Company Limited (AMATA);Thailand;Stock-exchange listed company;https://amata.com/;;"Amata Corporation PCL is a leading Southeast Asian industrial estate developer, established in 1989 and listed on the Stock Exchange of Thailand (SET) since 1997. The company specializes in planning, developing, and managing integrated ""smart and eco"" cities in Thailand and Vietnam, hosting over 1,500 global tenants."
+47926;Andriyuk Oleksandr Moiseyovych;Ukraine;Individual entrepreneur;;;
+47932;JVA of Sekong Solar Farm;Lao PDR;Private company;;;This investor serves as a placeholder as the operating company for the sekong solar farm is still unclear
+47933;National Consulting Group Co., Ltd. (NCG);Lao PDR;Private company;;;The National Consulting Group Sole Company (often cited as The National Consulting Group Co., Ltd.) is a Laos-based firm known for partnering with the government and international partners on renewable energy projects, specifically solar power developments aiming to advance green energy in Lao PDR
+47934;Thepvongsa Power Company Limited;Lao PDR;Private company;;;Thepvongsa Power Company Limited is a Laos-based entity involved in renewable energy development, notably collaborating with Vietnamese firms on solar power projects. The company has been associated with large-scale solar developments in the Sekong province of Laos, acting as a developer or partner.
+47936;Consolidated Copper Corp (CCC);United Arab Emirates;;https://ccopper.com/our-company/about-us/;;
+47937;Haj Finance Group;Oman;Asset management firm;https://www.hajfingroupinc.com/;;Haj Finance Group is an international investment company based in the Sultanate of Oman, operating since May 1971.
+47940;Viglacera Real Estate Company;Vietnam;Private company;;;Viglacera Real Estate Company is a branch of Viglacera Corporation – JSC, which used to be primarily under the Ministry of Construction of Vietnam. It has developed at least 10 industrial parks in Vietnam, including the Dong Van IV Industrial Park in Ninh Binh Province.
+47941;Evraz ZSMK JSK;Russian Federation;Private company;;;"Full company name: Evraz United West Siberian Metallurgiacal Combine JSK (Акционерное Общество ""Евраз Объединенный Западно-Сибирский Металлургический Комбинат"")"
+47942;Evraz PLC;United Kingdom of Great Britain and Northern Ireland;Private company;;;The company is on the sanctions list.
+47946;Vuka Lilanga Minerals Pty Ltd;Swaziland;;;;
+47947;SWAGEO Capital and Holdings Ltd;United Arab Emirates;Investment fund;;;
+47948;Unknown (Mwelase Mining Eswatini);Swaziland;;;;
+47949;Mwelase Investment Holdings (Proprietary) Limited;Swaziland;;;;
+47950;Kenticha Mining Plc;Ethiopia;Private company;;;
+47951;Oromia Mining Share Company;Ethiopia;State-/government (owned) company;;;
+47952;Abyssian metals limited(AML);Australia;Stock-exchange listed company;;;AML is a public limited company incorporated in Australia.
+47954;N&G Investment and Development Joint Stock Company (N&G Corporation);Vietnam;Private company;;;N&G Investment and Development Corporation, a subsidiary of 100% Vietnamese-owned N&G Group, developed the South Hanoi Supporting Industry Park (HANSSIP), the first industrial park in Vietnam's supporting industry sector.
+47956;Vietnam Rubber Industrial Zone and Urban Development Joint Stock Company;Vietnam;Private company;;;Vietnam Rubber Industrial Zone and Urban Development Joint Stock Company is a member company of Vietnam Rubber Group (VRG). The company has been established since 2005 with the purpose of developing and managing the infrastructure of Cong Hoa Industrial Park in Chi Linh city, Hai Duong Province.
+47957;Shinec Joint Stock Company;Vietnam;Private company;https://shinec.com.vn/en/;;Shinec Joint Stock Company was established in 2001, is one of the pioneering enterprises in Vietnam in the field of developing ecological industrial parks, associated with the vision of sustainability and circular economy. Over 20 years of establishment and development, Shinec has built modern industrial projects, integrating green space and renewable energy solutions, creating an ideal business environment for enterprises.
