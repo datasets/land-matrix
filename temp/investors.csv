@@ -5104,7 +5104,6 @@ History of beneficiaries:
 38641;Langer Heinrich Uranium (Pty) Ltd;Namibia;Private company;;;
 38642;SOTRADER;Gabon;Private company;;;Société gabonaise de transformation agricole et développement rural. Manages the PPP.
 38643;Ukrlandfarming PLC;Cyprus;Private company;;;
-38644;Unknown (Myronivsky Hliboproduct PJSC);Ukraine;Private company;;;
 38645;Agrokultura Voronezh LLC;Russian Federation;Private company;;;
 38646;HarvEast Holding Limited;Cyprus;Private company;;;
 38647;Agroton Public Limited;Cyprus;Private company;;;
@@ -5560,7 +5559,11 @@ The official company name has not been found, this serves as a placeholder until
 39096;Entree Gold Ltd;Mongolia;Private company;;;
 39098;C&N VINA Co.,LTD;Republic of Korea;Private company;https://cnvn.com.vn/;;C&N VINA Ltd., company has been specializing in investing in infrastructure construction of industrial parks in Vietnam. It has been started since the formation and development of successful Minh Hung Korea industrial park in Binh Phuoc in 2005. Catching up with import and export policies and benefits from Free Trade Agreements, especially TPP (Agreeent on Trans-Pacific Partnership), C&N VINA Ltd., created a favorable investment environment for investors. Up to now, C&N VINA Ltd., has completed fully 100% for lease land in Minh Hung industrial park, Binh Phuoc province with 200ha. It also expanded the construction of Phong Dien industrial park in Thua Thien Hue and Tam Anh Korea industrial park in Quang Nam.
 39099;Tellus Marketing Pte;Mongolia;Private company;;;Terracom Ltd of Australia divested all its Mongolian assets including Tellus Marketing to Bridge.
-39100;Viglacera Corporation – JSC;Vietnam;Private company;;;
+39100;Viglacera Corporation – JSC;Vietnam;Stock-exchange listed company;https://www.viglacera.com.vn;;"Established in 1974, through many changes in organizational model, Viglacera today operates in the model of a Joint Stock Company and is positioned as a Pioneer Construction Materials Manufacturer - a leading prestigious Real Estate Investor in Vietnam. The export market reaches 40 countries and territories.
+
+Viglacera currently owns 31 industrial factories producing basic construction materials for the Vietnamese Construction Industry such as: construction glass, high-tech glass, ceramic tiles, sintered stone, sanitary equipment, autoclaved aerated concrete, and fired clay bricks and tiles.
+
+Viglacera is also the investor of 16 domestic and foreign industrial parks with a total land fund of more than 4,500 hectares, attracting nearly 20 billion USD in foreign investment capital; 18 residential urban areas and 1 5-star resort hotel."
 39101;Anian Resourses LLC;Mongolia;Private company;;;
 39102;Happiness Cement Corporation;Vietnam;Private company;;;
 39104;Badmaarag Khash LLC;Mongolia;Private company;;;
@@ -6672,7 +6675,9 @@ Economic Sector: Energy sector"
 40225;Nam Lik 1-2 Power Company;Lao PDR;Other;;;"Imported from Land Observatory
 UUID: 5b7ebfa8-b065-4d8a-952a-1dd2f91695c5
 Economic Sector: Energy sector"
-40226;Nam Wei Development Company Ltd;Malaysia;Private company;http://www.vitapark.com.la;;"Imported from Land Observatory
+40226;Nam Wei Development Co., Ltd.;China;Private company;http://www.vitapark.com.la;;"Nam Wei Development Co., Ltd. is a Taiwan-based developer holding a 70% stake in a joint venture with the Lao Government (30%) to develop the Vientiane Industrial and Trade Area (VITA Park) in Laos. VITA Park is a designated special economic zone focused on industrial development.
+
+Imported from Land Observatory
 UUID: 5bf638ed-9944-4d65-8820-76d7ac6a8292
 Domestic Partner: Laos Ministry of Commerce"
 40228;Sanamxay Construction Company;Lao PDR;Private company;;;"Imported from Land Observatory
@@ -7059,7 +7064,7 @@ In 2024, the Antimonopoly Committee of Ukraine has decided to approve the purcha
 40590;Ray Agro LLC;Ukraine;Private company;;;
 40591;Starokostyantyniv Agro LLC;Ukraine;Private company;;;National ID 34337479
 40595;Agrofirma Obriy LLC;Ukraine;Private company;;;National code: 35779344
-40596;Agro Star 2006 LLC;Ukraine;Private company;;;
+40596;Agro Star 2006 LLC;Ukraine;Private company;;;National code: 34342384
 40597;Letychiv Agro LLC;Ukraine;Private company;;;Previous parent company - Bio Verde (subsidiary in NCH Capital Inc.)
 40598;Agro-Maidan LLC;Ukraine;Private company;;;Since 2016, the operating company is terminated and merged with Letychiv-Agro (deal 6636, Investor ID - 40597)
 40599;NAP II Holdings B. V.;Netherlands;Investment fund;;;
@@ -7068,7 +7073,7 @@ The previous parent company was NAP II Holdings B. V. (Netherlands)."
 40601;New Agro Invest LLC;Ukraine;Private company;;;
 40602;Ukrzernoprom-Derezhnya LLC;Ukraine;Private company;;;The company has been in liquidation since 2023. Assignee company is New Agro Podillya LLC.
 40604;Agrofirm Progres-V LLC;Ukraine;Private company;;;
-40605;Promin Podillya LLC;Ukraine;Private company;;;Code - 35469896
+40605;Promin Podillya LLC;Ukraine;Private company;;;National code - 35469896
 40606;A.T.S. Ukraine Property Development Limited;Cyprus;;;https://opencorporates.com/companies/cy/HE230410;
 40607;Bio Kray LLC;Ukraine;Private company;;;
 40608;Unagro Finance Limited;Cyprus;;;https://opencorporates.com/companies/cy/HE201625;
@@ -7088,7 +7093,7 @@ National ID code: 35353973"
 40621;Kraievyd Podillya LLC;Ukraine;Private company;;;National code: 34918499
 40622;MP-Alfa LLC;Ukraine;Private company;;;National code: 34004595
 40623;Polonne Agro LLC;Ukraine;Private company;;;National code: 36009500
-40624;Korostyshivzeminvest LLC;Ukraine;Private company;;;
+40624;Korostyshivzeminvest LLC;Ukraine;Private company;;;National code: 35904775
 40625;AGRISER d.o.o.;Serbia;Private company;;;
 40626;Big Game Parks (BGP);Swaziland;Private company;http://biggameparks.org/;;Big Game Parks (BGP) is a private non-profit Trust
 40627;KaMsholo Bushveld Safari;Swaziland;;;;Previously named Nisela Safari
@@ -7104,9 +7109,9 @@ National ID code: 35353973"
 40638;Agroholdyng MS;Ukraine;Private company;;;
 40639;Nosivka Agro LLC;Ukraine;Private company;;;Identification code - 34593872
 40640;Nizhyn Agro LLC;Ukraine;Private company;;;Code - 35195139. The operating company is a part of Agroprosperis Group
-40641;Bakhmach Agro LLC;Ukraine;Private company;;;
+40641;Bakhmach Agro LLC;Ukraine;Private company;;;National code: 35173362
 40642;Semenivka Agro LLC;Ukraine;Private company;;;National code ID 35188049
-40643;Glukhiv-Agroinvest LLC;Ukraine;Private company;;;
+40643;Glukhiv-Agroinvest LLC;Ukraine;Private company;;;Identification code - 35051394
 40647;San Miguel Holdings Corp.;Philippines;Stock-exchange listed company;;;
 40648;Ayala Land Inc.;Philippines;Stock-exchange listed company;;;
 40649;Sicogon Development Corporation;Philippines;;;;
@@ -7115,7 +7120,8 @@ National ID code: 35353973"
 40653;Philippine Bases Conversion and Development Authority;Philippines;State-/government (owned) company;;;
 40654;Bases Conversion and Development Authority (BCDA);Philippines;Government institution;https://www.bcda.gov.ph/;;The Bases Conversion and Development Authority (BCDA) is a development corporation vested with corporate powers under Republic Act (RA) 7227 (Bases Conversion and Development Act of 1992), signed into law by former President Corazon C. Aquino last March 13, 1992. The BCDA Charter was amended by RA 7917 in 1995, and further amended by RA 9400 in 2007.
 40655;Karla Marksa-2 PE;Ukraine;Private company;;;Code - 34264605
-40656;Vorozhbalatinvest LLC;Ukraine;Private company;;;In March 2022, a Russian air strike damaged the company's property worth more than UAH 21 million.
+40656;Vorozhbalatinvest LLC;Ukraine;Private company;;;"National code: 34236384
+In March 2022, a Russian air strike damaged the company's property worth more than UAH 21 million."
 40658;Ryasnyanske LLC;Ukraine;Private company;;;National code: 30841386
 40660;GoldPlata Mining International Corporation;Panama;Private company;;https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=61731174;
 40661;Ukrlatagro LLC;Ukraine;Private company;;;National code: 33584483
@@ -7915,8 +7921,8 @@ The beneficiary owner is Omelianenko Oksana Oleksandrivna."
 It was established in 1956, as the private-sector arm of the World Bank Group, to advance economic development by investing in for-profit and commercial projects for poverty reduction and promoting development."
 41509;Sable Farming;Malawi;;;;
 41510;Global Tea & Commodities Limited;United Kingdom of Great Britain and Northern Ireland;;;;
-41512;"""Vinnytska Ptakhofabryka"" LLC";Ukraine;Private company;;;
-41513;"STVO ""Starynska Ptakhofabryka""";Ukraine;Private company;;;
+41512;Vinnytska Ptakhofabryka LLC;Ukraine;Private company;;;The identification code is 35878908.
+41513;"STVO ""Starynska Ptakhofabryka""";Ukraine;Private company;;;Identification code - 30925770.
 41514;"""Katerynopilskyi elevator"" LLC";Ukraine;Private company;;;
 41515;Agro-S LLC;Ukraine;Private company;;;
 41516;Espíritu de Los Andes S.A.;Argentina;Private company;;;
@@ -8687,6 +8693,7 @@ This is an investment company controlled by Roman Abramovich and Evgeny Shvidler
 42361;Value Square;Belgium;Asset management firm;https://www.value-square.be/en/welcome/;https://opencorporates.com/companies/be/0885750253;
 42362;Novacap Asset Management;Luxembourg;Asset management firm;http://www.novacap-am.com/en;https://opencorporates.com/companies/lu/B124965;
 42364;SOCFINAF S.A.;Luxembourg;Stock-exchange listed company;https://www.socfin.com/en/investors/socfinaf;https://opencorporates.com/companies/lu/B6225;This is a holding company to manage SOCFINs activities in Africa.
+42365;Bangladesh Economic Zones Authority (BEZA);Bangladesh;Government institution;https://www.beza.gov.bd/;;Bangladesh Economic Zones Authority (BEZA) came into being through The Bangladesh Economic Zones Act, 2010 and it was officially instituted by the Government of Bangladesh on 9 November 2010.
 42366;Siam Siam International;Thailand;Private company;https://thesiamgroup.com/siam-international-group-co-ltd-thailand;;This is a private company limited by share. The registration of this company was in Thailand 12 March, 2010. Its Chairman is Md. Mamun Mazumder who is a Bangladeshi entrepreneur. It has office addresses both in Thailand and Dhaka. It appears to be a joint venture company of Bangladeshi and Thai entrepreneurs.
 42367;Ibra Moz S.A;Mozambique;Private company;;;
 42368;Ruby Resources S.A.;Mozambique;Private company;;;
@@ -13142,7 +13149,8 @@ They manage subsidiaries  and develop agricultural activities in multiple locati
 47416;UnKnown;Chile;Private company;;;
 47421;Joinland Group Limited;Malaysia;Asset management firm;https://joinlandgroup.com.my/;;Joinland Group is a diversified Malaysian conglomerate with interests spanning property, plantation, forestry, agriculture, insurance, and shipping. Founded in 2010, the company operates in Malaysia, Singapore, Brunei, Australia, Papua New Guinea, China, and New Zealand.
 47422;Kairos-Holding LLC;Ukraine;Private company;;;
-47423;Vi.An Holding Limited;Cyprus;Private company;;;
+47423;Vi.AN Holding Limited;Cyprus;Private company;;;"National code: ΗΕ 432053
+Previous name: SONDRIO LIMITED"
 47424;OKKO Group;Ukraine;Private company;;;
 47425;Fu Sheng Hai (Cambodia) Co., Ltd;Cambodia;Private company;;;
 47426;Nuku Resources Ltd;Papua New Guinea;Private company;;;
@@ -13426,6 +13434,18 @@ In 2025, it signed an MoU with the government of Laos & China-based Shaochun Hun
 47852;Wealth Power Group Vietnam Joint Stock Company (WPG);Vietnam;Private company;https://wealthpower.com.vn/en/;;Wealth Power Group Vietnam Joint Stock Company (WPG) is a Vietnam-based company specializing in renewable energy development and investment. Primarily operating as a renewable energy firm, it focuses on solar, wind, and LNG energy projects to provide sustainable energy solutions.
 47854;Tin Thanh Group Joint Stock Company (TIN THANH GROUP);Vietnam;Private company;;;"This is a website found: 
 But, it seems the website is not accessible now."
+47856;JVA of China Datang Overseas Investment Co., Ltd & Government of the Lao PDR;Lao PDR;Private company;;;Serves as a place holder for the eventually operating company for the 500MW Namor Solar Project
+47858;Laos-China Rare Mineral Development Company North 2 Ltd;Lao PDR;Private company;;;Laos-China Rare Mineral Development Company North 2 Ltd is a Chinese-backed joint venture mining rare earths in Houaphanh Province, Laos.
+47859;Tianjin Huakan Mining (Lao) Company Limited;Lao PDR;Private company;;;Tianjin Huakan Mining (Lao) Company Limited is a Chinese-backed mining firm operating a 600-hectare gold concession in the Pak Ou district of Luang Prabang province, Laos, since 2015.
+47860;Chixia Mining (Laos) Co., Ltd;Lao PDR;Private company;;;Chixia Mining (Laos) Co., Ltd. is a Laos-based mining company, formerly known as China Investment Mining (Laos) Sole Co., Ltd., which was acquired for 90% ownership by CHIXIA Laos Holdings Limited—a joint venture between Chifeng Gold and Xiamen Tungsten. Completed in March 2025, the acquisition focuses on developing the Mengkang rare earth project in Laos.
+47861;Tong Lee Seung Industrial Development Company;Lao PDR;Private company;;;"Tong Lee Seung Industrial Development Company is a Chinese-backed company which was approved for a 300 ha rare earth mining operation in Phaxay. 
+
+The parent company has not been recognized in any of the data sources."
+47862;Yangzhou Saiyu Environmental Technology Co., Ltd;China;Private company;;;Yangzhou Saiyu Environmental Technology Co., Ltd. is a Chinese company actively involved in renewable energy infrastructure projects in Laos.
+47863;Vangtat Mining Group Co., Ltd;Lao PDR;Private company;https://www.facebook.com/Vangtatteam2009/;;Vangtat Mining Group Co., Ltd. (also known as Vang Tat Gold Mine Sole Co., Ltd.) is a Vietnamese-invested mining company established in 2009, operating a gold mine in the Sanxai district of Attapeu Province, Laos. The company focuses on extracting gold from oxidized ores and is developing infrastructure to process sulfide ore through flotation and roasting
+47865;Viet Phuong Investment Group Joint Stock Company (Viet Phuong Group or VPG);Vietnam;Private company;https://vpg.vn/;;Viet Phuong Investment Group Joint Stock Company (Viet Phuong Group or VPG), formerly Viet Phuong Trading, Investment and Tourism Company Limited, was established on January 5, 1996
+47874;Lao–China Joint Venture Investment Company Limited (LCJV);Lao PDR;Private company;https://www.facebook.com/p/Vientiane-Saysettha-Development-Zone-100063628448417/;;Lao–China Joint Venture Investment Company Limited (LCJV) is primarily owned by Yunnan Provincial Overseas Investment Company Limited (YOIC) with a 75% stake and the Vientiane Municipal Government with a 25% stake. YOIC is a subsidiary of the Yunnan Construction and Investment Holding Group Company Limited (YCIH). LCJV was established to develop the Saysettha Development Zone.
+47875;Lao-Vita Joint Venture Company Limited;Lao PDR;Semi state-owned company;https://www.lao-vita.com/home-%E9%A6%96%E9%A1%B5;;Lao-Vita Joint Venture Company Limited operates within the Lao PDR’s special economic zone framework, specifically linked to the development of the Vientiane Industrial & Trade Area (VITA).
 47876;One Valley Peru S.A.C.;Peru;Private company;;;
 47878;Provident Capital Partners;Singapore;Asset management firm;https://www.procap-partners.com/;;Provident Capital Partners is a Singapore-based private equity and investment firm founded in 2004, focusing on long-term, controlling, or substantial investments in Southeast Asia, particularly Indonesia.
 47880;Lim Gunawan Hariyanto;Indonesia;Individual entrepreneur;;;Lim Gunawan Hariyanto (born in 1960) is an Indonesian businessman whose business is in the natural resources sector. He is currently CEO of Harita Group, a family conglomerate, which has companies in plantations, mining, smelters, and refineries. He is also the CEO of Singapore-listed palm oil company Bumitama Agri.
@@ -13435,7 +13455,17 @@ But, it seems the website is not accessible now."
 
 The Group coordinates multiple segments including clean energy, grid & power, energy services, and energy technology. It advances hydropower, wind, solar and new energy storage, while deploying pumped storage, hydrogen, distributed energy, and energy digitalization"
 47884;Laraib Group (LG);Pakistan;Private company;https://laraibgroup.com/;;The Laraib Group is a private, leading renewable energy developer based in Islamabad, Pakistan, with a primary focus on hydropower development. It operates as a series of companies under common ownership that identifies, develops, constructs, and operates hydropower projects.
+47886;Chitchareune Construction Co. Ltd.;Lao PDR;Private company;http://www.chitchareune.com/;;Chitchareune Construction Co. Ltd. is a large, prestigious construction firm established in Vientiane, Laos, in 2000. It specializes in civil/industrial construction, roads, bridges, and building materials. The company is currently developing a $1.9 billion, 1,200 MW wind power project in Savannakhet province for Vietnam export.
+47887;Lao Lingui Mining Co., Ltd;Lao PDR;Private company;;;
 47889;Alta Copper Corp.;Canada;Private company;https://altacopper.com/;;Alta Copper Corp. is focused on the development of its 100% owned Cañariaco advanced staged copper project. Cañariaco comprises 91 square kilometers of highly prospective land located 102 kilometers northeast of the City of Chiclayo, Peru, which includes the Cañariaco Norte deposit, Cañariaco Sur deposit and Quebrada Verde prospect, all within a 4km NE-SW trend in northern Peru’s prolific mining district. Cañariaco is one of the largest copper deposits in the Americas not held by a major.
+47890;JVA of Sixin Agricultural Development Company Limited and Kongkeo Agricultural Development Company Limited;Lao PDR;Private company;;;"Investment appears to be shared by the 2 investors, tho Sixin is mentioned more in dispute cases. Official name of JVA is not shared, but the concession is under both investors, all being backed by an unnamed Chinese company,
+
+Investor name is spelled in many different ways by multiple data sources. Spellings such as: Sixin, Xixin, Sishin has been seen"
+47891;Duangchaleun Industry-Organic Agriculture Import-Export Company;Lao PDR;Private company;https://www.ddcgroups.la/en/business/agriculture;;The Duangchaleun Industry-Organic Agriculture Import-Export Company is a Lao-based agricultural enterprise operating a significant commercial cattle farm in Bokeo Province, Laos
+47892;Meixiang Agriculture Development Co., Ltd;China;Private company;;;Meixiang Agriculture Development Co., Ltd. is a Chinese agricultural firm, primarily recognized for investing in and developing modern clean agriculture projects, particularly in Laos. They are involved in high-tech greenhouse farming, solar-powered irrigation, and exporting agricultural products like rice, bananas, and corn, with a significant $79 million project initiated in Laos.
+47893;Jinguo Lao Agriculture Development Sole Co., Ltd;Lao PDR;Private company;;;Jinguo Lao Agriculture Development Sole Co., Ltd. is a Chinese private company registered in Laos on November 10, 2020, specializing in large-scale durian cultivation and export.
+47894;Gobendokkam Green Energy-Agriculture Group Co., Ltd;Lao PDR;Private company;;;Gobendokkam Green Energy-Agriculture Group Co., Ltd. is a company partnering with local authorities in Attapeu Province, Laos, to develop a large-scale integrated agricultural and livestock project.
+47895;Dai Thang Agricultural Development One Member Ltd. Co.;Lao PDR;Private company;https://hagl.com.vn/en/about-hagl/subordinate-units;;Dai Thang Agricultural Development One Member Ltd. Co., often referred to as Agricultural Development - Dai Thang Co., Ltd.,  is a 98% to 100% owned direct subsidiary of Hung Thang Loi Gia Lai Co., Ltd., which is itself a core subsidiary of the Hoang Anh Gia Lai (HAGL) Group.
 47896;Agroprosperis 2 Limited;Cyprus;Private company;;;National code: НЕ 361667
 47897;PT Malindomas Perkebunan;Indonesia;Private company;;;The parent organization of PT Malindomas Perkebunan is Kuala Lumpur Kepong Berhad (KLK). KLK is a prominent Malaysian-based plantation company that acquired a 92% stake in PT Malindomas Perkebunan in August 2007. PT Malindomas Perkebunan operates oil palm plantations in Berau, East Kalimantan.
 47899;Nasarawa state Government;Nigeria;;;;
@@ -13468,9 +13498,11 @@ The MPSA’s that were assigned to MMC are Mineral Production Sharing Agreement 
 47934;Thepvongsa Power Company Limited;Lao PDR;Private company;;;Thepvongsa Power Company Limited is a Laos-based entity involved in renewable energy development, notably collaborating with Vietnamese firms on solar power projects. The company has been associated with large-scale solar developments in the Sekong province of Laos, acting as a developer or partner.
 47936;Consolidated Copper Corp (CCC);United Arab Emirates;;https://ccopper.com/our-company/about-us/;;
 47937;Haj Finance Group;Oman;Asset management firm;https://www.hajfingroupinc.com/;;Haj Finance Group is an international investment company based in the Sultanate of Oman, operating since May 1971.
+47938;Bangladesh Railway;Bangladesh;State-/government (owned) company;;;Bangladesh Railway, a state-owned rail transport agency, is the executing agency of the 170-km Padma Bridge Rail Link Project (PBRLP), which was developed to connect Bangladesh's capital, Dhaka, to Jashore, a major city in the country's southwest region.
 47940;Viglacera Real Estate Company;Vietnam;Private company;;;Viglacera Real Estate Company is a branch of Viglacera Corporation – JSC, which used to be primarily under the Ministry of Construction of Vietnam. It has developed at least 10 industrial parks in Vietnam, including the Dong Van IV Industrial Park in Ninh Binh Province.
 47941;Evraz ZSMK JSK;Russian Federation;Private company;;;"Full company name: Evraz United West Siberian Metallurgiacal Combine JSK (Акционерное Общество ""Евраз Объединенный Западно-Сибирский Металлургический Комбинат"")"
 47942;Evraz PLC;United Kingdom of Great Britain and Northern Ireland;Private company;;;The company is on the sanctions list.
+47944;GELEX Group Joint Stock Company (GELEX Group);Vietnam;Stock-exchange listed company;https://gelex.vn/en;;GELEX Group was founded in 1990 as the Electrical Engineering Equipment Joint Stock Corporation, focusing on manufacturing and trading electrical equipment and materials. It was renamed Vietnam Electrical Joint Stock Corporation in 2010. Originally state-owned, the government fully divested in December 2015 after shares were traded in October 2015. The company was later listed on the Ho Chi Minh Stock Exchange (HOSE) on January 18, 2019.
 47946;Vuka Lilanga Minerals Pty Ltd;Swaziland;;;;
 47947;SWAGEO Capital and Holdings Ltd;United Arab Emirates;Investment fund;;;
 47948;Unknown (Mwelase Mining Eswatini);Swaziland;;;;
@@ -13481,3 +13513,42 @@ The MPSA’s that were assigned to MMC are Mineral Production Sharing Agreement 
 47954;N&G Investment and Development Joint Stock Company (N&G Corporation);Vietnam;Private company;;;N&G Investment and Development Corporation, a subsidiary of 100% Vietnamese-owned N&G Group, developed the South Hanoi Supporting Industry Park (HANSSIP), the first industrial park in Vietnam's supporting industry sector.
 47956;Vietnam Rubber Industrial Zone and Urban Development Joint Stock Company;Vietnam;Private company;;;Vietnam Rubber Industrial Zone and Urban Development Joint Stock Company is a member company of Vietnam Rubber Group (VRG). The company has been established since 2005 with the purpose of developing and managing the infrastructure of Cong Hoa Industrial Park in Chi Linh city, Hai Duong Province.
 47957;Shinec Joint Stock Company;Vietnam;Private company;https://shinec.com.vn/en/;;Shinec Joint Stock Company was established in 2001, is one of the pioneering enterprises in Vietnam in the field of developing ecological industrial parks, associated with the vision of sustainability and circular economy. Over 20 years of establishment and development, Shinec has built modern industrial projects, integrating green space and renewable energy solutions, creating an ideal business environment for enterprises.
+47959;Krolevetsky Feed Mill LLC;Ukraine;Private company;;;National code: 00686279
+47960;Phúc Lộc Industrial Park Investment Development Corporation;Vietnam;Private company;https://phuclocidc.com/;;"PHUC LOC INDUSTRIAL INVESTMENT DEVELOPMENT CORPORATION (PHUCLOC IDC) a member of Phuc Loc Group is one of the most successful and prestige enterprise in Vietnam in the field of investment and development the infrastructure of Industrial Parks in Vietnam. At present, PHUCLOC IDC is conducting research, survey, plan and develop many Industrial Parks stretched from the North to the South of Vietnam with total area over 3,000 ha.
+
+PHUCLOC IDC presently is the Developer of many Industrial Parks in number of provinces and cities in Vietnam, details as follows:
+Ninh Binh Province:
+
+Phuc Son Industrial Park: 129.4 ha
+Lot C9+C11 Khanh Phu IP: 35.85 ha
+Tam Diep 2 Industrial Park: 368 ha
+Kim Son Industrial Park: 200 ha
+Gia Lai Province:
+
+Hoa Hoi Industrial Park: 390.43 ha
+Quang Ngai Province:
+
+Dung Quat 2 Industrial Park: 780 ha"
+47962;Phúc Lộc Group;Vietnam;Private company;http://phuclocgroup.vn/;;"Looking back at its 18-year journey of formation and development, Phuc Loc Group has gone through three main stages:
+
+          * Period 2005 - 2010: This period began with the establishment of a single company and gradually developed into a Group organization with 8 member companies.
+
+          * Period 2010 - 2015: a period of development and strong growth in revenue, total assets, and equity, along with the establishment of several new member units and participation in joint ventures and investments with a number of relatively large-scale units and projects.
+
+          * Period 2015 - Present: A period of continued stable growth and development, ensuring employment for workers and making a significant contribution to the state budget. Focusing resources and orienting production and business towards core industries. Continuously developing internal strengths and improving governance and management to adapt promptly to changing domestic and international factors."
+47963;Hong Yeung Vietnam One Member Co., Ltd.;Vietnam;Private company;;;Hong Yeung Vietnam One Member Co., Ltd. is a 100% foreign-invested enterprise, established by Hong Yeung International Co., Ltd. (Hong Kong, China) under Investment Certificate No. 353043000008 issued by the Management Board of Nhơn Hội Economic Zone on February 8, 2007, to implement, manage, and operate the infrastructure development and business project of Nhơn Hội Industrial Park – Zone B, within Nhơn Hội Economic Zone.
+47965;HBC Investment and Services Join Stock Company;Vietnam;Private company;;;HBC Investment and Services Joint Stock Company, based in Quy Nhon City, has been operating since December 31, 2007, and is primarily engaged in real estate. The company was granted a license to develop the 228-hectare Nhon Hoi Industrial Park Zone C, located in Nhơn Hội Commune, Quy Nhon City.
+47966;Ha Tinh Province Economic Zone Management Board;Vietnam;Government institution;;;The board is responsible for planning Hạ Vàng Industrial Park in Can Lộc Commune, which, once operational, is expected to promote industrial development in the area and increase revenue for the local and surrounding communities.
+47967;MHP-BAFFALO LLC;Ukraine;Private company;;;
+47968;MHP Zernoproduct Lypivka LLC;Ukraine;Private company;;;The company was founded in 2006.
+47969;Oril-Leader PJSC;Ukraine;Private company;;;The identification code is 24426809.
+47970;Myronivska Pticefabrika PJSC;Ukraine;Private company;;;Identification code - 30830662.
+47976;Jing Zoung Tian Co. Ltd.;Cambodia;Private company;;;
+47978;Yunnan Provincial Overseas Investment Company Limited (YOIC);China;State-/government (owned) company;;;Yunnan Provincial Overseas Investment Company Limited (YOIC) is a Chinese enterprise primarily engaged in leasing, business services, and organization management. It frequently operates within the context of overseas investment, strategic partnerships, and infrastructure development, notably holding a 75% stake in the Vientiane Saysettha Development Zone joint venture in Laos
+47979;Yunnan Construction and Investment Holding Group Company Limited (YCIH);China;State-/government (owned) company;https://en.yn2an.cn/;;Yunnan Construction and Investment Holding Group Co., Ltd. (YCIH) is a major state-owned conglomerate in China (established 1951) specializing in infrastructure construction, real estate, and investment. Owned by the Yunnan provincial government, YCIH operates widely across China, South/Southeast Asia, and Africa, with a strong focus on large-scale development projects.
+47980;Beijing Platinum World Technology Development;China;State-/government (owned) company;;;Beijing Platinum World Technology Development is a Chinese state-owned entity involved in rare earth mining, primarily known for its 55% stake in a joint venture in Laos that caused a significant chemical leak.
+47981;Phadang Hungheuang Huaphan Mining Sole Company;Lao PDR;State-/government (owned) company;;;Phadang Hungheuang Huaphan Mining Sole Company is a Lao state-owned entity involved in a joint venture with Chinese firm Beijing Platinum World Technology Development for large-scale rare earth mining in Houaphanh Province, Laos.
+47982;Tianjin Huakan Group Co., Ltd;China;State-/government (owned) company;;;Tianjin Huakan Group Co., Ltd. is a large state-owned Chinese enterprise specializing in mineral resource exploration, geological surveying, engineering construction, and international trade, founded around 2005.
+47994;Volyn West Wind-3 LLC;Ukraine;Private company;;;National code: 43094275
+47995;Wind Solar Invest LLC;Ukraine;Private company;;;National code 45980208
+47998;JVA for Bauxite Project;Lao PDR;Semi state-owned company;https://vpg.vn/du-an-bauxite-dakchung/;;Placeholder as operating company for the Bauxite Project in Dak Chung district, Sekong province of Laos between the Government of Laos and Vietnam's Viet Phuong Investment Group Joint Stock Company (VPG).
