@@ -1164,6 +1164,7 @@ Deal Number;Target Country;Target Region;Investor 1;Investor 2;Investor 3;Invest
 6326;Cambodia;South-East Asia;Siv Guek Investment Co Ltd;HuaYue Group Co. Ltd.;;Cambodia;China;;South-East Asia;Eastern Asia;;Private;Private;;;;;;488.0
 6339;Cambodia;South-East Asia;C.R.C.K.2 Aphivath Caout Chouc Co., Ltd.;Vietnam Rubber Group;;Cambodia;Vietnam;;South-East Asia;South-East Asia;;Private;Government;;;;;;6929.56
 6346;Lao PDR;;Outspan Bolovens Ltd (OBL);Temasek Holdings;;Lao PDR;Singapore;;;South-East Asia;;Private;Finance;;Coffee;;;;3000.0
+6347;Lao PDR;;Vientiane Long Thanh Golf and Real Estate Co., Ltd;Government of Laos;;Lao PDR;Lao PDR;;;;;Private;Government;;;;;;560.0
 6350;Lao PDR;;Quasa-Geruco Joint Stock Company;Vietnam Rubber Group;;Vietnam;Vietnam;;South-East Asia;South-East Asia;;Government;Government;;Rubber;;;;80000.0
 6390;Lao PDR;;Sino-Lao Chilan Rubber Development Company;Government of Laos;;China;Lao PDR;;Eastern Asia;;;Government;Government;;Rubber;;;;20000.0
 6423;Lao PDR;;Savannakhet Sugar Corporation Ltd. (SSC);Government of Laos;;Lao PDR;Lao PDR;;;;;Private;Government;;;;;;12000.0
@@ -2334,6 +2335,10 @@ Deal Number;Target Country;Target Region;Investor 1;Investor 2;Investor 3;Invest
 11750;Egypt, Arab Rep.;;Masdar, Infinity Power and Hassan Allam utilities Consortium;Abu Dhabi Future Energy Company (Masdar);Hassan Allam Holding;Egypt, Arab Rep.;United Arab Emirates;Egypt, Arab Rep.;;Western Asia;;Private;Government;Private;;;;;302500.0
 11752;Lao PDR;;Amata City Lao Company Limited (Amata City Lao);AMATA Corporation Public Company Limited (AMATA);;Lao PDR;Thailand;;;South-East Asia;;Private;Private;;;;;;3560.0
 11756;Lao PDR;;JVA of Sekong Solar Farm;Wealth Power Group Vietnam Joint Stock Company (WPG);National Consulting Group Co., Ltd. (NCG);Lao PDR;Vietnam;Lao PDR;;South-East Asia;;Private;Private;Private;;;;;813.1
+11757;Lao PDR;;Petroleum Trading Lao PCL (PetroTrade);China Investment Corporation;;Lao PDR;China;;;Eastern Asia;;Private;Government;;;;;;7619.97
+11772;Lao PDR;;Jinyao Attapeu Promote Agriculture Import-Export Co.,Ltd (Jinyao);Jinyao Company;;Lao PDR;China;;;Eastern Asia;;Private;Private;;Banana;;;;1000.0
+11773;Lao PDR;;Laos Jinsui Agriculture Co., Ltd (Jinsui);Guangxi Jinsui Agricultural Group Co., Ltd. (Jinsui Agriculture);;Lao PDR;China;;;Eastern Asia;;Private;Private;;Banana;;;;2000.0
+11774;Lao PDR;;Hong Kong Tianchi Group Corporation;Government of Laos;;China, Hong Kong Special Administrative Region;Lao PDR;;;;;Government;Government;;;;;;4514.0
 11781;Lao PDR;;Lao–China Joint Venture Investment Company Limited (LCJV);Government of China;;Lao PDR;China;;;Eastern Asia;;Private;Government;;;;;;1000.0
 11789;Lao PDR;;JVA of Sixin Agricultural Development Company Limited and Kongkeo Agricultural Development Company Limited;Government of China;;Lao PDR;China;;;Eastern Asia;;Private;Government;;Banana;;;;300.0
 11794;Lao PDR;;Dai Thang Agricultural Development One Member Ltd. Co.;Hoang Anh Gia Lai Joint Stock Company (HAGL Group);;Lao PDR;Vietnam;;;South-East Asia;;Private;Private;;Banana;;;;1705.0
@@ -2345,3 +2350,4 @@ Deal Number;Target Country;Target Region;Investor 1;Investor 2;Investor 3;Invest
 11812;Ukraine;Eastern Europe;Oril-Leader PJSC;MHP S.E.;;Ukraine;Cyprus;;Eastern Europe;Western Asia;;Private;Private;;;;;;774.85
 11813;Ukraine;Eastern Europe;Myronivska Pticefabrika PJSC;MHP S.E.;;Ukraine;Cyprus;;Eastern Europe;Western Asia;;Private;Private;;;;;;904.39
 11816;Ukraine;Eastern Europe;Agrocomplex Stepanetske LLC;MHP S.E.;;Ukraine;Cyprus;;Eastern Europe;Western Asia;;Private;Private;;Wheat;Corn;Maize;;1146.25
+11835;Indonesia;South-East Asia;PT Bintang Lima Makmur;;;;;;;;;Unknown;;;;;;;57548.0
