@@ -1182,7 +1182,7 @@ Deal Number;Target Country;Target Region;Investor 1;Investor 2;Investor 3;Invest
 6548;Lao PDR;;Akane Farm Sole Co. Ltd.;;;Malaysia;;;South-East Asia;;;Private;;;;;;;507.0
 6549;Lao PDR;;Trường Hải Agriculture Company (THACO Agri);Truong Hai Group Corporation (TRUONG HAI GROUP);;Vietnam;Vietnam;;South-East Asia;South-East Asia;;Private;Private;;;;;2000;2000.0
 6551;Lao PDR;;Velcan Energy;;;Luxembourg;;;Western Europe;;;Private;;;;;;;20000.0
-6562;Cambodia;South-East Asia;Hoang Anh Lumphat Co., ltd;Hoang Anh Gia Lai Joint Stock Company (HAGL Group);;Vietnam;Vietnam;;South-East Asia;South-East Asia;;Private;Private;;Rubber;;;;9173.0
+6562;Cambodia;South-East Asia;Hoang Anh Lumphat Co., ltd;Hoang Anh Gia Lai Joint Stock Company (HAGL Group);;Cambodia;Vietnam;;South-East Asia;South-East Asia;;Private;Private;;Rubber;;;;9173.0
 6581;Lao PDR;;Nam Ngum 2 Power Company;Electricité du Laos;;Lao PDR;Lao PDR;;;;;Private;Government;;;;;;59700.0
 6583;Lao PDR;;Don Sahong Power Company Limited (DSPC);Mega First Corporation Berhad (MFCB);;Lao PDR;Malaysia;;;South-East Asia;;Private;Private;;;;;;268.9
 6594;Lao PDR;;JVA - Golden Triangle Special Economic Zone;Government of Laos;;Lao PDR;Lao PDR;;;;;Private;Government;;;;;;10000.0
@@ -1402,6 +1402,7 @@ Deal Number;Target Country;Target Region;Investor 1;Investor 2;Investor 3;Invest
 7339;Cambodia;South-East Asia;Heng Nong (Cambodia) International Company Ltd.;Hengfu Sugar Group;;Cambodia;China;;South-East Asia;Eastern Asia;;Private;Unknown;;;;;;6488.0
 7349;Cambodia;South-East Asia;NK Agri (Cambodia) Ltd.;;;India;;;Southern Asia;;;Private;;;;;;;8892.0
 7350;Cambodia;South-East Asia;Hoang Anh Oyadav Co. Ltd.;Hoang Anh Gia Lai Joint Stock Company (HAGL Group);;Cambodia;Vietnam;;South-East Asia;South-East Asia;;Private;Private;;Rubber;;;;2352.4
+7394;Bangladesh;Southern Asia;Bangladesh India Friendship Power Company Limited (BIFPCL);National Thermal Power Corporation (NTPC Limited);;Bangladesh;India;;Southern Asia;Southern Asia;;Private;Private;;;;;;742.19
 7398;Sierra Leone;Sub-Saharan Africa;Aristeus Palm Oil Limited;;;Mauritius;;;Sub-Saharan Africa;;;Private;;;;;;;47567.7
 7407;Indonesia;South-East Asia;PT Agriplus (PT AGP);IOI Group;;Indonesia;Malaysia;;South-East Asia;South-East Asia;;Private;Private;;;;;;6149.0
 7450;Cambodia;South-East Asia;Seladamex Co, Ltd;;;Cambodia;;;South-East Asia;;;Private;;;Rubber;;;;9000.0
@@ -1991,7 +1992,6 @@ Deal Number;Target Country;Target Region;Investor 1;Investor 2;Investor 3;Invest
 10298;Argentina;South America;Fondomonte South America SA;Almarai Co.;;Argentina;Saudi Arabia;;South America;Western Asia;;Private;Private;;Corn;Maize;;;4154.0
 10299;Argentina;South America;Fondomonte South America SA;Almarai Co.;;Argentina;Saudi Arabia;;South America;Western Asia;;Private;Private;;;;;;2500.0
 10308;Argentina;South America;Adecoagro  SA in Argentina;Adecoagro S.A.;;Argentina;Luxembourg;;South America;Western Europe;;Private;Private;;Corn;Maize;;;10021.0
-10309;Uganda;Sub-Saharan Africa;Busoga Forest Company;Green Resources AS;;Uganda;Norway;;Sub-Saharan Africa;Northern Europe;;Private;Private;;Eucalyptus;Pine;;2061;2061.0
 10311;Argentina;South America;Adecoagro  SA in Argentina;Adecoagro S.A.;;Argentina;Luxembourg;;South America;Western Europe;;Private;Private;;Corn;Maize;;;8444.0
 10312;Philippines;South-East Asia;PetroWind Energy Inc. (PWEI);BCPG Plc;;Philippines;Thailand;;South-East Asia;South-East Asia;;Private;Private;;;;;;686.0
 10315;Morocco;Northern Africa;Noor Laayoune Solar PV Park;Government of Saudi Arabia;;Morocco;Saudi Arabia;;Northern Africa;Western Asia;;Unknown;Government;;;;;;240.0
@@ -2278,10 +2278,12 @@ Deal Number;Target Country;Target Region;Investor 1;Investor 2;Investor 3;Invest
 11528;Colombia;South America;Col La Paz S.A.S.;12Tree Finance GmbH;;Colombia;Germany;;South America;Western Europe;;Private;Unknown;;;;;;3091.0
 11530;Colombia;South America;&Forest ApS;;;Denmark;;;Northern Europe;;;Private;;;Eucalyptus;;;;12000.0
 11543;Brazil;South America;Rio Energy;Equinor;;Brazil;Norway;;South America;Northern Europe;;Private;Government;;;;;;1074.0
+11557;Cambodia;South-East Asia;Shanxi Electric Engineering Co., Ltd;Government of the People's Republic of China;;Cambodia;China;;South-East Asia;Eastern Asia;;Private;Government;;;;;;253.0
 11560;Peru;South America;Vanguard Perú;The Vanguard Group;;Peru;United States of America;;South America;;;Private;Finance;;;;;;478.0
 11563;Chile;South America;Enel Green Power Chile Ltda.;Enel Green Power;;Chile;Italy;;South America;Southern Europe;;Private;Private;;;;;;417.98
 11564;Chile;South America;Solarcentury Chile SpA;Statkraft;;Chile;Norway;;South America;Northern Europe;;Private;Government;;;;;;447.28
 11568;Chile;South America;Enel Green Power Chile Ltda.;Enel Green Power;;Chile;Italy;;South America;Southern Europe;;Private;Private;;;;;;470.31
+11570;Cambodia;South-East Asia;HK OASIS Power Energy Development Co., Ltd.;;;China, Hong Kong Special Administrative Region;;;;;;Private;;;;;;;200.0
 11571;Chile;South America;Ibereólica Solar Elena SpA;Ibereólica;;Chile;Spain;;South America;Southern Europe;;Unknown;Private;;;;;;636.48
 11572;Chile;South America;Enel Green Power Chile Ltda.;Enel Green Power;;Chile;Italy;;South America;Southern Europe;;Private;Private;;;;;;201.1
 11574;Liberia;Sub-Saharan Africa;Masayaha Logging Company;Magna Logging Corporation;;Libya;Liberia;;Northern Africa;Sub-Saharan Africa;;Private;Private;;;;;;35337.0
@@ -2310,6 +2312,7 @@ Deal Number;Target Country;Target Region;Investor 1;Investor 2;Investor 3;Invest
 11673;Panama;Central America;Apical Reforestadora S de RL;Teachers Insurance and Annuity Association of America (TIAA);;Panama;United States of America;;Central America;;;Private;Private;;Teak;;;;349.0
 11674;Panama;Central America;Apical Reforestadora S de RL;Teachers Insurance and Annuity Association of America (TIAA);;Panama;United States of America;;Central America;;;Private;Private;;Teak;;;;1185.0
 11697;Brazil;South America;Uniggel Sementes;Teachers Insurance and Annuity Association of America (TIAA);;Brazil;United States of America;;South America;;;Private;Private;;Corn;Maize;Cotton;;1767.0
+11700;Ukraine;Eastern Europe;Eurocape Ukraine Lviv LLC;GVPS LTD;;Cyprus;Cyprus;;Western Asia;Western Asia;;Private;Unknown;;;;;;300.68
 11702;Brazil;South America;Tellus Participações S/A;Teachers Insurance and Annuity Association of America (TIAA);;Brazil;United States of America;;South America;;;Private;Private;;Corn;Maize;Cotton;;2494.0
 11705;Brazil;South America;Tellus Participações S/A;Teachers Insurance and Annuity Association of America (TIAA);;Brazil;United States of America;;South America;;;Private;Private;;;;;;8688.0
 11706;Brazil;South America;Unknown;Teachers Insurance and Annuity Association of America (TIAA);;Brazil;United States of America;;South America;;;Private;Private;;Corn;Maize;;;1552.0
@@ -2351,3 +2354,9 @@ Deal Number;Target Country;Target Region;Investor 1;Investor 2;Investor 3;Invest
 11813;Ukraine;Eastern Europe;Myronivska Pticefabrika PJSC;MHP S.E.;;Ukraine;Cyprus;;Eastern Europe;Western Asia;;Private;Private;;;;;;904.39
 11816;Ukraine;Eastern Europe;Agrocomplex Stepanetske LLC;MHP S.E.;;Ukraine;Cyprus;;Eastern Europe;Western Asia;;Private;Private;;Wheat;Corn;Maize;;1146.25
 11835;Indonesia;South-East Asia;PT Bintang Lima Makmur;;;;;;;;;Unknown;;;;;;;57548.0
+11846;Ukraine;Eastern Europe;DTEK Poltavska wind farm LLC;DTEK RENEWABLES FINANCE B.V.;;Ukraine;Netherlands;;Eastern Europe;Western Europe;;Private;Private;;;;;;3557.09
+11866;Sierra Leone;Sub-Saharan Africa;Mangrove Conservation (SL) Limited;Rewilding Company;;Sierra Leone;United Kingdom of Great Britain and Northern Ireland;;Sub-Saharan Africa;;;Private;Private;;;;;;18000.0
+11868;South Africa;Sub-Saharan Africa;Few & Far LLC;;;United States of America;;;;;;Private;;;;;;;100983.0
+11875;Tanzania;Sub-Saharan Africa;Tausi Forests Limited;New Forests Company Holdings;;United Kingdom of Great Britain and Northern Ireland;United Kingdom of Great Britain and Northern Ireland;;;;;Private;Private;;;;;;39000.0
+11891;Congo, Dem. Rep.;;Taranis Operations Limited;Perenco Oil and Gas Co.;;United Kingdom of Great Britain and Northern Ireland;France;;;Western Europe;;Private;Private;;;;;;182751.0
+11892;Congo, Dem. Rep.;;Taranis Operations Limited;Perenco Oil and Gas Co.;;United Kingdom of Great Britain and Northern Ireland;France;;;Western Europe;;Private;Private;;;;;;217929.0
