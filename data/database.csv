@@ -16,6 +16,7 @@ Deal Number;Target Country;Target Region;Investor 1;Investor 2;Investor 3;Invest
 49;Cambodia;South-East Asia;Grandis Timber Ltd;SRP International Group Ltd.;International Woodlands Company A/S;Cambodia;China, Hong Kong Special Administrative Region;Denmark;South-East Asia;;Northern Europe;Private;Private;Private;Teak;;;;9603.0
 50;Cambodia;South-East Asia;Great Asset Agricultural Development (Cambodia) Co Ltd;Unknown (#158540);;Cambodia;China;;South-East Asia;Eastern Asia;;Private;Unknown;;Cashew;;;;6928.0
 51;Cambodia;South-East Asia;Great Wonder Agricultural Development (Cambodia) Limited;Unknown (#158502);;Cambodia;China;;South-East Asia;Eastern Asia;;Private;Unknown;;Rubber;Cashew;;;8178.0
+52;Cambodia;South-East Asia;Green Island Agricultural Development (Cambodia) Limited;Government of China;;Cambodia;China;;South-East Asia;Eastern Asia;;Private;Government;;Teak;;;;9583.0
 55;Cambodia;South-East Asia;Unknown (HBC INVESTMENT AND SERVICES JOINT STOCK COMPANY, in Cambodia, 34833);Hoa Binh Construction (HBC) Group JSC;;Cambodia;Vietnam;;South-East Asia;South-East Asia;;Private;Private;;Eucalyptus;;;;5914.0
 57;Cambodia;South-East Asia;Heng Brothers Co Ltd;Hoang Anh Gia Lai Joint Stock Company (HAGL Group);;Cambodia;Vietnam;;South-East Asia;South-East Asia;;Private;Private;;Rubber;;;;2361.0
 67;Cambodia;South-East Asia;Koh Kong Plantation Company Limited;Khon Kaen Sugar Industry Public Company Limited (KSL Group);;Cambodia;Thailand;;South-East Asia;South-East Asia;;Private;Private;;;;;;9400.0
@@ -446,7 +447,7 @@ Deal Number;Target Country;Target Region;Investor 1;Investor 2;Investor 3;Invest
 3532;Cambodia;South-East Asia;Mega First Plantation (Cambodia) Ltd (MFPC);Mega First Corporation Berhad (MFCB);;Cambodia;Malaysia;;South-East Asia;South-East Asia;;Private;Private;;Coconut;;;;6419.93
 3533;Cambodia;South-East Asia;Lan Feng (Cambodia) International Company Limited;Rui Feng;;Cambodia;China;;South-East Asia;Eastern Asia;;Private;Private;;Rubber;;;;7391.52
 3534;Cambodia;South-East Asia;Ruy Feng(Cambodia) International Company Limited;Hengfu Sugar Group;;Cambodia;China;;South-East Asia;Eastern Asia;;Private;Unknown;;Rice;;;;7841.0
-3535;Cambodia;South-East Asia;S K Plantation (Cambodia) PTE;SK Plantation Pte Ltd.;;Cambodia;Singapore;;South-East Asia;South-East Asia;;Private;Private;;Rubber;;;;6509.0
+3535;Cambodia;South-East Asia;SK Plantation (Cambodia) Pte. Ltd.;SK Plantation Pte Ltd.;;Cambodia;Singapore;;South-East Asia;South-East Asia;;Private;Private;;Rubber;Cashew;;;6509.0
 3548;Indonesia;South-East Asia;PT Bio Inti Agrindo;POSCO;;Indonesia;Republic of Korea;;South-East Asia;;;Private;Private;;Corn;Maize;;;34200.0
 3554;Cambodia;South-East Asia;Think Biotech (Cambodia) Co., Ltd.;Hanwha Group;;Cambodia;Republic of Korea;;South-East Asia;;;Private;Private;;Teak;Eucalyptus;;;34007.0
 3560;Indonesia;South-East Asia;PT Agro Wana Lestari;Carson Cumberbatch PLC;;Indonesia;Sri Lanka;;South-East Asia;Southern Asia;;Private;Private;;;;;;15936.0
@@ -1402,6 +1403,7 @@ Deal Number;Target Country;Target Region;Investor 1;Investor 2;Investor 3;Invest
 7339;Cambodia;South-East Asia;Heng Nong (Cambodia) International Company Ltd.;Hengfu Sugar Group;;Cambodia;China;;South-East Asia;Eastern Asia;;Private;Unknown;;;;;;6488.0
 7349;Cambodia;South-East Asia;NK Agri (Cambodia) Ltd.;;;India;;;Southern Asia;;;Private;;;;;;;8892.0
 7350;Cambodia;South-East Asia;Hoang Anh Oyadav Co. Ltd.;Hoang Anh Gia Lai Joint Stock Company (HAGL Group);;Cambodia;Vietnam;;South-East Asia;South-East Asia;;Private;Private;;Rubber;;;;2352.4
+7356;Cambodia;South-East Asia;CRD Co. Ltd;Hoang Anh Gia Lai Joint Stock Company (HAGL Group);;Cambodia;Vietnam;;South-East Asia;South-East Asia;;Private;Private;;Rubber;;;;7591.0
 7394;Bangladesh;Southern Asia;Bangladesh India Friendship Power Company Limited (BIFPCL);National Thermal Power Corporation (NTPC Limited);;Bangladesh;India;;Southern Asia;Southern Asia;;Private;Private;;;;;;742.19
 7398;Sierra Leone;Sub-Saharan Africa;Aristeus Palm Oil Limited;;;Mauritius;;;Sub-Saharan Africa;;;Private;;;;;;;47567.7
 7407;Indonesia;South-East Asia;PT Agriplus (PT AGP);IOI Group;;Indonesia;Malaysia;;South-East Asia;South-East Asia;;Private;Private;;;;;;6149.0
@@ -1412,6 +1414,7 @@ Deal Number;Target Country;Target Region;Investor 1;Investor 2;Investor 3;Invest
 7487;Cambodia;South-East Asia;Binh Phuoc Kratie Rubber 1 Company;Vietnam Rubber Group;;Vietnam;Vietnam;;South-East Asia;South-East Asia;;Private;Government;;Rubber;;;;5100.0
 7491;Cambodia;South-East Asia;Dak Lak Mondulkiri Aphivath Caoutchouch;Dak Lak Rubber Corporation (DAKRUCO);;Vietnam;Vietnam;;South-East Asia;South-East Asia;;Government;Government;;Rubber;;;;1500.0
 7506;Indonesia;South-East Asia;PT Ladang Sawit Mas;IOI Group;;Indonesia;Malaysia;;South-East Asia;South-East Asia;;Private;Private;;;;;;8300.0
+7507;Indonesia;South-East Asia;PT. Maya Agro Investama (MAI);Cargill;;Indonesia;United States of America;;South-East Asia;;;Private;Private;;;;;;12948.0
 7512;Uruguay;South America;Milagro SA;San Miguel;;Uruguay;Argentina;;South America;South America;;Private;Private;;;;;;1430.0
 7531;Bangladesh;Southern Asia;Electricity Generation Company of Bangladesh Ltd. (EGCB);Marubeni Co.;;Bangladesh;Japan;;Southern Asia;Eastern Asia;;Government;Private;;;;;;404.69
 7570;Brazil;South America;CGN Brazil Energy;Government of China;;Brazil;China;;South America;Eastern Asia;;Private;Government;;;;;;10424.0
@@ -2260,6 +2263,7 @@ Deal Number;Target Country;Target Region;Investor 1;Investor 2;Investor 3;Invest
 11456;Chile;South America;CI NMF I COOPERATIEF U.A.;;;Netherlands;;;Western Europe;;;Private;;;;;;1934;1934.99
 11457;Chile;South America;EDP Renewables Chile SpA;EDP, S.A.;;Chile;Portugal;;South America;Southern Europe;;Private;Government;;;;;;2847.19
 11464;Tanzania;Sub-Saharan Africa;Mufindi Paper Mills Limited;Rai Group Limited;;Tanzania;Kenya;;Sub-Saharan Africa;Sub-Saharan Africa;;Private;Private;;;;;;37662.0
+11469;Cambodia;South-East Asia;CRD Co. Ltd;Hoang Anh Gia Lai Joint Stock Company (HAGL Group);;Cambodia;Vietnam;;South-East Asia;South-East Asia;;Private;Private;;Rubber;;;;5905.09
 11476;Brazil;South America;Radar Propriedades Agrícolas S.A.;Cosan Industria e Comercio SA;;Brazil;Brazil;;South America;South America;;Private;Private;;Corn;Maize;Cotton;;1526.0
 11477;Brazil;South America;Radar Propriedades Agrícolas S.A.;Cosan Industria e Comercio SA;;Brazil;Brazil;;South America;South America;;Private;Private;;Corn;Maize;Cotton;;23241.0
 11479;Ukraine;Eastern Europe;Ovid Wind LLC;GURIS Holding Co. Inc.;;Ukraine;Türkiye;;Eastern Europe;;;Private;Unknown;;;;;;348.0
@@ -2274,6 +2278,9 @@ Deal Number;Target Country;Target Region;Investor 1;Investor 2;Investor 3;Invest
 11488;Brazil;South America;Radar Propriedades Agrícolas S.A.;Cosan Industria e Comercio SA;;Brazil;Brazil;;South America;South America;;Private;Private;;;;;;6231.0
 11492;Ukraine;Eastern Europe;Dnistrovska Wind Farm LLC;Elementum Ukraine Limited;;Ukraine;United Kingdom of Great Britain and Northern Ireland;;Eastern Europe;;;Private;Private;;;;;;276.6
 11494;Chile;South America;CI GMF II COOPERATIEF U.A.;;;Netherlands;;;Western Europe;;;Private;;;;;;;874.15
+11499;Cambodia;South-East Asia;Cambodian Banana Agricultural General Co., Ltd. (CBA);Government of China;;Cambodia;China;;South-East Asia;Eastern Asia;;Private;Government;;Banana;;;;16000.0
+11500;Cambodia;South-East Asia;Green Island Agricultural Development (Cambodia) Limited;Government of China;;Cambodia;China;;South-East Asia;Eastern Asia;;Private;Government;;Banana;;;;13000.0
+11504;Cambodia;South-East Asia;Sinohydro – Kamchay Hydroelectric Project Co., Ltd;Power Construction Corporation of China (PowerChina);;Cambodia;China;;South-East Asia;Eastern Asia;;Private;Government;;;;;;2291.0
 11515;Brazil;South America;Neoenergia S.A.;Grupo Iberdrola;;Brazil;Spain;;South America;Southern Europe;;Private;Private;;;;;;2920.0
 11528;Colombia;South America;Col La Paz S.A.S.;12Tree Finance GmbH;;Colombia;Germany;;South America;Western Europe;;Private;Unknown;;;;;;3091.0
 11530;Colombia;South America;&Forest ApS;;;Denmark;;;Northern Europe;;;Private;;;Eucalyptus;;;;12000.0
@@ -2360,3 +2367,5 @@ Deal Number;Target Country;Target Region;Investor 1;Investor 2;Investor 3;Invest
 11875;Tanzania;Sub-Saharan Africa;Tausi Forests Limited;New Forests Company Holdings;;United Kingdom of Great Britain and Northern Ireland;United Kingdom of Great Britain and Northern Ireland;;;;;Private;Private;;;;;;39000.0
 11891;Congo, Dem. Rep.;;Taranis Operations Limited;Perenco Oil and Gas Co.;;United Kingdom of Great Britain and Northern Ireland;France;;;Western Europe;;Private;Private;;;;;;182751.0
 11892;Congo, Dem. Rep.;;Taranis Operations Limited;Perenco Oil and Gas Co.;;United Kingdom of Great Britain and Northern Ireland;France;;;Western Europe;;Private;Private;;;;;;217929.0
+11898;Ukraine;Eastern Europe;Yuzhne Energy LLC;Longyuan Power Overseas Investment Co. LTD;;China, Hong Kong Special Administrative Region;China;;;Eastern Asia;;Private;Government;;;;;;304.21
+11902;Philippines;South-East Asia;Alba Viento Power Corporation;Brookfield Asset Management;;Philippines;Canada;;South-East Asia;Northern America;;Private;Finance;;;;;;4698.0

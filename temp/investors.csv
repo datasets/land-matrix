@@ -2935,7 +2935,7 @@ for mechanized farming."
 34827;Grandis Timber Ltd;Cambodia;Private company;;;
 34828;Great Asset Agricultural Development (Cambodia) Co Ltd;Cambodia;Private company;;;
 34829;Great Wonder Agricultural Development (Cambodia) Limited;Cambodia;Private company;;;
-34830;Green Island Agricultural Development (Cambodia) Limited;Cambodia;Private company;;;
+34830;Green Island Agricultural Development (Cambodia) Limited;Cambodia;Private company;;;Green Island Agricultural Development (Cambodia) Limited (also registered as Green Island Agricultural Development Co., Ltd) is a major agricultural and agro-industrial firm based in Cambodia.
 34832;Green Sea Agriculture Co., Ltd.;Cambodia;Private company;;;
 34833;Unknown (HBC INVESTMENT AND SERVICES JOINT STOCK COMPANY, in Cambodia, 34833);Cambodia;Private company;;;
 34834;Unknown (Henan (Cambodia) Economic and Trade Development Zone);Cambodia;Private company;;;
@@ -3757,7 +3757,7 @@ of Maris Ltd since 2012"
 36425;Unknown (Trevali  Mining Corporation, in Peru, 36425);Peru;Private company;;;
 36426;Unknown;Peru;Private company;;;
 36427;Unknown (Peruvian Precius Metals Corp., in Peru, 36427);Peru;Private company;;;
-36428;Brookmount Explorations Inc.;Peru;Private company;;;
+36428;Basic Minerals SAC ;Peru;Private company;;;
 36429;Unknown (MMG Limited, in Peru, 36429);Peru;Private company;;;
 36430;Unknown (Panoro Minerals Ltd., in Peru, 36430);Peru;Private company;;;
 36431;Compañía Minera Zafranal SAC.;Peru;Private company;;;
@@ -4035,7 +4035,7 @@ Legal Entities Registry under NUEL 100064340 company named ATFC Mozambique Madei
 36979;EmVest Livingstone;Zambia;Private company;;;
 36980;Neha Agri Zambia Ltd;Zambia;Private company;;;
 36981;Ruy Feng(Cambodia) International Company Limited;Cambodia;Private company;;;
-36982;S K Plantation (Cambodia) PTE;Cambodia;Private company;;;
+36982;SK Plantation (Cambodia) Pte. Ltd.;Cambodia;Private company;;;SK Plantation (Cambodia) Pte. Ltd. is an agricultural subsidiary of the Singapore-based family office, SK Plantation Pte Ltd. It manages a 6,500-hectare agricultural land concession in Cambodia's Stung Treng and Ratanakkiri provinces, focusing heavily on modern, large-scale cashew plantations.
 36983;Ly Ye Rubber Co.,Ltd;Cambodia;Private company;;;
 36985;Lan Feng (Cambodia) International Company Limited;Cambodia;Private company;;;
 36989;Kaweri Coffee Plantation Ltd.;Uganda;Private company;;;
@@ -6711,7 +6711,9 @@ UUID: 69e30d01-61bc-4f29-a666-a3199c124481
 Economic Sector: Energy sector"
 40253;National  Investment Company Ltd  (NICO);Tanzania;Other;;;"Imported from Land Observatory
 UUID: 6e538db4-1059-4332-be1c-5d0a8784ac7f"
-40254;Hai Yong Investment;Cambodia;Other;;;"Imported from Land Observatory
+40254;Hai Yong Investment Agro Industry Company;Cambodia;Private company;;;"Hai Yong Investment Agro Industry Company holds an economic land concession in Cambodia covering 701 hectares. The land is located in the Snoul district within the Kratie province.
+
+Imported from Land Observatory
 UUID: 6f1ec91d-2a10-40f3-8f1a-263968996bcb"
 40257;Regional Oil;Russian Federation;Other;;;"Imported from Land Observatory
 UUID: 6f7d127c-4a7a-4395-9a8d-7f4398c8e0ff"
@@ -6901,7 +6903,10 @@ UUID: c998dd1e-3a1e-4928-83db-9527f20ece15
 Phone: +856 21 414 932
 Address: Vieng Vang Tower, Boulichan Road, Dongpalan Thong Village, Sisattanak District,  Vientiane Capital. Lao PDR
 Economic Sector: Energy sector"
-40424;Rattanak Stone;Cambodia;Other;;https://opencorporates.com/companies/kh/00001929;"Imported from Land Observatory
+40424;Rattanak Stone Cambodia Development Company Ltd;Cambodia;Private company;;https://opencorporates.com/companies/kh/00001929;"The Rattanak Stone mine in Preah Vihear Province is believed to be beneficially owned by General Pol Saroeun, Commander-in-Chief of the Royal Cambodian Army and Chief of Joint Staff. Media reports claim that Rattanak Stone formed a joint venture in 2005 with one of Cambodia’s most powerful companies, Pheapimex, and the Chinese state-owned company China National Machinery & Equipment Import & Export Corporation. In May 2008, Korean company Kenertec announced that it bought 85 per cent of the mine in a joint venture agreement with Rattanak Stone.  
+
+
+Imported from Land Observatory
 UUID: c9fd69fd-2ea8-4529-8f57-cbf85e440c0a"
 40426;Tozzi Holding SRL;Italy;Private company;https://www.tozzigreen.com/;;"Imported from Land Observatory
 UUID: cc5224f8-9236-4d45-97a9-2b242f195348
@@ -8002,13 +8007,13 @@ It was established in 1956, as the private-sector arm of the World Bank Group, t
 41615;Aristeus Palm Oil Limited;Mauritius;Private company;;https://opencorporates.com/companies/mu/C103661;"Previous name of Sierra Leone Agriculture according to open corporates (https://opencorporates.com/companies/gb/06638591). Both companies are defunct.
 SLA was acquired by the SIVA group."
 41616;West African Agribusiness Limited;Sierra Leone;Private company;https://www.westafricanagribusiness.com/;https://opencorporates.com/companies/gb/09194243;Founded in 2012
-41618;PT Hamparan Mas Sawit Bangun Persada;Indonesia;Private company;;;
+41618;PT Hamparan Masawit Bangun Persada (HMBP);Indonesia;Private company;;;PT Hamparan Masawit Bangun Persada (HMBP) is an Indonesian oil palm plantation company associated with the BEST Agro Group.
 41619;EDEATECH;;;;;
 41620;Société d’Exploitations des Bois d’Afrique Centrale (SEBAC);Cameroon;Private company;;;
 41621;CFK;Cameroon;Private company;;;
 41622;ANAFOR;Cameroon;;;;
 41623;Delta Timber Company (DTC);Liberia;Private company;;;Owned by Gabriel Doe who previously owned Cavalla Timber. Cavalla Timber was once under intense criticisms by forest watch dogs during Liberia's civil war for being one of the major violators of forest laws.
-41624;PT Waenibe Wood Industries;Indonesia;Private company;;;
+41624;PT Waenibe Wood Industries;Indonesia;Private company;;;PT Waenibe Wood Industries is an Indonesian wood product manufacturer and APKINDO member that produces plywood, veneer, and sawn timber from its concession and branch operations in Buru Regency, Maluku.
 41625;PT Gema Hutani Lestari;Indonesia;Private company;http://www.ptghl.com/;;
 41626;China National Chemical Corporation;China;State-/government (owned) company;;;
 41627;Adama Ltd.;China;Private company;;;
@@ -8102,7 +8107,7 @@ SLA was acquired by the SIVA group."
 41732;Mok Chhay Import Export Co. Ltd.;Cambodia;Private company;;;
 41733;Suoy Chheng Import Export Co. Ltd.;Cambodia;Private company;;https://opencorporates.com/companies/kh/00014033;
 41734;Dak Lak Mondulkiri Aphivath Caoutchouch;Vietnam;State-/government (owned) company;;;
-41735;Leang Bou;;;;;
+41735;Leang Bou Construction;Cambodia;Private company;;;
 41736;Investment and Development Dai Nam (Cambodia) JSC Ltd.;;;;;
 41737;HGL Limited;Ghana;Private company;https://hglghana.com/;;
 41738;Northern Food Corporation;Vietnam;State-/government (owned) company;;;
@@ -8117,7 +8122,7 @@ SLA was acquired by the SIVA group."
 41749;PT Ladang Sawit Mas;Indonesia;Private company;http://www.bumitama-agri.com;;
 41750;Feronia CI Inc;Cayman Islands;;;https://opencorporates.com/companies/be/0633752468;
 41751;Feronia JCA Limited;Cayman Islands;;;;
-41752;PT. MAYA AGRO INVESTAMA;Indonesia;Private company;;https://www.cargill.co.id;
+41752;PT. Maya Agro Investama (MAI);Indonesia;Private company;;https://www.cargill.co.id;
 41753;Golden Oil Holdings Limited;Mauritius;;;https://opencorporates.com/companies/mu/C107960;special purpose vehicle subsidiary of African Agriculture Fund
 41754;Straight KKM 2 Limited (KKM);Mauritius;;;https://opencorporates.com/companies/mu/C150091;Straight KKM 2 Limited (“KKM”), a consortium consisting of a number of funds managed by Kuramo Capital Management, LLC, as well as Kalaa Mpinga, a successful Congolese entrepreneur. Complicated ownership structure depicted well here: https://www.oaklandinstitute.org/sites/oaklandinstitute.org/files/leopolds-steps-eng-corrected.pdf (as at July 2019)
 41755;Africa Agriculture and Trade Investment Fund (AATIF);Luxembourg;Investment fund;https://www.aatif.lu/home.html;https://opencorporates.com/companies/lu/B162831;The Africa Agriculture and Trade Investment Fund was initiated by KfW on behalf of the German Federal Ministry for Economic Corporation and Development (BMZ). The BMZ is responsible for formulating the principles and strategies of German development policy
@@ -12186,6 +12191,7 @@ Source: qcc.com and qizhidao.com"
 46396;Khi Solar One Power Plant;South Africa;;;;"On 27 December 2016, Abengoa received a “Provisional Acceptance Certificate”, officially handing the plant to its owner Khi Solar One Pty Ltd. Abengoa has a 51% stake, Industrial Development Corporation (IDC) has a 29% stake and Khi Community Trust has a 20% stake in that society. Abengoa will take on the operation and maintenance of the plant. The plant output is sold to grid operator Eskom under a 20-year PPA (Power Purchase Agreement).Project Finance with contributions from South African institutions (DBSA, IDC) and international bodies (EIB, IFC, FMO, Proparco).Cox Energy, through its subsidiary, has signed an agreement to acquire 51% of the Khi Solar One solar thermal plant in South Africa. This acquisition is pending local regulatory approval​
 COX ENERGY.Once completed, Cox will have majority control of the plant, which is located near Upington in the Northern Cape"
 46397;Cox Energy;Spain;Private company;https://www.coxenergy.com/en/index.htm;;
+46399;Greenko Group;India;Private company;https://greenkogroup.com/windpower.php;;
 46403;Ratesti solar farm;Romania;Other;;;The name of the project is indicated
 46404;Econergy Renewable Energy Ltd.;Israel;Private company;;;Econergy Renewable Energy Ltd. is a corporation that specialises in renewable energy. Utility-scale renewable energy projects are developed, owned, and operated by the company. The company is headquartered in Ra'Anana, Israel.
 46405;Nofar Energy Ltd;Israel;Private company;;;Nofar Energy Ltd (Nofar Energy) specializes in the developing and operating systems used for the production of electricity from solar energy. The company is headquartered in Israel.
@@ -13190,6 +13196,7 @@ Previous name: SONDRIO LIMITED"
 The former name of SD Guthrie Bhd was Sime Darby Plantation Berhad. The company officially changed its name on June 5, 2024"
 47460;East Al Owainat Company for Agricultural Development;Egypt, Arab Rep.;Private company;https://www.eastowainat.com/EN/company?i=30;;The location of the activity:East Al Owainat area - Investors Road - Al Wadi Al Jadeed, plot No. 14, where the company's farm is in the middle of the East Al Owainat project in a privileged location
 47470;Facundo López Sanabria;Argentina;Individual entrepreneur;;;
+47471;CRD Co. Ltd;Cambodia;Private company;;;C.R.D. Co., Ltd., a Cambodian-registered private company, but it is fully controlled by Vietnam’s Hoang Anh Gia Lai (HAGL) group through its agribusiness subsidiary.
 47473;DTEK Tyligulska Wind Power Plant LLC;Ukraine;Private company;;;National unique code: 42025153
 47474;BESS-6 LLC;Ukraine;Private company;;;
 47476;Novartis Argentina SA;Argentina;;https://www.novartis.com/ar-es/;;
@@ -13214,7 +13221,17 @@ VAT	LT100007376818"
 47507;Estepa Solar SpA;Chile;Private company;;;
 47508;Nightowl 1 SpA;Chile;Private company;;;
 47509;Bess Halcón 18 SpA;Chile;Private company;;;
+47510;Cambodian Banana Agricultural General Co., Ltd. (CBA);Cambodia;Private company;;;Cambodian Banana Agricultural General Co., Ltd. (CBA) is a major Chinese-backed agricultural enterprise in Cambodia
+47511;Hainan Dingyi Green Island Ecological Agriculture Co., Ltd.;China;Semi state-owned company;;;Hainan Dingyi Green Island Ecological Agriculture Co., Ltd. is a Chinese agricultural enterprise specializing in ecological farming, agricultural technology, and international agricultural cooperation. They are best known for developing the Cambodia-China Tropical Ecological Agriculture Cooperative Demonstration Zone in Kratie Province
+47512;Santana Agro Products Co., Ltd.;Cambodia;Private company;https://www.santanaagro.com/;;"Santana Agro Products Co., Ltd. is a Cambodian agribusiness founded in 2017, headquartered in Preah Vihear province, specializing in the cultivation, processing, and export of agricultural commodities like cashew nuts, cassava, and mangoes. The company has expanded its operations to over 4,000 hectares of plantations
+
+Ouk Kimsan, the sole listed director of Santana Agro, has a long, well-documented history in the illicit timber trade."
+47513;SPHP (Cambodia) Co. Ltd.;Cambodia;Private company;;;SPHP (Cambodia) Co. Ltd. is a energy firm primarily known for developing the $230–231 million Stung Pursat I hydroelectric dam in Cambodia. The 80-megawatt renewable energy facility supplies electricity to Electricite du Cambodge (EDC).
+47514;Sinohydro – Kamchay Hydroelectric Project Co., Ltd;Cambodia;Private company;;;Sinohydro Kamchay Hydroelectric Project Co., Ltd. is a subsidiary of PowerChina. Established in Phnom Penh, Cambodia, in April 2006, it manages the US$280 million, 194-MW Kamchay Hydroelectric BOT (Build-Operate-Transfer) project in Kampot province under a 44-year agreement with the Cambodian government.
+47515;Long Sreng Hua Jian Agriculture Development Co., Ltd;Cambodia;Private company;https://longsrengagriculture.com/hua_jian/en/product/;;Long Sreng Horjean Agricultural Development Company is a private company that has invested in the agricultural sector, banana plantations, with a total area of ​​500 hectares, located in Prek Kak commune, Stung Trang district, Kampong Cham province, 165 kilometers from Phnom Penh.
+47516;Tian Rui (Cambodia) Agricultural Cooperation SEZ Co., Ltd.;Cambodia;Private company;;;
 47517;Huot Sambat Co. Ltd.;Cambodia;Private company;;;
+47518;DTC Group Co., Ltd.;Cambodia;Private company;;;
 47520;Zorlu Enerji;Türkiye;Private company;https://www.zorluenerji.com.tr/en;;Zorlu Enerji is an energy company based on Turkey which has experience in electricity generation & distribution from renewable energy sources, including geothermal, solar, wind and hydro power with total installed capacity is 991 MW and EV charging stations.
 47522;Equinox Gold;Canada;Stock-exchange listed company;https://www.equinoxgold.com/;;
 47523;Celsia S.A. E.S.P.;Colombia;Private company;https://www.celsia.com/es/;;
@@ -13275,6 +13292,7 @@ Originally established in 2014 and managed under the Steung Meteuk Hydropower Co
 47583;West Water Group Inc.;Liberia;Private company;;;
 47587;Ibitu Energía;Brazil;Private company;https://ibituenergia.com/;;
 47588;Grupo Moreno;Brazil;Private company;https://www.usinamoreno.com.br;;A traditional group in Brazil’s sugar-energy sector, with operations in the state of São Paulo.
+47590;Hoang Anh Gia Lai Agricultural JSC (HAGL Agrico);Vietnam;Stock-exchange listed company;https://www.haagrico.com/vn;;Hoang Anh Gia Lai Agricultural JSC (HAGL Agrico), traded as HNG on the Ho Chi Minh Stock Exchange, is a publicly listed Joint Stock Company. It operates as a large-scale agribusiness focused on cultivating fruit trees, raising livestock, and operating rubber plantations across Vietnam, Laos, and Cambodia.
 47591;CTG Brasil;Brazil;Private company;https://www.ctgbr.com.br;;It is a subsidiary of the state-owned China Three Gorges Corporation.
 47592;Titan Mining and Energy Corporation (TMEC);Philippines;Private company;https://coalasiaholdings.com/ourcompany.html;;"COAL is an investment holding company primarily engaged in the business of investing in coal and energy related businesses. Currently, the Company owns the 100.00% equity interest in Titan Mining and Energy Corporation (TMEC), which owns coal assets under COC #159, COC #166, and COC #167. COAL may also venture into other mineral resource businesses in the future.
 
@@ -13436,11 +13454,21 @@ is located in Gunung Sari Village, Segah District, Berau Regency, East Kalimanta
 47789;Sino-Lao Potash Mining Co., Ltd.;Lao PDR;Private company;https://wwwe.yyth.com.cn/index.html;;The parent company is Yunnan Yuntianhua Co., Ltd.
 47790;Vietnam-Laos Chemical and Rock Salt Mine Company Limited (Vilachemsalt);Lao PDR;Private company;https://www.vinachem.com.vn/en.html;;The project is invested in by VINACHEM through the Vietnam-Laos Chemical and Rock Salt Mine Company Limited (Vilachemsalt).
 47791;Ruiyuan Richfield Sylvine Co., Ltd;Lao PDR;Private company;https://sklaos.com/who-we-are/;;Ruiyuan Richfield Sylvine Co., Ltd. (often called Ruiyuan Richfield) is originally a Chinese company. It is a subsidiary of SK Agricultural Technic Co., Ltd., whose wholly-owned subsidiary Ruiyuan Richfield Sylvine signed a project agreement in Laos.
+47792;Unknown (ValOre Metals Corp.);Brazil;Private company;https://www.valoremetals.com/;;
+47793;ValOre Metals Corp.;Canada;Private company;https://www.valoremetals.com/;;
 47794;Kipchimchim;Kenya;Private company;;;
 47795;Jaramogi Investments Limited;Kenya;Private company;;;
+47797;Alta Floresta Gold Mineração Ltda.;Brazil;Private company;https://altamiragold.com/;;
+47798;Altamira Gold Corp.;Canada;Private company;https://altamiragold.com/;;
+47799;Mineração Onças de Pitangui Ltda.;Brazil;Private company;https://www.jaguarmining.com/;;
+47800;Anglo American Minério de Ferro Brasil;Brazil;Private company;https://brasil.angloamerican.com/pt-pt;;
 47801;Lao Kaiyuan Mining Sole Co. Ltd;Lao PDR;Private company;https://www.facebook.com/laokaiyuan/;;Lao Kaiyuan Mining Sole Co. Ltd, founded in 2008 and based in Khammouane Province, Laos, is a Chinese-owned enterprise specializing in the exploration, production, and sale of potash fertilizer.
 47802;Biase Plantation Limited;Nigeria;Private company;;;Biase Plantations Ltd was fully registered in the Cross River State of Nigeria and issued with a Certificate of incorporation under the Nigeria’s Companies and Allied Matters Act of 1990 in 10th February 2011.
+47803;Unknown (Prism Resources Inc.);Canada;Private company;https://www.prismresourcesinc.com/;;Prism Resources Inc. is a Canadian precious and base metals exploration and development company focused on the acquisition, exploration, and development of mining projects, particularly in Latin America.
+47804;Prism Resources Inc.;Canada;Private company;https://www.prismresourcesinc.com/;;Prism Resources Inc. is a Canadian precious and base metals exploration and development company focused on the acquisition, exploration, and development of mining projects, particularly in Latin America.
+47805;FIC03 Fondo de Inversión Privado;Peru;Investment fund;;;
 47806;Zangge Mining (Laos) Development Co., Ltd;Lao PDR;Private company;;;Zangge Mining (Laos) Development Co., Ltd is a subsidiary of Zangge Mining Company Limited (officially Zangge Mining Co., Ltd.), a major Chinese potash and lithium producer.
+47807;Unknown (PPX Mining Corp.);Canada;Private company;https://www.ppxmining.com/;;
 47815;Zhongya Yuxi Cement Lao Sole Co., Ltd;Lao PDR;Private company;;;Zhongya Yuxi Cement Lao Sole Co., Ltd is a Chinese-invested company based in Saravane, Laos, specializing in cement production with a 200,000 tpa capacity plant operational since the mid-2000s.
 47817;Transmara Investment Limited;Kenya;Private company;;;
 47818;Sucrière des Mascareignes Limited;Mauritius;Private company;;;Incorporated on January 28th, 1999, Sucrière des Mascareignes Limited (“SML”) is an investment holding entity based in Mauritius. It is principally engaged in the business of growing and milling of sugarcane in Kenya and Tanzania, and the commercialization of sugar and its by-products such as molasses via its subsidiaries,
@@ -13609,10 +13637,23 @@ Dung Quat 2 Industrial Park: 780 ha"
 48008;Hainan Mining Co. Ltd. (Chine);China, Hong Kong Special Administrative Region;Private company;;;
 48010;Uis Tin Mining Company (UTMC);Namibia;Private company;https://andradamining.com/assets/uis/;;
 48011;Andrada Mining limited;Namibia;Stock-exchange listed company;https://andradamining.com/about-us/;;Company is listed on the Namibian Stock Exchange
+48021;Vung Ang Economic Zone Service and Infrastructure Center;Vietnam;Private company;;;
 48022;Yuzhniy GOK JSC;Ukraine;Private company;;;"National code: 00191000.
 Yuzhniy GOK was previously controlled by the Metinvest Group and Lanebrook Ltd. (formerly the majority shareholder of Evraz Group, owned by Russian billionaire Roman Abramovich, which withdrew from the group’s shareholder structure in 2018), which acquired 50% of Yuzhniy GOK’s shares from the Privat Group in late 2007. In 2022, Evraz representatives were removed from the company’s supervisory board."
 48023;Jetere Limited;Cyprus;Private company;;;National code ΗΕ 369581
 48024;Zantest Limited;Cyprus;Private company;;;National code HE369456
+48025;Hoàn Cầu Vân Phong Co., Ltd.;Vietnam;Private company;http://www.ninhthuyip.com/;;Hoan Cau Van Phong Company is fully owned by Thanh Yen Group and incorporated to develop and manage Ninh Thuy Industrial Park. The Industrial Park is located 45 km from Nha Trang City centre, about 40 mins drive along Highway 1A. About 3 kilometers from the south-eastern end of the industrial park is the completed Hyundai-Vinashin Shipyard, the Petrolimex Bonded Warehouse located out in the Van Phong Bay, and confirmed thermal power plant to be invested by Sumitomo.
+48026;Thanh Yến Group;Vietnam;Asset management firm;https://thanhyen.com/;;"Thanh Yen Group boasts nearly 20 years of experience in the real estate sector, including the construction and development of high-end apartments, resort apartments, and industrial parks; the production and supply of construction materials (marble, granite, concrete, etc.); and the development of commercial services.
+
+Thanh Yen Group is constantly developing with average revenue exceeding $100 million per year and nearly 2000 employees."
+48027;Nghe An Industrial Park Development Company;Vietnam;Private company;;;"Nghe An Industrial Park Development Company has tax code 2900561724 and was granted a business registration certificate on August 26, 2003.
+
+The company's main business activity is ""Site preparation,"" and it is managed by the Nghe An Provincial Tax Department.
+
+Head office address: No. 16, Le Hoan Street, Hung Phuc Ward, Vinh City, Nghe An Province."
+48028;APEC Thai Nguyen Investment Joint Stock Company;Vietnam;Private company;;;"Asia Pacific Investment Joint Stock Company (now APEC Thai Nguyen Investment Joint Stock Company) was established in July 2006 with a charter capital of VND 500 billion. With experienced leadership, a dedicated and creative staff, and a sound strategic direction, APEC INVESTMENT has initially achieved remarkable growth.
+
+APEC Thai Nguyen is the developer of Diem Thuy Industrial Park - Thai Nguyen Zone B."
 48029;Guangxi Jinsui Agricultural Group Co., Ltd. (Jinsui Agriculture);China;Private company;;;Guangxi Jinsui Agricultural Group Co., Ltd. (commonly known as Jinsui Agriculture) is a private enterprise founded in 1996 and based in Nanning, Guangxi, China. It is a major agricultural industrialization enterprise specialized in banana cultivation, deep processing, chemical engineering, and alcohol production.
 48030;Jinyao Company;China;Private company;;;Jin Yao (金耀) is a Chinese agricultural company operating large-scale fruit plantations, primarily bananas, in the Attapeu province of Laos. It is part of a broader expansion of Chinese agricultural investment in the region aimed at meeting high demand in the Chinese market.
 48033;PT Citra Mulia Inti (PT CMI);Indonesia;Private company;;https://companieshouse.id/citra-mulia-inti;
@@ -13622,6 +13663,7 @@ Yuzhniy GOK was previously controlled by the Metinvest Group and Lanebrook Ltd. 
 48037;Military Commercial Joint Stock Bank (MB Bank);Vietnam;Other;https://www.mbbank.com.vn/History?lang=EN;;"Military Commercial Joint Stock Bank (MB Bank) operates as a Public Joint-Stock Commercial Bank. Initially established and owned by the Vietnamese military, it functions primarily as a government-backed financial institution that offers a full suite of commercial and digital banking services to both retail and corporate clients.
 
 A Public Joint-Stock Commercial Bank (PJSC) is a financial institution owned by corporate and individual shareholders, whose shares can be publicly traded on a stock exchange."
+48038;Son La Rubber Joint Stock Company;Vietnam;Semi state-owned company;;;Son La Rubber Joint Stock Company is a joint stock company and a state-affiliated subsidiary operating as part of the Vietnam Rubber Group. Implements the VRG rubber project in Son La Province
 48039;Caracal Gold PLC;United Kingdom of Great Britain and Northern Ireland;Stock-exchange listed company;;;"In 2025, Caracal Gold plc changed its named to Imara Gold and later delisted from the stock exchange.
 Papillon Holdings plc later renamed Caracal Gold plc, LON:GCAT)"
 48040;PT. Agra Inti Investama;Indonesia;Asset management firm;https://www.agracorp.id/;;"PT. Agra Inti Investama (part of the Agro Investama Group) is an Indonesian investment holding company focused primarily on developing the country's agro-industry, property, and financial sectors. The group operates large-scale palm oil plantations and mills and acts as a pioneer in green agrotechnology
@@ -13634,6 +13676,7 @@ The company have three subsidiares, namely: PT. Agra Beverindo, PT. Agra Cahaya 
 48047;PT. Bumi Hijau Konservasi;Indonesia;Private company;;;"Publicly available information on PT Bumi Hijau Konservasi appears limited, with most details derived from project documentation related to the Nunukan Mangrove & Peatland Project and its application for forest utilisation (PBPH) concessions. No official company website or independent corporate information could be identified. The project document indicates that the company is a subsidiary of the Green Legacy Conservation (GLC) Group; however, information on the group itself is also scarce, limiting external verification of its structure and activities."
 48048;Volyn West Wind-2 LLC;Ukraine;Private company;;;National code: 43094013
 48051;NexMetals Mining Corp;Canada;Stock-exchange listed company;https://nexmetalsmining.com/;;NexMetals Mining Corp is trading on the canadian stock exchange under the ticker NEXM
+48060;Vietnam Joint Stock Commercial Bank for Industry and Trade (VietinBank);Vietnam;Commercial Bank;https://www.vietinbank.vn/;;VietinBank is a national commercial bank of Vietnam, playing a pivotal and leading role in the economy, accompanying and serving the country's development.
 48061;PT CarbonX Bumi Harmoni (CarbonX);Indonesia;Private company;https://carbonxco.com/;;PT Carbon X Bumi Harmoni (CarbonX) is an Indonesian end-to-end carbon project developer and sustainability consultancy. Led by CEO Dessi Yuliana, the firm focuses on high-impact nature-based solutions, community engagement, and climate technology to generate carbon credits.
 48062;PT Nusantara Climate Initiative (NCI);Indonesia;Private company;https://nusantaraclimate.co.id/;;The Nusantara Climate Initiative (NCI) is an Indonesian-based organization dedicated to advancing Nature-Based Solutions (NbS) for climate resilience and sustainable development. NCI integrates ecosystem restoration, forest protection, and blended financing to mitigate climate change, preserve biodiversity, and empower local communities through sustainable livelihoods.
 48075;Beijing Fengguang Infinite Wind Energy Co. Ltd.;Cambodia;Private company;;;Beijing Fengguang Infinite Wind Energy Co. Ltd. (北京風光無限風能有限公司) is a Chinese-backed renewable energy company. It is operating internationally, holding a 150-megawatt (MW) allocation to develop wind power projects in Mondulkiri Province, Cambodia.
@@ -13683,8 +13726,45 @@ The group endeavours to be a cost and quality front runner by achieving total in
 48124;Misra Group;India;Private company;https://misragroup.in/;;
 48126;Kurmitar Iron Ore Mining Private Limited (KIOMPL);India;Private company;;;Kurmitar Iron Ore Mining Private Limited (KIOMPL) is an active Indian mining company operating the OMC Kurmitar Mine located in the mineral-rich Sundargarh district of Odisha. Incorporated in October 2019, KIOMPL operates as a subsidiary within the Adani Group framework and supplies iron ore exclusively to the state-owned Odisha Mining Corporation (OMC) under a 25-year agreement
 48127;Adani Enterprises Limited (AEL);India;Asset management firm;https://www.adanienterprises.com/;;Adani Enterprises Limited is a publicly traded multinational conglomerate and India's largest listed business incubator. As the flagship company of the Adani Group, it focuses on large-scale infrastructure projects, energy and utilities, transport and logistics, and natural resource
+48128;UA RENERGY LLC;Ukraine;Private company;;;"National identification code - 45475068.
+The ultimate beneficiary is Vitaliy Borisovich Antonov, who has Swiss citizenship."
 48133;National Hydroelectric Power Corporation (NHPC) Limited;India;Stock-exchange listed company;https://www.nhpcindia.com/welcome/page/1;;"NHPC Limited is the largest hydropower development organization in India, with capabilities to undertake all the activities from conceptualization to commissioning of hydro projects. NHPC has also diversified in the field of Solar & Wind energy development etc.
  
 NHPC was incorporated on November 7, 1975 as a Private Limited Company under the name “National Hydroelectric Power Corporation private Ltd”. NHPC was converted to Public limited company w.e.f. April, 2, 1986. The name of the company was changed to its present name “NHPC Limited” in 2008. NHPC was conferred Miniratna Status by Govt. of India in April, 2008 and became a listed company on NSE and BSE after successfully concluding its IPO in 2009. The company was conferred Navratna status in August, 2024.
  
 NHPC has an authorized share capital of ₹ 17,500 crore, paid up share capital of ₹10,045.03 crores and an investment base (Assets) of ₹ 98463.90 Crore (standalone) as on 31.03.2026. It is an ISO: 9001:2015, ISO-14001:2015 and ISO 45001:2018 certified company. Its vision is “To be a global leading organization for sustainable development of clean power through competent, responsible and innovative values”."
+48138;Alba Viento Power Corporation;Philippines;Private company;https://www.alba-renewables.com/project/botolan-wind/;;Alba Viento Power Corporation is a special-purpose vehicle wholly owned by Alba Renewables Philippines Corp.. They are currently spearheading a massive 300-megawatt (MW) wind farm in Zambales, Philippines, representing a $600 million (₱34 billion) investment aimed at boosting the Luzon grid.
+48139;Alba Renewables Philippines Corp.;Philippines;Private company;;;Alba Renewables Philippines is the Philippine branch of Alba Renewables which is based in Singapore.
+48140;Alba Renewables;Singapore;Private company;https://www.alba-renewables.com/;;Alba Renewables is a Brookfield company developing, building, and operating utility-scale renewable energy infrastructure across Southeast Asia.
+48141;CHPB Development Company;Cambodia;Private company;;;
+48142;Sikkim Urja Limited;India;Private company;;;
+48147;Qingdao Tian Rui Group;China;State-/government (owned) company;;;
+48148;Memot Rubber Plantation Co. Ltd.;Cambodia;Private company;http://www.memot-mrp.com/;;Memot Rubber Plantation Co., Ltd is a leading company in Cambodia’s agro-industrial sector, specializing in rubber cultivation, natural rubber production, and processing. Through its large-scale plantations and technical expertise, the company actively contributes to the development of the rubber industry and to Cambodia’s economic growth.
+48156;SPHP Co. Pte. Ltd.;Singapore;Asset management firm;;;SPHP Co. Pte. Ltd. is a Singapore-registered investment holding firm established in February 2018. The company operates a massive 80-megawatt hydroelectric power plant in the Pursat province of Cambodia via its wholly-owned subsidiary, SPHP (Cambodia) Co. Ltd.
+48158;Office Chérifien des Phosphates Société Anonyme (OCP SA);Morocco;Semi state-owned company;;;
+48164;Zavallivskyi Grafit LLC;Ukraine;Private company;https://zvgraphit.com.ua/;;
+48165;VOLT RISORSES LIMITED;Australia;Private company;https://voltresources.com/;;
+48166;Mogra LLC;Slovakia;Private company;;;
+48176;T.S.M.W. Co., Ltd.;Cambodia;Private company;;;T.S.M.W. Co., Ltd. is a Cambodian company known primarily for its involvement in controversial Economic Land Concessions (ELCs) and large-scale industrial logging operations in the country
+48179;La Banque Centrale Populaire (BCP);Morocco;Stock-exchange listed company;https://www.groupebcp.com;;Listed on the Casablanca Stock Exchange under the ticker BCP.
+48180;Yuzhne Energy LLC;China, Hong Kong Special Administrative Region;Private company;https://yuzhne-energy.com.ua/;;Identification code of company is 41457925.
+48181;Longyuan Power Overseas Investment Co. LTD;China;Semi state-owned company;;;
+48182;Khiro Aziia Investment Limited;China, Hong Kong Special Administrative Region;Investment fund;;;
+48184;Bondy Africa SA;Madagascar;Private company;https://www.bondy.earth/en/a-propos;;Bôndy SA is a Malagasy environmental and agricultural start-up (often stylized as Bôndy). They specialize in restoring landscapes, developing regenerative agriculture, and managing carbon offset projects.
+48189;Central GOK JSC;Ukraine;Private company;https://cgok.metinvestholding.com/uk-ua/;;"National code ID 00190977.
+Legal entity's full name - PRIVATE JOINT STOCK COMPANY ""CENTRAL IRON ORE ENRICHMENT WORKS"""
+48190;Metinvest Management LLC;Netherlands;Private company;;;
+48191;Metinvest LLC;Netherlands;Private company;https://www.metinvestholding.com/;;National code ID 24321697
+48192;la Société Diomaye Granulats;France;Private company;;;
+48193;Groupe Holding Diomaye;France;Private company;;;
+48194;Auren Operações S.A.;Brazil;Private company;https://www.aurenenergia.com.br/;;Auren Operações S.A. is a direct operating subsidiary and corporate vehicle of Auren Energia (Auren Energia S.A.), functioning as part of the parent group's renewable energy generation and administrative structure in Brazil.
+48199;Cargill Tropical Palm Holdings Pte Ltd (CTP);Singapore;Private company;https://www.cargill.co.id/en/palm-oil;;Cargill Tropical Palm Ltd. (operating as Cargill Tropical Palm Holdings) is the dedicated palm oil production and plantation management unit of the American agribusiness corporation Cargill, focusing on sustainable crude palm oil, palm kernel, and related products primarily in Indonesia.
+48201;Cupru Min JSC;Romania;State-/government (owned) company;https://cuprumin.ro/;;"Commercial Registry Number – J01/64/15.02.99;
+Tax ID – 11551757."
+48202;Ministry of Economy, Digitalization, Entrepreneurship, and Tourism of Romania;Romania;Government;https://economie.gov.ro/;;
+48206;ZAKHIDNA WPP LLC;Ukraine;Private company;;;National code - 45109560.
+48207;FFI Holdings LTD;Cyprus;Private company;;;
+48208;ZAKHIDNA WPP 3 LLC;Ukraine;Private company;;;National code - 43884717.
+48209;Lentorex Enterprises LTD;Cyprus;Private company;;;
+48210;Greenville closed non diviversified venture corporate Investment Fund;Ukraine;Investment fund;;;
+48219;Franko Solar LLC;Ukraine;Private company;;;National code - 37058077.
