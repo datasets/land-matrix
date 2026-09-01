@@ -6107,13 +6107,13 @@ In 2019 the Company was terminated due to the reorganization process. The regist
 39660;Boh Plantations Limited (BPL);Cameroon;Private company;;;
 39661;Bui Power Authority;Ghana;Private company;;;
 39663;Sunbird Zimbabwe (Pvt) Ltd;Zimbabwe;Private company;;;
-39664;Myanmar Wanbao Copper Mining Ltd;Myanmar;Private company;;;
+39664;Myanmar Wanbao Copper Mining Ltd (Myanmar Wanbao);Myanmar;Private company;;;Wanbao Mining operates the Letpadaung Mine - a highly controversial mine linked to forced evictions, poor environmental management, and state-sponsored repression - through its subsidiary Myanmar Wanbao Mining Copper Limited (Myanmar Wanbao).
 39665;Unknown buyers;Kenya;Private company;;;
 39666;Unknown (China's DRex Food Group Co., Ltd);Belarus;Private company;;;
 39667;Mayflower Mining Company;Myanmar;Private company;;;
 39668;Alfred Ritter GmbH & Co. KG Nicaragua;Nicaragua;Private company;;;
 39669;TH-Rus Milk Food LLC;Russian Federation;Private company;;;
-39670;CNMC TISCO Nickel Company;Myanmar;Private company;;;
+39670;CNMC TISCO Nickel Company;Myanmar;Private company;;;Established as a joint venture to develop the Tagaung Taung nickel project
 39671;Bella Flowers Ltd;Rwanda;Private company;;;
 39672;Unknown (The TH True Milk Group);Russian Federation;Private company;;;
 39673;Silverlands Zambia Limited (SZL);Zambia;Private company;;;
@@ -7131,7 +7131,9 @@ National ID code: 35353973"
 40651;Semirara Mining and Power Corporation;Philippines;Stock-exchange listed company;http://www.semiraramining.com/home;;
 40652;Unknown operating company (#162590);;;;;
 40653;Philippine Bases Conversion and Development Authority;Philippines;State-/government (owned) company;;;
-40654;Bases Conversion and Development Authority (BCDA);Philippines;Government institution;https://www.bcda.gov.ph/;;The Bases Conversion and Development Authority (BCDA) is a development corporation vested with corporate powers under Republic Act (RA) 7227 (Bases Conversion and Development Act of 1992), signed into law by former President Corazon C. Aquino last March 13, 1992. The BCDA Charter was amended by RA 7917 in 1995, and further amended by RA 9400 in 2007.
+40654;Bases Conversion and Development Authority (BCDA);Philippines;State-/government (owned) company;https://www.bcda.gov.ph/;;"The Bases Conversion and Development Authority (BCDA) is a development corporation vested with corporate powers under Republic Act (RA) 7227 (Bases Conversion and Development Act of 1992), signed into law by former President Corazon C. Aquino last March 13, 1992. The BCDA Charter was amended by RA 7917 in 1995, and further amended by RA 9400 in 2007.
+
+The Bases Conversion and Development Authority (BCDA) does not have a parent company. It is an independent government-owned and controlled corporation (GOCC) under the Office of the President of the Philippines"
 40655;Karla Marksa-2 PE;Ukraine;Private company;;;Code - 34264605
 40656;Vorozhbalatinvest LLC;Ukraine;Private company;;;"National code: 34236384
 In March 2022, a Russian air strike damaged the company's property worth more than UAH 21 million."
@@ -7876,7 +7878,7 @@ The beneficiary owner is Omelianenko Oksana Oleksandrivna."
 41451;Lazi Bay Resources Development, Inc. (LBRDI);Philippines;Private company;;;
 41452;Philex Mining Corporation (PMC);Philippines;Stock-exchange listed company;https://www.philexmining.com.ph/;;Philex Mining Corporation was incorporated in the Philippines in 1955 and has been listed in the Philippine Stock Exchange since November 23, 1956. PMC, PGPI (a wholly-owned subsidiary incorporated in the Philippines), and PMC, Silangan Mindanao Exploration Co. Inc. (SMECI) and its subsidiary, SMMCI, both wholly-owned by PMC and incorporated in the Philippines, are primarily engaged in the large-scale exploration, development, and utilization of mineral resources.
 41453;"Zvenyhorodska branch of SPF ""Urozhay""";Ukraine;;;;
-41454;Zambales Diversified Metals Corporation;Philippines;Private company;;;
+41454;Zambales Diversified Metals Corporation (ZDMC);Philippines;Private company;;;Zambales Diversified Metals Corporation (ZDMC) operates the Sta. Cruz-Candelaria Mining Project in Barangay Lucapon South in Santa Cruz and Barangay Uacon in Candelaria. The project involves the extraction of nickel laterite and associated metallic ores from a 3,765.3853-hectare area covered by MPSA No. 191-2004-III, granted on 22 May 2004 to Crau Minerals Resources Corporation. The MPSA expires in May 2029. The rights over the MPSA were transferred by Crau Minerals Resources Corporation to ZDMC by Deed of Assignment which was approved by the DENR on 5 March 2010.
 41455;Panapino Mining Inc.;Philippines;Private company;;;
 41456;Glicerio C. Pescador Jr.;Philippines;Individual entrepreneur;;;
 41457;Itogon Suyoc Resources, Inc.;Philippines;Private company;;;
@@ -7896,7 +7898,7 @@ The beneficiary owner is Omelianenko Oksana Oleksandrivna."
 41471;Maria Cruz Del Gallego;Philippines;Individual entrepreneur;;;
 41472;South Davao Development Co., Inc.;Philippines;Stock-exchange listed company;;;
 41473;MRL Gold Philippines, Inc.;Philippines;Private company;;;
-41474;Aglubang Mining Corp.;Philippines;Stock-exchange listed company;;;
+41474;Aglubang Mining Corporation;Philippines;Private company;;;Aglubang Mining Corporation is classified as a private mineral exploration and development company registered in the Philippines. It has historically operated as a subsidiary or affiliate linked to international firms like Crew Development Corporation/Crew Minerals, focusing on nickel and mineral properties in Mindoro
 41475;Concordia R. Llave;Philippines;Individual entrepreneur;;;
 41476;GML Corporation;Philippines;Private company;;;
 41477;Epetacio Du. Beltran;Philippines;Individual entrepreneur;;;
@@ -7997,6 +7999,7 @@ It was established in 1956, as the private-sector arm of the World Bank Group, t
 41591;Robust Rock Resources, Inc.;Philippines;Private company;;;
 41592;Claver Mineral Development Corporation;Philippines;Private company;;;
 41593;Pio B. Castillo, Jr.;Philippines;Individual entrepreneur;;;
+41596;NK Ventures (Cambodia) Ltd.;Cambodia;Private company;;;NK Ventures (Cambodia) Ltd. is an Indian-owned agribusiness company that received a 1,200-hectare Economic Land Concession (ELC) in early 2010 to develop a sugarcane plantation in the Ampil and Koki communes of Svay Rieng province's Romeas Hek district in Cambodia.
 41597;PDA (Cambodia) Co. Ltd.;Cambodia;Private company;;https://opencorporates.com/companies/kh/00017716;Company is based in Cambodia but has Korean Investors and a Korean CEO. Parent company was unable to be identified
 41599;Newmont Ghana Gold LTD;Ghana;Private company;https://www.newmontgoldcorp.com;;
 41601;ABN AMRO;Netherlands;Commercial Bank;https://www.abnamro.com/en/about-abnamro/profile/index.html;;
@@ -8102,7 +8105,7 @@ SLA was acquired by the SIVA group."
 41725;TTY Corporation Co. Ltd,;Cambodia;Private company;;;
 41726;Boeung Ket - Long Sreng;Cambodia;Private company;;;
 41727;Managment company ULF LLC;Ukraine;;;;
-41728;Agrocompany Prykarpattya LLC;Ukraine;Private company;;;
+41728;Agrocompany Prykarpattya LLC;Ukraine;Private company;;;National code 41481188
 41729;Binh Phuoc Kratie Rubber 1 Company;Vietnam;Private company;;;
 41732;Mok Chhay Import Export Co. Ltd.;Cambodia;Private company;;;
 41733;Suoy Chheng Import Export Co. Ltd.;Cambodia;Private company;;https://opencorporates.com/companies/kh/00014033;
@@ -11302,7 +11305,8 @@ The company was initially created to target the civil construction sector. The c
 45132;Cosco Capital, Inc.;Philippines;Stock-exchange listed company;https://www.coscocapital.com/;;formerly Alcorn Gold Resources Corporation
 45133;Solid Earth Development Corporation;Philippines;Private company;https://cctconst.com/portfolio-view/solid-earth-development-corp/;https://web.facebook.com/p/Solid-Earth-Development-Corporation-100057113154402/?_rdc=1&_rdr;
 45134;Pacific Nickel Philippines, Inc. ;Philippines;Private company;;;
-45137;Rio Tuba Nickel Mining Corporation (RTN);Philippines;Private company;https://www.facebook.com/responsibleminingisrealatRTN/;https://nickelasia.com/subsidiaries/rio-tuba-nickel-mining-corporation;
+45137;Rio Tuba Nickel Mining Corporation (RTN);Philippines;Private company;https://nickelasia.com/subsidiaries/rio-tuba-nickel-mining-corporation;;"RTN was incorporated on July 15, 1969 to develop the nickel ore deposits discovered at the Rio Tuba mine site in 1967. It was granted rights over the Rio Tuba property in 1970 and commenced mining in 1975. RTN made its first commercial shipment in 1977. RTN’s mining authority at Rio Tuba derives from an MPSA No. 114-98-IV Amended initially covering an area of 990 hectares for the first 25-year term. The MPSA was then amended on October 28, 2019, to include an area covered by a separate MPSA application, thereby
+increasing the area to an aggregate of 4,538 hectares. On December 2, 2021, the MPSA renewal application of Rio Tuba was approved by the MGB and a fresh 25-year MPSA term, commencing on October 8, 2021, was granted subject to the issuance by the National Commission for Indigenous Peoples (NCIP) of a Certification Precondition."
 45138;Global Min-Met Resources, Inc.;Philippines;Private company;;;
 45139;Island Quarry and Aggregates Corporation (IQAC);Philippines;Private company;;;No official PAGE
 45140;Cebu Landmasters, Inc. (CLI);Philippines;Stock-exchange listed company;https://www.cebulandmasters.com/;;Jose R. Soberano (owner of: Cebu Landmasters)
@@ -13637,6 +13641,7 @@ Dung Quat 2 Industrial Park: 780 ha"
 48008;Hainan Mining Co. Ltd. (Chine);China, Hong Kong Special Administrative Region;Private company;;;
 48010;Uis Tin Mining Company (UTMC);Namibia;Private company;https://andradamining.com/assets/uis/;;
 48011;Andrada Mining limited;Namibia;Stock-exchange listed company;https://andradamining.com/about-us/;;Company is listed on the Namibian Stock Exchange
+48012;DMCI Holdings, Inc. (DMC);Philippines;Stock-exchange listed company;https://www.dmciholdings.com/;;DMCI Holdings, Inc. (DMC) is a leading Filipino publicly listed holding company established in 1995 by the Consunji family, specializing in construction, real estate, energy, and mining. As the first construction-focused firm on the PSE, it operates major subsidiaries including D.M. Consunji, Inc., DMCI Homes, Semirara Mining and Power Corporation, DMCI Power, and DMCI Mining.
 48021;Vung Ang Economic Zone Service and Infrastructure Center;Vietnam;Private company;;;
 48022;Yuzhniy GOK JSC;Ukraine;Private company;;;"National code: 00191000.
 Yuzhniy GOK was previously controlled by the Metinvest Group and Lanebrook Ltd. (formerly the majority shareholder of Evraz Group, owned by Russian billionaire Roman Abramovich, which withdrew from the group’s shareholder structure in 2018), which acquired 50% of Yuzhniy GOK’s shares from the Privat Group in late 2007. In 2022, Evraz representatives were removed from the company’s supervisory board."
@@ -13738,13 +13743,34 @@ NHPC has an authorized share capital of ₹ 17,500 crore, paid up share capital 
 48140;Alba Renewables;Singapore;Private company;https://www.alba-renewables.com/;;Alba Renewables is a Brookfield company developing, building, and operating utility-scale renewable energy infrastructure across Southeast Asia.
 48141;CHPB Development Company;Cambodia;Private company;;;
 48142;Sikkim Urja Limited;India;Private company;;;
+48144;Thach Khe Iron Ore Joint Stock Company (TIC);Vietnam;Semi state-owned company;;;Thach Khe Iron Ore Joint Stock Company (TIC) was established in 2006 as a joint venture between multiple domestic investors, with a view to developing the TKIOM deposit in order to provide iron ore to meet domestic demand and for sales to the export market. The TIC has nine main domestic shareholders, most of which are state-owned enterprises.
 48147;Qingdao Tian Rui Group;China;State-/government (owned) company;;;
 48148;Memot Rubber Plantation Co. Ltd.;Cambodia;Private company;http://www.memot-mrp.com/;;Memot Rubber Plantation Co., Ltd is a leading company in Cambodia’s agro-industrial sector, specializing in rubber cultivation, natural rubber production, and processing. Through its large-scale plantations and technical expertise, the company actively contributes to the development of the rubber industry and to Cambodia’s economic growth.
+48150;Vietnam Steel Corporation (Vnsteel);Vietnam;State-/government (owned) company;https://vnsteel.vn/;;Vietnam Steel Corporation (VNSTEEL) was established on the basis of merging the production and trading firms in Vietnam's steel industry, namely Metal Corporation and Steel Corporation. The birth of Vietnam Steel Corporation is associated with the development history of the country and the metallurgical industry, laying a solid foundation for the development of the domestic steel industry. Currently, VNSTEEL operates under the model of a Joint Stock Company with nearly 40 subsidiaries, join ventures and affiliates.
+48151;Ha Tinh Minerals and Trading Joint - Stock Corporation (MITRACO);Vietnam;Semi state-owned company;https://mitraco.com.vn/;;"Ha Tinh Minerals and Trading Corporation (MITRACO) was established under Decision No. 61/2003/QD-TTg dated April 18, 2003, by the Prime Minister, operating under the Parent - Subsidiary model. The predecessor of MITRACO was the Ha Tinh Titanium Extraction, Processing, and Export Company, established under Decision No. 1150 QD/UB-CN dated August 6, 1996, by the People's Committee of Ha Tinh Province.
+
+Following Document No. 44/TTg-DMDN dated January 10, 2012, of the Prime Minister, Mitraco took steps to convert from a 100% state-owned enterprise to a joint-stock company."
+48152;Joint Stock Commercial Bank for Investment and Development of Vietnam;Vietnam;Commercial Bank;https://bidv.com.vn/en/ve-bidv;;BIDV is a Vietnamese state-owned bank in Vietnam. It is the country's biggest bank by assets ($72 billion USD) as of June 2021. According to the United Nations Development Programme report on the 100 largest enterprises in Vietnam, BIDV is in the 4th position after Agribank, VNPT, and EVN.
 48156;SPHP Co. Pte. Ltd.;Singapore;Asset management firm;;;SPHP Co. Pte. Ltd. is a Singapore-registered investment holding firm established in February 2018. The company operates a massive 80-megawatt hydroelectric power plant in the Pursat province of Cambodia via its wholly-owned subsidiary, SPHP (Cambodia) Co. Ltd.
 48158;Office Chérifien des Phosphates Société Anonyme (OCP SA);Morocco;Semi state-owned company;;;
+48160;PT Yiwan Mining;Indonesia;Private company;;;PT. Yiwan Mining, a limited liability company incorporated in the Republic of Indonesia, operates a 4,001-hectares mine in the Village of Mekarsari, the District of Simpang Empat (formerly Batulicin), Regency of Tanah Bumbu, in the Province of South Kalimantan, the Republic of Indonesia. As of October 09, 2011, it was substantially owned by a certain Mr. Bin (~99.83%), with the remaining shares held by a certain Mr. Suhandi.
+48161;PT Freeport Indonesia;Indonesia;Private company;https://ptfi.co.id/;;On December 26, 1991, PT Freeport Indonesia Company was established as a limited liability company under Indonesian law, succeeding Freeport Indonesia Incorporated (FII), the U.S. company that entered into a Contract of Work (CoW) with the Government of Indonesia in 1967 to develop the Grasberg copper and gold mine in Mimika, Papua. The company was incorporated under Notarial Deed No. 102 of R. Arie Soetardjo, S.H., and was renamed PT Freeport Indonesia on April 26, 2000.
+48162;Freeport-McMoran Inc. (FCX);United States of America;Stock-exchange listed company;https://fcx.com/;;"Freeport-McMoRan (FCX) is a leading international metals company with the objective of being foremost in copper. It was incorporated under the laws of the state of Delaware on November 10, 1987, and is headquartered in Phoenix, Arizona. FCX's portoflio of assets includes the Grasberg minerals district in Indonesia, one of the world's largest copper and gold deposits; and significant operations in the Americas, including the large-scale Morenci minerals district in North America and the Cerro Verde operation in South America.
+
+FCX is a founding member of the International Council on Mining and Metals (ICMM). Implementation of the ICMM Sustainable Development Framework across the company results in site-level sustainability programs that meet responsible sourcing objectives for the global marketplace.
+
+FCX's stock trades on the New York Stock Exchange under the ticker symbol “FCX.”"
+48163;PT Indonesia Papua Metal Dan Mineral (PT IPMM);Indonesia;State-/government (owned) company;;;Holds 25% share ownership of PT Freeport Indonesia, the company operating in the Grasberg copper-gold mining district.
 48164;Zavallivskyi Grafit LLC;Ukraine;Private company;https://zvgraphit.com.ua/;;
 48165;VOLT RISORSES LIMITED;Australia;Private company;https://voltresources.com/;;
 48166;Mogra LLC;Slovakia;Private company;;;
+48169;PT Dairi Prima Mineral;Indonesia;Private company;https://ptdpm.co.id/about-us/history-geography/;;"PT Dairi Prima Mineral (DPM), a joint venture between IDX-listed PT Bumi Resources Minerals Tbk and China Nonferrous Metal Industry’s Foreign Engineering & Construction (NFC China), holds a Contract of Work (CoW) to explore for minerals in a 27,420-hectares area (later reduced to 24,636 hectares) located in the North Sumatra and Aceh provinces. It is currently based in Dairi's Sopokomil village, near the caldera of Lake Toba.
+
+DPM’s Anjing Hitam and Lae Jahe Projects have 11 million tones of ore reserves, and it has one of the highest grade of Zinc deposit in the world (11.5% Zn ,6.8% Pb)."
+48170;Carren Holdings Corporation Limited;China, Hong Kong Special Administrative Region;Investment fund;;;"Carren Holdings is a Hong Kong registered investment firm which is ultimately controlled by China’s State-owned Assets Supervision and Administration Commission of the State Council (SASAC), a government agency, through the state-owned investment holding company China Reform Holdings Corporation (中国国新控股有限责任公司) and its subsidiary CNIC Corporation Limited (國新國際投資有限公司).
+
+In April 2024, Carren Holdings Corporation Limited committed to provide a loan of $245 million for the development of the Dairi Prima Mineral-led zinc mine."
+48171;China Nonferrous Metal Industry’s Foreign Engineering and Construction Co., Ltd. (NFC);China;Stock-exchange listed company;https://nfc.cnmc.com.cn/;;China Nonferrous Metal Industry's Foreign Engineering and Construction Co., Ltd (hereinafter referred to as NFC) was established in 1983 with the approval of the State Council. On April 16, 1997, the reorganization was completed, high-quality assets were extracted and restructured to form NFC, which was listed on the Shenzhen Stock Exchange (stock code: 000758), and held by China Nonferrous Metal Mining (Group) Co., Ltd., a large central government-owned enterprise in China.
 48176;T.S.M.W. Co., Ltd.;Cambodia;Private company;;;T.S.M.W. Co., Ltd. is a Cambodian company known primarily for its involvement in controversial Economic Land Concessions (ELCs) and large-scale industrial logging operations in the country
 48179;La Banque Centrale Populaire (BCP);Morocco;Stock-exchange listed company;https://www.groupebcp.com;;Listed on the Casablanca Stock Exchange under the ticker BCP.
 48180;Yuzhne Energy LLC;China, Hong Kong Special Administrative Region;Private company;https://yuzhne-energy.com.ua/;;Identification code of company is 41457925.
@@ -13758,13 +13784,73 @@ Legal entity's full name - PRIVATE JOINT STOCK COMPANY ""CENTRAL IRON ORE ENRICH
 48192;la Société Diomaye Granulats;France;Private company;;;
 48193;Groupe Holding Diomaye;France;Private company;;;
 48194;Auren Operações S.A.;Brazil;Private company;https://www.aurenenergia.com.br/;;Auren Operações S.A. is a direct operating subsidiary and corporate vehicle of Auren Energia (Auren Energia S.A.), functioning as part of the parent group's renewable energy generation and administrative structure in Brazil.
+48196;Joint Venture Between Coziron Resources Limited and PT Galian Endapan Buana (GEB);Indonesia;Private company;;;Established in September 2008 to develop the proposed AGAM Iron Sand Project in West Sumatra, Indonesia
+48197;CZR Resources Ltd (formerly Coziron Resources Limited);Australia;Stock-exchange listed company;https://www.czrresources.com/;;"CZR is a Western Australia focused mineral exploration and development company with five projects, all in joint-venture with its major shareholder, Mr Mark Creasy. 
+
+CZR’s primary development asset was the Robe Mesa iron ore deposit, part of the Yarraloola project. The Company announced the results of the Definitive Feasibility Study  (DFS) in October 2023, targeting a production rate of 3.5Mtpa - 5Mtpa over an initial 8-year mine life (ASX announcement 10 October 2023).
+
+CZR, then known as Coziron Resources Limited, previously operated in Indonesia but later discontinued its operations to focus on newly acquired projects in Western Australia."
+48198;PT Galian Endapan Buana (GEB);Indonesia;Private company;;;"In 2008, PT GEB entered into a joint venture agreement with Australian-based Coziron Resources Limited (now CZR Resources Ltd) to develop the AGAM Iron Sand Project in West Sumatra, Indonesia.
+
+No publicly available information confirming whether the company remains operational to date."
 48199;Cargill Tropical Palm Holdings Pte Ltd (CTP);Singapore;Private company;https://www.cargill.co.id/en/palm-oil;;Cargill Tropical Palm Ltd. (operating as Cargill Tropical Palm Holdings) is the dedicated palm oil production and plantation management unit of the American agribusiness corporation Cargill, focusing on sustainable crude palm oil, palm kernel, and related products primarily in Indonesia.
 48201;Cupru Min JSC;Romania;State-/government (owned) company;https://cuprumin.ro/;;"Commercial Registry Number – J01/64/15.02.99;
 Tax ID – 11551757."
 48202;Ministry of Economy, Digitalization, Entrepreneurship, and Tourism of Romania;Romania;Government;https://economie.gov.ro/;;
+48203;SCANTOGO Mines S.A;Togo;Private company;;;
 48206;ZAKHIDNA WPP LLC;Ukraine;Private company;;;National code - 45109560.
 48207;FFI Holdings LTD;Cyprus;Private company;;;
 48208;ZAKHIDNA WPP 3 LLC;Ukraine;Private company;;;National code - 43884717.
 48209;Lentorex Enterprises LTD;Cyprus;Private company;;;
 48210;Greenville closed non diviversified venture corporate Investment Fund;Ukraine;Investment fund;;;
+48215;Shri Rajesh P. Timblo;India;Individual entrepreneur;;;Controls Godbaem Ou Cuttiem (Curpem) Mine (TC No. 63/51)
 48219;Franko Solar LLC;Ukraine;Private company;;;National code - 37058077.
+48222;Philex Gold Philippines Inc. (PGPI);Philippines;Private company;;;The Sibutad Project is managed by Philex Gold Philippines, Inc. (PGPI), a wholly-owned subsidiary of Philex Mining Corporation, located in Zamboanga del Norte under Mineral Production Sharing Agreement MPSA-063-97-IX.
+48223;Atlas Global Energy LLC;Ukraine;Private company;;;"National code - 40619175. Included in the corporate group ""Eksim Holding"".
+The ultimate beneficiaries of the company are Tivnikli Ebubekir and Tivnikli Fatma Betül, who are Turkish citizens."
+48224;Age Investment Holding B.V.;Netherlands;Private company;;https://opencorporates.com/companies/nl/34317256;
+48225;Zaporizkyi iron-ore plant PJSC;Ukraine;Private company;;;National code 00191218
+48227;Ovidiopol Energy LLC;Ukraine;Private company;;;National code - 37066931. One of the company's ultimate beneficiaries is the German citizen Röger Dietmar Heiner
+48228;NMDC-CMDC Limited (NCL);India;Private company;;;"Leaseholder of Bailadila Depost-13; joint venture between the National Mineral Development Corporation (NMDC) and the Chhattisgarh Mineral Development Corporation Ltd (CMDC)."
+48231;Element ASA;Norway;Stock-exchange listed company;http://www.intexresources.com/;;"Element ASA is an international mineral exploration and development company based in Oslo, Norway. Its main focus has been the massive, controversial Mindoro Nickel Project on Mindoro Island in the Philippines, which faced strong local environmental opposition and provincial mining bans.
+
+was originally named Intex Resources ASA,"
+48239;DMCI Mining Corporation (DMC);Philippines;Private company;;;DMCI Mining currently operates two mines in Santa Cruz, Zambales, through Zambales Diversified Metals Corporation (ZDMC) and Zambales Chromite Mining Company (ZCMC). The company is also actively developing new mining sites in Palawan to expand its operations through Berong Nickel Corporation (BNC).
+48240;KSK Consulting JSC;Czech Republic;Private company;;;The corporate identification number (IČO) is 25543041
+48241;Minerfin JSC;Slovakia;Private company;https://www.minerfin.sk/en/;;Company Id. (IČO): 31 401 333
+48242;"Integrated Iron and Steel Works ""Zaporizhstal"" PJSC";Ukraine;Private company;;;National code 00191230
+48243;Midland Kepital Menedzhment LLC;Ukraine;Private company;;;National code 33104302
+48244;Istreyd LLC;Bahamas;Private company;;;
+48245;Global Steel Investments Limited;United Kingdom of Great Britain and Northern Ireland;Stock-exchange listed company;;;National ID: 05188128
+48246;Kyiv Sekiuritiz Hrup LLC;Ukraine;Private company;;;National code 25590014
+48247;ZAKHIDNA WPP 5 LLC;Ukraine;Private company;;;National code - 45977897.
+48248;Windpark West-R LLC;Ukraine;Private company;https://wwpp.com.ua/;;National code - 44105408
+48249;MDG closed non-diversified venture corporate invest fund JSC;Ukraine;Investment fund;;;National code - 45439166.
+48251;Pacific Metals Co., Ltd.;Japan;Stock-exchange listed company;https://www.pacific-metals.co.jp/en/;;Pacific Metals Co Ltd. is a Japanese company. It is listed on the Nikkei 225. The company manufactures and sells ferronickel products. Through its four subsidiaries and seven associate companies, Pacific Metals engages in the complete production cycle from refining ore, to product creation, to sales, to energy production and waste recycling. In 2015, a comparison of Pacific Metals with three other Asian metal producers yielded evidence of a stable production model with sales for the quarter ended in March 2015 reported at ¥61.23 billion (US$508.17 million) as compared to 2010 sales of ¥58.49 billion. The data represents overall sales, as the electrical segment showed a decrease in sales over the same period of ¥1.36 billion.
+48252;Mt. Labo Exploration and Development Corporation (MLEDC);Philippines;Private company;;;Mt. Labo Exploration and Development Corporation ('MLEDC') currently holds a consolidated mineral production sharing agreement, MPSA No. MLC-MRD-459-Amended I, covering two mining projects in Labo, Camarines Norte, Bicol Philippines.
+48256;Svyatogor JSC;Russian Federation;Stock-exchange listed company;http://www.svg.ru/;;National code 6618000220
+48257;Ural Mining and Metallurgical Company JSC;Russian Federation;;http://www.ugmk.com/;;
+48258;Sorentomines, Inc.;Philippines;Private company;;;"Sorentomines, Inc. is a mining company duly organized under Philippine law on 4 March 2008. It is principally owned by Mr. Dave A. Lerio, Mr. William Francis G. Hernandez, and Wildpeak Trading Limited, a limited company based in the British Virgin Islands.
+
+On May 30, 2024, the company entered into an Operating Agreement with Mina Tierra Gracia, Inc. to develop and commence mining operations within its MPSA in Zambales, Philippines."
+48260;Dizon Copper-Silver Mines, Inc. (DCSMI);Philippines;Stock-exchange listed company;https://www.dizminings.com/;;"Dizon Copper-Silver Mines, Inc. (DCSMI) is a stock corporation duly organized on August 18, 1966 under the laws of the Republic of the Philippines to acquire, purchase, lease, hold, work and operates mines, mining claims, grounds, or lodes in the Philippines or in foreign countries. On June 15, 2016, the Securities and Exchange Commission approved the amended to the Articles of Incorporation extending the life of the  Company for another fifty (50) years from August 17, 2016 to August 16, 2066. Its registered office address is 7th Floor Peaksun Building, 1505 Princeton Street, Barangay Wack-Wack, Greenhills East, Mandaluyong City, Metro Manila. The Company is in the business of mining and is listed in the Philippine Stock Exchange since 1988.
+
+On October 10, 2012, the Company submitted to MGB-Region III the “Work Program on the Environmental Mitigating Measures and Rehabilitation Plan” of the dam structures to address all major environmental impacts of the existing site. On February 19, 2013, the MGB Region III issued a Certification/Approval for the “Work Program on the Environmental Mitigating and Rehabilitation Plan” for the Bayarong Tailings Dam subject to compliance of certain requirements and conditions."
+48261;Abra Mining and Industrial Corporation (AR);Philippines;Stock-exchange listed company;;;"Abra Mining & Industrial Corporation (AR) was incorporated on September 28, 1964, to engage in the exploration, development, exploitation, processing, manufacture, extraction, milling and sale of cement and metal concentrate, marble, building materials and other minerals such as copper, gold, silver, iron and lead. AR is also engaged in the processing and manufacture of non-metals for industrial and commercial purposes at wholesale only.
+
+In 2024, the Philippine Stock Exchange (PSE) announced a decision to initiate the involuntary delisting of AR after violations were found by the Securities and Exchange Commission (SEC). 
+
+The SEC earlier imposed fines on the directors, officers, transfer agent, and certain stockholders of Abra Mining after its shares were found conducting “unauthorized and fraudulent trading” of unissued and unlisted shares from 2015 to 2019.
+
+No final delisting order has been publicly released, while trading in the company’s shares has remained suspended since March 2021."
+48262;China Nickel Resources Holdings Co Ltd;China, Hong Kong Special Administrative Region;Stock-exchange listed company;;;China Nickel Resources Holdings Co Ltd (Stock Code: 02.889.HK) is an investment holding company incorporated in the Cayman Islands. It focused on manufacturing and selling iron, steel, and nickel-iron resources, alongside ore trading. Trading of its shares on the Hong Kong Stock Exchange has been suspended since April 2015.
+48263;United States Department of State;United States of America;Government;https://www.state.gov/about/;;The U.S. Department of State is the executive branch cabinet agency of the U.S. government responsible for leading foreign policy, managing international relations, handling diplomatic missions, and protecting U.S. citizens abroad
+48264;Abrakadabra Goldfields Corporation;Philippines;Private company;;;Abrakadabra Goldfields Corporation was established as a joint venture between Olympus Pacific Minerals Inc. (OYM), through its wholly-owned subsidiary Kadabra Mining Corporation (KMC), Jabel Corporation, Abra Mining and Industrial Corporation (AMIC), and PhilEarth Mining Corporation in respect of the Capcapo Gold Property in Abra Province.
+48265;Kadabra Mining Corporation;Philippines;Private company;;;KADABRA MINING CORPORATION (“KMC”) is a corporation organized and existing under thelaws of the Philippines and a wholly-owned subsidiary of OYM, having its principal office  at 26 Finlandia Townhomes, P. Binay Street, San Isidro Village, Makati City, Metro Manila, Philippines, represented by its Chairman and President, Mr. Charles A. F. Barclay.
+48266;PhilEarth Mining Corporation (PMC);Philippines;Private company;;;PHILEARTH MINING CORPORATION (“PMC”) is a corporation in the process of being organized under the laws of the Philippines represented by its promoter and incorporator, Mr. Alfredo S. Cruz residing at Unit 27, Finlandia Townhomes, P. Binay St., San Isidro Village, Makati City, Philippines.
+48275;South Africa Mainstream Renewable Power Khobab;South Africa;Private company;https://www.mainstreamrp.com/markets-projects/africa/south-africa/khobab-wind-farm/;;South Africa Mainstream Renewable Power Khobab Wind (RF) Pty Ltd is the special-purpose corporate entity behind the 140-megawatt Khobab Wind Farm in South Africa's Northern Cape. Developed by Mainstream Renewable Power, the project features 61 wind turbines and operates alongside its sister project, the Loeriesfontein 2 Wind Farm
+48283;JSC Kovdorsky GOK;Russian Federation;Private company;https://www.eurochemgroup.com/;;
+48284;JSC EuroChem CIH;Russian Federation;Private company;;;national code 7721230290 / 772501001
+48285;EuroChem Group AG;Switzerland;;https://www.eurochemgroup.com/;;
+48286;Azerbaijan International Mining Company LTD;Azerbaijan;Private company;https://www.aimc.az/;;
+48287;Anglo Asian Mining PLC;United Kingdom of Great Britain and Northern Ireland;Stock-exchange listed company;https://www.angloasianmining.com/;;Company number 05227012
